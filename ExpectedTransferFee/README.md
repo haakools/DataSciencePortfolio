@@ -16,7 +16,7 @@
 ### A "fact" from the popular game Football Manager is that the prime age of a player is from the age 27 to 32. Here the player has accumulated large amount of experience while still having great athletical abilities. After a player has reached around 30 years old, the transfer fee for said player should then show a statiscial decay.
 
 ### After these steps are constructed, one should be able to create a VERY intuitive model for calculating the expected transfer fee. This is hypothesised taking the form of
- $TF = SK (T-t) CV *\tau$
+<img src="https://render.githubusercontent.com/render/math?math=TF = SK (T-t) CV *\tau"> $$
 ### where $TF$ is the transfer fee, $SK$ is the "skill value", $T$ is the date of contract expiry, $t$ is the current date, $CV$ is the "contract value" when the player last signed his contract and $\tau$ is the age factor, which ranges from $[0,1]$ with a bell shaped curve. 
 
 
