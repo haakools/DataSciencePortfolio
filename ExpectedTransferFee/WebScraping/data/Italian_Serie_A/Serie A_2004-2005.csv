@@ -1,0 +1,543 @@
+,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+0,Fernando Menegazzo,br BRA,MF,Siena,23,1981,6,0,150,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+1,Christian Abbiati,it ITA,GK,Milan,27,1977,3,2,263,2.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+2,Nelson Abeijón,uy URU,MF,Cagliari,31,1973,30,28,"2,353",26.1,4,0,4,0,0,12,1,0.15,0.00,0.15,0.15,0.15,Matches,2004-2005
+3,Giuseppe Abruzzese,it ITA,DF,Lecce,23,1981,7,4,333,3.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+4,Pietro Accardi,it ITA,DF,Palermo,21,1982,1,1,90,1.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+5,Daniele Adani,it ITA,DF,Brescia,30,1974,13,11,948,10.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+6,Adriano,br BRA,DF,Atalanta,22,1982,10,7,665,7.4,2,0,2,0,0,2,0,0.27,0.00,0.27,0.27,0.27,Matches,2004-2005
+7,Adriano,br BRA,FW,Inter,22,1982,30,26,"2,274",25.3,16,1,14,2,4,2,0,0.63,0.04,0.67,0.55,0.59,Matches,2004-2005
+8,Federico Agliardi,it ITA,GK,Brescia,21,1983,1,0,45,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+9,Alessandro Agostini,it ITA,DF,Cagliari,25,1979,35,35,"3,150",35.0,0,2,0,0,0,4,1,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+10,Demetrio Albertini,it ITA,"FW,MF",Atalanta,32,1971,14,14,"1,159",12.9,1,1,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches,2004-2005
+11,Marcello Albino,it ITA,MF,Cagliari,32,1971,14,3,463,5.1,0,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,2004-2005
+12,Riccardo Allegretti,it ITA,MF,Chievo,26,1978,6,0,85,0.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+13,Matías Almeyda,ar ARG,"DF,MF",Brescia,30,1973,5,5,384,4.3,0,1,0,0,0,0,1,0.00,0.23,0.23,0.00,0.23,Matches,2004-2005
+14,Édgar Álvarez,hn HON,"DF,MF",Cagliari,24,1980,15,3,489,5.4,1,1,1,0,0,1,0,0.18,0.18,0.37,0.18,0.37,Matches,2004-2005
+15,Amauri,it ITA,FW,Chievo,24,1980,23,13,"1,273",14.1,2,1,2,0,0,3,1,0.14,0.07,0.21,0.14,0.21,Matches,2004-2005
+16,Massimo Ambrosini,it ITA,MF,Milan,27,1977,22,9,949,10.5,1,1,1,0,0,5,1,0.09,0.09,0.19,0.09,0.19,Matches,2004-2005
+17,Marco Amelia,it ITA,GK,Livorno,22,1982,31,31,"2,746",30.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+18,Raffaele Ametrano,it ITA,MF,Messina,31,1973,3,2,187,2.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+19,Christian Amoroso,it ITA,MF,Bologna,27,1976,23,21,"1,591",17.7,2,0,2,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches,2004-2005
+20,Nicola Amoruso,it ITA,FW,Messina,29,1974,21,9,"1,018",11.3,5,1,4,1,2,1,0,0.44,0.09,0.53,0.35,0.44,Matches,2004-2005
+21,Luca Anania,it ITA,GK,Lecce,24,1980,3,1,154,1.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+22,Tore André Flo,no NOR,FW,Siena,31,1973,29,17,"1,660",18.4,5,1,5,0,0,2,0,0.27,0.05,0.33,0.27,0.33,Matches,2004-2005
+23,Marco Andreolli,it ITA,DF,Inter,18,1986,1,0,36,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+24,Ângelo,br BRA,"DF,MF",Lecce,23,1981,17,7,809,9.0,0,,0,0,,2,0,0.00,,,0.00,,Matches,2004-2005
+26,Francesco Antonioli,it ITA,GK,Sampdoria,34,1969,37,37,"3,268",36.3,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+27,Stephen Appiah,gh GHA,MF,Juventus,23,1980,18,14,"1,313",14.6,2,0,2,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches,2004-2005
+28,Alberto Aquilani,it ITA,MF,Roma,20,1984,29,14,"1,411",15.7,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+29,Andrea Ardito,it ITA,MF,Siena,27,1977,5,0,146,1.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+30,Stefano Argilli,it ITA,MF,Siena,31,1973,24,21,"1,886",21.0,3,0,3,0,0,0,1,0.14,0.00,0.14,0.14,0.14,Matches,2004-2005
+31,Luca Ariatti,it ITA,"DF,MF",Fiorentina,25,1978,30,27,"2,391",26.6,2,2,2,0,0,7,0,0.08,0.08,0.15,0.08,0.15,Matches,2004-2005
+32,Salvatore Aronica,it ITA,DF,Messina,26,1978,30,29,"2,578",28.6,0,1,0,0,0,8,1,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+33,Babù,br BRA,"FW,MF",Lecce,23,1980,15,9,772,8.6,3,3,3,0,0,0,0,0.35,0.35,0.70,0.35,0.70,Matches,2004-2005
+34,Jonathan Bachini,it ITA,MF,Brescia,29,1975,3,3,270,3.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+35,Iacopo Balestri,it ITA,DF,Reggina,29,1975,36,36,"3,197",35.5,0,3,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+36,Pietro Balistreri,it ITA,FW,Palermo,18,1986,2,0,53,0.6,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+37,David Balleri,it ITA,DF,Livorno,35,1969,29,21,"1,978",22.0,0,3,0,0,0,11,1,0.00,0.14,0.14,0.00,0.14,Matches,2004-2005
+38,Simone Barone,it ITA,MF,Palermo,26,1978,35,33,"2,908",32.3,2,2,2,0,0,10,1,0.06,0.06,0.12,0.06,0.12,Matches,2004-2005
+39,Roberto Baronio,it ITA,MF,Chievo,26,1977,29,23,"1,921",21.3,1,2,1,0,0,4,1,0.05,0.09,0.14,0.05,0.14,Matches,2004-2005
+40,Andrea Barzagli,it ITA,DF,Palermo,23,1981,37,37,"3,325",36.9,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+41,Fabio Bazzani,it ITA,FW,Sampdoria,27,1976,14,14,"1,173",13.0,2,,2,0,0,4,0,0.15,,,0.15,,Matches,2004-2005
+42,Fabio Bazzani,it ITA,FW,Lazio,27,1976,15,8,843,9.4,3,,3,0,0,5,0,0.32,,,0.32,,Matches,2004-2005
+43,Francesco Bega,it ITA,DF,Cagliari,29,1974,32,32,"2,834",31.5,0,0,0,0,0,11,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+44,Tijani Belaïd,tn TUN,MF,Inter,16,1987,1,0,11,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+45,Manuel Belleri,it ITA,DF,Udinese,26,1977,21,5,574,6.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+46,Gianpaolo Bellini,it ITA,DF,Atalanta,24,1980,29,29,"2,554",28.4,0,2,0,0,0,7,0,0.00,0.07,0.07,0.00,0.07,Matches,2004-2005
+47,Claudio Bellucci,it ITA,FW,Bologna,29,1975,34,32,"2,745",30.5,10,5,6,4,4,4,0,0.33,0.16,0.49,0.20,0.36,Matches,2004-2005
+48,Emre Belözoğlu,tr TUR,MF,Inter,23,1980,19,12,"1,024",11.4,0,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,2004-2005
+49,Antonino Bernardini,it ITA,MF,Atalanta,30,1974,29,22,"1,923",21.4,1,4,1,0,1,2,0,0.05,0.19,0.23,0.05,0.23,Matches,2004-2005
+50,Vittorio Bernardo,,,Messina,18,1986,2,0,48,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+52,Daniele Berretta,it ITA,MF,Brescia,32,1972,8,4,363,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+53,Gianluca Berti,it ITA,GK,Parma,37,1967,1,1,90,1.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+54,Valerio Bertotto,it ITA,DF,Udinese,29,1975,35,35,"3,081",34.2,0,1,0,0,0,2,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+55,Stefano Bettarini,it ITA,DF,Parma,32,1972,8,8,557,6.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+56,Rolando Bianchi,it ITA,FW,Cagliari,21,1983,25,9,"1,071",11.9,2,4,2,0,0,0,0,0.17,0.34,0.50,0.17,0.50,Matches,2004-2005
+57,Giuseppe Biava,it ITA,DF,Palermo,27,1977,29,29,"2,601",28.9,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+58,Jonatan Binotto,it ITA,MF,Bologna,29,1975,9,2,350,3.9,0,1,0,0,0,1,0,0.00,0.26,0.26,0.00,0.26,Matches,2004-2005
+59,Alessandro Birindelli,it ITA,DF,Juventus,29,1974,12,5,482,5.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+60,Saša Bjelanović,hr CRO,FW,Lecce,25,1979,22,16,"1,244",13.8,5,2,5,0,0,2,0,0.36,0.14,0.51,0.36,0.51,Matches,2004-2005
+61,Manuele Blasi,it ITA,MF,Juventus,23,1980,27,18,"1,728",19.2,0,1,0,0,0,6,0,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+62,Valeri Bojinov,bg BUL,FW,Fiorentina,18,1986,9,5,340,3.8,2,,2,0,0,1,1,0.53,,,0.53,,Matches,2004-2005
+63,Valeri Bojinov,bg BUL,FW,Lecce,18,1986,20,17,"1,458",16.2,11,,11,0,0,4,0,0.68,,,0.68,,Matches,2004-2005
+64,Jorge Bolaño,co COL,MF,Parma,27,1977,22,19,"1,421",15.8,0,1,0,0,0,8,0,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+65,Emiliano Bonazzoli,it ITA,FW,Reggina,25,1979,35,34,"2,948",32.8,8,3,8,0,0,7,0,0.24,0.09,0.34,0.24,0.34,Matches,2004-2005
+66,Daniele Bonera,it ITA,DF,Parma,23,1981,35,35,"3,001",33.3,0,2,0,0,0,9,1,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+67,Marco Borriello,it ITA,FW,Reggina,22,1982,29,5,944,10.5,2,1,2,0,0,6,0,0.19,0.10,0.29,0.19,0.29,Matches,2004-2005
+68,Cesare Bovo,it ITA,DF,Parma,21,1983,31,29,"2,570",28.6,2,2,2,0,0,5,2,0.07,0.07,0.14,0.07,0.14,Matches,2004-2005
+69,Massimo Brambilla,it ITA,MF,Cagliari,31,1973,17,16,"1,250",13.9,0,1,0,0,0,2,1,0.00,0.07,0.07,0.00,0.07,Matches,2004-2005
+70,Mark Bresciano,au AUS,MF,Parma,24,1980,34,31,"2,741",30.5,3,4,3,0,0,3,1,0.10,0.13,0.23,0.10,0.23,Matches,2004-2005
+71,Franco Brienza,it ITA,"FW,MF",Palermo,25,1979,33,30,"2,358",26.2,10,3,10,0,0,1,0,0.38,0.11,0.50,0.38,0.50,Matches,2004-2005
+72,Matteo Brighi,it ITA,MF,Chievo,23,1981,35,33,"2,805",31.2,1,1,1,0,0,5,1,0.03,0.03,0.06,0.03,0.06,Matches,2004-2005
+73,Andrea Briotti,it ITA,DF,Roma,18,1986,1,0,3,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+74,Cristian Brocchi,it ITA,MF,Milan,28,1976,11,7,640,7.1,0,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,2004-2005
+75,Alex Brunner,it ITA,GK,Cagliari,30,1973,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+76,Luca Bucci,it ITA,GK,Parma,35,1969,2,1,115,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+78,Igor Budan,hr CRO,FW,Atalanta,24,1980,27,19,"1,771",19.7,5,1,5,0,0,2,0,0.25,0.05,0.30,0.25,0.30,Matches,2004-2005
+79,Alessandro Budel,it ITA,MF,Cagliari,23,1981,24,15,"1,435",15.9,0,3,0,0,0,2,1,0.00,0.19,0.19,0.00,0.19,Matches,2004-2005
+80,Viktor Budyanskiy,ru RUS,MF,Reggina,20,1984,2,1,50,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+81,Gianluigi Buffon,it ITA,GK,Juventus,26,1978,37,37,"3,285",36.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+82,Nicolás Burdisso,ar ARG,DF,Inter,23,1981,8,6,545,6.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+83,Cafú,br BRA,DF,Milan,34,1970,33,31,"2,801",31.1,1,2,1,0,0,6,0,0.03,0.06,0.10,0.03,0.10,Matches,2004-2005
+84,Alex Calderoni,it ITA,GK,Atalanta,28,1976,17,16,"1,484",16.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+85,Ibrahima Camara,gn GUI,"DF,MF",Parma,19,1985,9,2,308,3.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+86,Esteban Cambiasso,ar ARG,MF,Inter,23,1980,30,29,"2,583",28.7,2,2,2,0,0,7,0,0.07,0.07,0.14,0.07,0.14,Matches,2004-2005
+87,Alessandro Camisa,it ITA,DF,Lecce,19,1985,1,1,90,1.0,0,,0,0,,1,0,0.00,,,0.00,,Matches,2004-2005
+88,Mauro Camoranesi,it ITA,MF,Juventus,27,1976,36,34,"3,049",33.9,4,12,3,1,1,6,0,0.12,0.35,0.47,0.09,0.44,Matches,2004-2005
+89,Alfonso Camorani,it ITA,MF,Siena,26,1978,11,8,650,7.2,0,1,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,2004-2005
+90,Vincent Candela,fr FRA,"DF,MF",Roma,30,1973,8,4,282,3.1,0,1,0,0,0,1,0,0.00,0.32,0.32,0.00,0.32,Matches,2004-2005
+91,Juriy Cannarsa,it ITA,DF,Reggina,28,1976,34,32,"2,657",29.5,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+92,Fabio Cannavaro,it ITA,DF,Juventus,30,1973,38,38,"3,334",37.0,2,0,2,0,0,2,0,0.05,0.00,0.05,0.05,0.05,Matches,2004-2005
+93,Paolo Cannavaro,it ITA,DF,Parma,23,1981,28,23,"2,152",23.9,1,1,1,0,0,3,2,0.04,0.04,0.08,0.04,0.08,Matches,2004-2005
+94,Daniele Capelli,it ITA,DF,Atalanta,18,1986,9,8,721,8.0,0,,0,0,,3,0,0.00,,,0.00,,Matches,2004-2005
+95,Ciro Capuano,it ITA,DF,Bologna,23,1981,18,11,"1,078",12.0,0,2,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,2004-2005
+96,Andrea Caracciolo,it ITA,FW,Brescia,22,1981,34,34,"2,901",32.2,12,1,10,2,4,9,1,0.37,0.03,0.40,0.31,0.34,Matches,2004-2005
+97,Giuseppe Cardone,it ITA,DF,Parma,30,1974,15,13,"1,130",12.6,0,1,0,0,0,6,0,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+98,Fabián Carini,uy URU,GK,Inter,24,1979,4,3,310,3.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+99,Marco Carparelli,it ITA,FW,Siena,28,1976,8,4,368,4.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+100,Moris Carrozzieri,it ITA,"DF,FW",Sampdoria,23,1980,3,1,93,1.0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+101,Fabrizio Casazza,it ITA,GK,Lazio,33,1970,3,1,178,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+102,Antonio Cassano,it ITA,FW,Roma,22,1982,31,30,"2,555",28.4,9,8,9,0,0,7,1,0.32,0.28,0.60,0.32,0.60,Matches,2004-2005
+104,Marco Cassetti,it ITA,"DF,MF",Lecce,27,1977,36,36,"3,169",35.2,4,7,4,0,0,6,0,0.11,0.20,0.31,0.11,0.31,Matches,2004-2005
+105,Luca Castellazzi,it ITA,GK,Brescia,29,1975,38,38,"3,375",37.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+106,Marcello Castellini,it ITA,DF,Sampdoria,31,1973,24,23,"2,079",23.1,1,0,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches,2004-2005
+107,Axel Cédric Konan,ci CIV,FW,Lecce,21,1983,20,12,"1,141",12.7,6,0,6,0,0,0,1,0.47,0.00,0.47,0.47,0.47,Matches,2004-2005
+108,Sebastián Cejas,ar ARG,GK,Fiorentina,29,1975,6,6,540,6.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+109,Alessio Cerci,it ITA,"FW,MF",Roma,17,1987,2,0,23,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+110,César Cervo Luca,br BRA,DF,Chievo,25,1979,5,4,317,3.5,1,0,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,2004-2005
+111,César,br BRA,"DF,MF",Lazio,29,1974,20,16,"1,170",13.0,3,2,2,1,1,3,2,0.23,0.15,0.38,0.15,0.31,Matches,2004-2005
+112,Giorgio Chiellini,it ITA,DF,Fiorentina,19,1984,37,36,"3,256",36.2,3,1,3,0,0,2,0,0.08,0.03,0.11,0.08,0.11,Matches,2004-2005
+113,Enrico Chiesa,it ITA,FW,Siena,33,1970,36,35,"2,858",31.8,11,10,11,0,0,2,0,0.35,0.31,0.66,0.35,0.66,Matches,2004-2005
+114,Antonio Chimenti,it ITA,GK,Juventus,34,1970,2,1,135,1.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+115,Davide Chiumiento,ch SUI,MF,Siena,19,1984,14,6,600,6.7,1,1,1,0,0,0,0,0.15,0.15,0.30,0.15,0.30,Matches,2004-2005
+116,Cristian Chivu,ro ROU,DF,Roma,23,1980,10,9,733,8.1,2,0,2,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,2004-2005
+117,Lampros Choutos,gr GRE,"FW,MF",Atalanta,24,1979,1,0,14,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+118,Giacomo Cipriani,it ITA,FW,Bologna,23,1980,22,14,"1,289",14.3,3,1,3,0,0,5,1,0.21,0.07,0.28,0.21,0.28,Matches,2004-2005
+119,Bruno Cirillo,it ITA,DF,Siena,27,1977,31,27,"2,421",26.9,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+120,Francesco Coco,it ITA,DF,Inter,27,1977,3,2,168,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+121,Fabricio Coloccini,ar ARG,"DF,MF",Milan,22,1982,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+122,Corrado Colombo,it ITA,FW,Livorno,24,1979,19,8,748,8.3,3,2,3,0,0,1,0,0.36,0.24,0.60,0.36,0.60,Matches,2004-2005
+123,Francesco Colonnese,it ITA,DF,Siena,32,1971,20,17,"1,535",17.1,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+124,Giuseppe Colucci,it ITA,MF,Reggina,23,1980,30,28,"2,281",25.3,5,4,5,0,0,8,2,0.20,0.16,0.36,0.20,0.36,Matches,2004-2005
+125,Leonardo Colucci,it ITA,MF,Bologna,31,1972,29,21,"2,034",22.6,0,2,0,0,0,11,0,0.00,0.09,0.09,0.00,0.09,Matches,2004-2005
+126,Gianni Comandini,it ITA,FW,Atalanta,27,1977,2,0,6,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+127,Mirko Conte,it ITA,DF,Messina,29,1974,5,5,406,4.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+128,Kewullay Conteh,sl SLE,DF,Palermo,26,1977,13,6,574,6.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+130,Daniele Conti,it ITA,MF,Cagliari,25,1979,29,19,"1,793",19.9,1,2,1,0,0,13,0,0.05,0.10,0.15,0.05,0.15,Matches,2004-2005
+131,Matteo Contini,it ITA,DF,Parma,24,1980,29,26,"2,390",26.6,0,1,0,0,0,10,2,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+132,Carmine Coppola,it ITA,MF,Messina,25,1979,34,33,"2,903",32.3,1,1,1,0,0,13,0,0.03,0.03,0.06,0.03,0.06,Matches,2004-2005
+133,Iván Córdoba,co COL,DF,Inter,27,1976,31,30,"2,713",30.1,3,1,3,0,0,10,0,0.10,0.03,0.13,0.10,0.13,Matches,2004-2005
+134,Nicolás Córdova,cl CHI,MF,Livorno,25,1979,5,3,256,2.8,0,1,0,0,0,1,0,0.00,0.35,0.35,0.00,0.35,Matches,2004-2005
+135,Eugenio Corini,it ITA,MF,Palermo,34,1970,35,35,"2,989",33.2,0,7,0,0,3,11,1,0.00,0.21,0.21,0.00,0.21,Matches,2004-2005
+136,Daniele Corvia,it ITA,FW,Roma,19,1984,13,2,334,3.7,0,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,2004-2005
+137,Federico Cossato,it ITA,FW,Chievo,31,1972,24,20,"1,699",18.9,4,1,4,0,0,4,1,0.21,0.05,0.26,0.21,0.26,Matches,2004-2005
+138,Rui Costa,pt POR,MF,Milan,32,1972,24,15,"1,375",15.3,1,2,1,0,0,4,0,0.07,0.13,0.20,0.07,0.20,Matches,2004-2005
+139,Alessandro Costacurta,it ITA,DF,Milan,38,1966,14,8,847,9.4,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+140,Fernando Couto,pt POR,DF,Lazio,34,1969,24,24,"2,080",23.1,3,0,3,0,0,4,2,0.13,0.00,0.13,0.13,0.13,Matches,2004-2005
+141,Francesco Cozza,it ITA,MF,Siena,30,1974,10,6,608,6.8,1,,1,0,,1,0,0.15,,,0.15,,Matches,2004-2005
+142,Hernán Crespo,ar ARG,FW,Milan,29,1975,28,24,"2,002",22.2,11,2,11,0,0,1,0,0.49,0.09,0.58,0.49,0.58,Matches,2004-2005
+143,Emílson Cribari,br BRA,DF,Udinese,24,1980,8,6,582,6.5,0,1,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,2004-2005
+144,Filippo Cristante,it ITA,DF,Messina,27,1977,13,12,"1,026",11.4,1,0,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches,2004-2005
+145,Alessandro Cucciari,it ITA,DF,Messina,34,1969,10,4,361,4.0,0,1,0,0,0,2,0,0.00,0.25,0.25,0.00,0.25,Matches,2004-2005
+146,Leandro Cufré,ar ARG,DF,Roma,26,1978,33,33,"2,896",32.2,0,1,0,0,0,7,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+147,Gianluca Curci,it ITA,GK,Roma,19,1985,11,11,990,11.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+148,Gaetano D'Agostino,it ITA,MF,Messina,22,1982,21,17,"1,451",16.1,2,5,1,1,1,3,0,0.12,0.31,0.43,0.06,0.37,Matches,2004-2005
+149,Salvatore D'Alterio,it ITA,DF,Messina,24,1980,6,2,193,2.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+150,Lorenzo D'Anna,it ITA,DF,Chievo,32,1972,34,34,"3,044",33.8,1,2,0,1,4,11,0,0.03,0.06,0.09,0.00,0.06,Matches,2004-2005
+151,Roberto D'Aversa,de GER,MF,Siena,28,1975,18,17,"1,482",16.5,0,4,0,0,0,5,0,0.00,0.24,0.24,0.00,0.24,Matches,2004-2005
+152,Ousmane Dabo,fr FRA,MF,Lazio,27,1977,29,26,"2,319",25.8,1,0,1,0,0,11,1,0.04,0.00,0.04,0.04,0.04,Matches,2004-2005
+153,Olivier Dacourt,fr FRA,MF,Roma,29,1974,23,20,"1,666",18.5,0,1,0,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+154,Jon Dahl Tomasson,dk DEN,"FW,MF",Milan,27,1976,30,17,"1,489",16.5,6,2,6,0,0,3,0,0.36,0.12,0.48,0.36,0.48,Matches,2004-2005
+156,Dario Dainelli,it ITA,DF,Fiorentina,25,1979,30,30,"2,648",29.4,4,0,4,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches,2004-2005
+157,Daniele Daino,it ITA,DF,Bologna,24,1979,13,9,751,8.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+158,Felipe dal Belo,br BRA,DF,Udinese,20,1984,31,28,"2,496",27.7,0,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+159,Samuele Dalla Bona,it ITA,MF,Lecce,23,1981,36,35,"2,981",33.1,5,3,2,3,3,7,1,0.15,0.09,0.24,0.06,0.15,Matches,2004-2005
+160,Simone Dallamano,it ITA,DF,Brescia,20,1983,26,21,"1,876",20.8,0,1,0,0,0,2,1,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+161,Tomas Danilevičius,lt LTU,FW,Livorno,26,1978,17,10,917,10.2,2,2,2,0,0,3,0,0.20,0.20,0.39,0.20,0.39,Matches,2004-2005
+162,Edgar Davids,nl NED,MF,Inter,31,1973,14,7,701,7.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+163,Ivone De Franceschi,it ITA,MF,Chievo,30,1974,2,0,18,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+164,Raffaele De Martino,it ITA,MF,Roma,18,1986,5,0,130,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+165,Gaetano De Rosa,it ITA,DF,Reggina,31,1973,33,33,"2,955",32.8,3,1,3,0,0,6,0,0.09,0.03,0.12,0.09,0.12,Matches,2004-2005
+166,Daniele De Rossi,it ITA,"DF,MF",Roma,21,1983,30,30,"2,499",27.8,2,1,2,0,0,10,1,0.07,0.04,0.11,0.07,0.11,Matches,2004-2005
+167,Morgan De Sanctis,it ITA,GK,Udinese,27,1977,36,36,"3,177",35.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+168,Claudio De Sousa,it ITA,FW,Lazio,18,1985,4,0,92,1.0,1,0,1,0,0,1,0,0.98,0.00,0.98,0.98,0.98,Matches,2004-2005
+169,Marino Defendi,it ITA,MF,Atalanta,18,1985,1,0,1,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+170,Daniele Degano,it ITA,FW,Parma,21,1982,2,1,107,1.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+171,Simone Del Nero,it ITA,"DF,FW",Brescia,22,1981,21,9,869,9.7,1,0,1,0,0,6,0,0.10,0.00,0.10,0.10,0.10,Matches,2004-2005
+172,Loris Del Nevo,it ITA,MF,Cagliari,29,1975,12,4,491,5.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+173,Alessandro Del Piero,it ITA,"FW,MF",Juventus,29,1974,30,27,"1,954",21.7,14,4,10,4,4,2,0,0.64,0.18,0.83,0.46,0.64,Matches,2004-2005
+174,Roberto Delgado,es ESP,FW,Lazio,18,1986,1,0,12,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+175,Luigi Della Rocca,it ITA,FW,Bologna,19,1984,4,1,131,1.5,1,0,1,0,0,0,0,0.69,0.00,0.69,0.69,0.69,Matches,2004-2005
+176,Traianos Dellas,gr GRE,DF,Roma,28,1976,20,19,"1,635",18.2,1,0,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,2004-2005
+177,Daniele Delli Carri,it ITA,DF,Fiorentina,32,1971,21,17,"1,470",16.3,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+178,Marco Delvecchio,it ITA,FW,Brescia,31,1973,9,7,496,5.5,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+179,Andy van der Meyde,nl NED,"FW,MF",Inter,24,1979,18,13,981,10.9,0,3,0,0,0,4,0,0.00,0.28,0.28,0.00,0.28,Matches,2004-2005
+180,Daniele Dessena,it ITA,MF,Parma,17,1987,2,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+182,Vikash Dhorasoo,fr FRA,MF,Milan,30,1973,12,8,752,8.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+183,Luigi Di Biagio,it ITA,MF,Brescia,33,1971,34,34,"2,943",32.7,9,3,4,5,5,9,2,0.28,0.09,0.37,0.12,0.21,Matches,2004-2005
+184,Paolo Di Canio,it ITA,FW,Lazio,36,1968,23,14,"1,140",12.7,6,2,3,3,4,2,1,0.47,0.16,0.63,0.24,0.39,Matches,2004-2005
+185,Daniele Di Donato,it ITA,MF,Siena,27,1977,23,21,"1,724",19.2,0,1,0,0,0,6,0,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+186,Angelo Di Livio,it ITA,"DF,MF",Fiorentina,38,1966,12,6,537,6.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+187,David Di Michele,it ITA,FW,Udinese,28,1976,37,32,"2,823",31.4,15,2,15,0,0,3,0,0.48,0.06,0.54,0.48,0.54,Matches,2004-2005
+188,Arturo Di Napoli,it ITA,FW,Messina,30,1974,29,21,"1,873",20.8,9,1,9,0,0,0,0,0.43,0.05,0.48,0.43,0.48,Matches,2004-2005
+189,Antonio Di Natale,it ITA,FW,Udinese,26,1977,33,22,"2,028",22.5,7,6,7,0,0,0,0,0.31,0.27,0.58,0.31,0.58,Matches,2004-2005
+190,Souleymane Diamoutene,ml MLI,DF,Lecce,21,1983,33,33,"2,866",31.8,1,0,1,0,0,11,2,0.03,0.00,0.03,0.03,0.03,Matches,2004-2005
+191,Aimo Diana,it ITA,"DF,MF",Sampdoria,26,1978,32,30,"2,354",26.2,5,3,5,0,0,3,0,0.19,0.11,0.31,0.19,0.31,Matches,2004-2005
+192,Drissa Diarra,ml MLI,"DF,MF",Lecce,19,1985,1,0,34,0.4,0,,0,0,,1,0,0.00,,,0.00,,Matches,2004-2005
+193,Dida,br BRA,GK,Milan,30,1973,36,36,"3,157",35.1,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+194,Luis Diego López,uy URU,DF,Cagliari,29,1974,33,33,"2,739",30.4,1,0,1,0,0,7,2,0.03,0.00,0.03,0.03,0.03,Matches,2004-2005
+195,Davide Dionigi,it ITA,MF,Reggina,30,1974,10,0,143,1.6,0,0,0,0,1,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+196,Luigi Dipasquale,it ITA,FW,Brescia,23,1980,7,2,289,3.2,1,0,1,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches,2004-2005
+197,Alessandro Doga,it ITA,MF,Livorno,28,1975,24,22,"1,854",20.6,2,1,2,0,0,1,0,0.10,0.05,0.15,0.10,0.15,Matches,2004-2005
+198,Maurizio Domizzi,it ITA,DF,Brescia,24,1980,29,25,"2,160",24.0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+199,Marco Donadel,it ITA,MF,Fiorentina,21,1983,22,18,"1,540",17.1,0,2,0,0,0,6,0,0.00,0.12,0.12,0.00,0.12,Matches,2004-2005
+200,Massimo Donati,it ITA,MF,Messina,23,1981,34,31,"2,699",30.0,1,2,1,0,0,3,1,0.03,0.07,0.10,0.03,0.10,Matches,2004-2005
+201,Cristiano Doni,it ITA,MF,Sampdoria,31,1973,22,12,"1,207",13.4,1,1,1,0,0,4,0,0.07,0.07,0.15,0.07,0.15,Matches,2004-2005
+202,Mark Edusei,gh GHA,MF,Sampdoria,27,1976,21,4,633,7.0,1,0,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,2004-2005
+203,Dimitrios Eleftheropoulos,gr GRE,GK,Messina,27,1976,10,10,855,9.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+204,Emerson,br BRA,MF,Juventus,28,1976,33,33,"2,789",31.0,2,2,2,0,0,4,1,0.06,0.06,0.13,0.06,0.13,Matches,2004-2005
+205,Simone Eramo,,,Messina,18,1986,2,0,3,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+206,Alexei Eremenko,fi FIN,"FW,MF",Lecce,21,1983,26,5,681,7.6,0,1,0,0,0,4,0,0.00,0.13,0.13,0.00,0.13,Matches,2004-2005
+208,Andrea Esposito,it ITA,DF,Lecce,18,1986,1,0,14,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+209,Mauro Esposito,it ITA,"FW,MF",Cagliari,25,1979,34,33,"2,920",32.4,16,3,16,0,1,6,1,0.49,0.09,0.59,0.49,0.59,Matches,2004-2005
+210,Ricardo Esteves,pt POR,"DF,MF",Reggina,24,1979,15,6,548,6.1,1,1,1,0,0,2,0,0.16,0.16,0.33,0.16,0.33,Matches,2004-2005
+211,Alessandro Evangelisti,it ITA,MF,Livorno,23,1981,1,1,62,0.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+212,Giulio Falcone,it ITA,DF,Sampdoria,30,1974,27,27,"2,249",25.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+213,Gianluca Falsini,it ITA,DF,Siena,28,1975,24,22,"1,885",20.9,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+214,Enrico Fantini,it ITA,FW,Fiorentina,28,1976,23,10,"1,209",13.4,0,4,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches,2004-2005
+215,Ernesto Farías,ar ARG,FW,Palermo,24,1980,13,1,306,3.4,0,1,0,0,0,0,0,0.00,0.29,0.29,0.00,0.29,Matches,2004-2005
+216,Dino Fava,it ITA,FW,Udinese,27,1977,24,8,826,9.2,2,0,2,0,0,1,0,0.22,0.00,0.22,0.22,0.22,Matches,2004-2005
+217,Giuseppe Favalli,it ITA,DF,Inter,32,1972,26,26,"2,060",22.9,0,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+218,Marco Ferrante,it ITA,FW,Bologna,33,1971,6,3,214,2.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+219,Ciro Ferrara,it ITA,DF,Juventus,37,1967,4,0,25,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+220,Matteo Ferrari,it ITA,DF,Roma,24,1979,35,34,"2,948",32.8,0,2,0,0,0,7,0,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+221,Michele Ferri,it ITA,DF,Palermo,23,1981,7,2,238,2.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+222,Damiano Ferronetti,it ITA,"DF,MF",Parma,19,1984,10,5,545,6.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+223,Antonio Filippini,it ITA,"DF,MF",Lazio,31,1973,35,29,"2,694",29.9,2,4,2,0,0,6,0,0.07,0.13,0.20,0.07,0.20,Matches,2004-2005
+224,Emanuele Filippini,it ITA,MF,Lazio,31,1973,28,26,"2,335",25.9,0,3,0,0,0,6,0,0.00,0.12,0.12,0.00,0.12,Matches,2004-2005
+225,Francesco Flachi,it ITA,FW,Sampdoria,29,1975,35,34,"3,041",33.8,14,5,8,6,7,7,0,0.41,0.15,0.56,0.24,0.38,Matches,2004-2005
+226,Paolo Foglio,it ITA,DF,Siena,28,1975,12,2,369,4.1,0,1,0,0,0,0,0,0.00,0.24,0.24,0.00,0.24,Matches,2004-2005
+227,Alberto Fontana,it ITA,GK,Inter,37,1967,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+228,Gaetano Fontana,it ITA,MF,Fiorentina,34,1970,3,1,115,1.3,0,,0,0,,1,1,0.00,,,0.00,,Matches,2004-2005
+229,Marco Fortin,it ITA,GK,Siena,30,1974,19,19,"1,710",19.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+230,Gennaro Fragiello,it ITA,FW,Bologna,20,1984,1,0,14,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+231,Daniele Franceschini,it ITA,MF,Chievo,28,1976,31,24,"2,024",22.5,0,3,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches,2004-2005
+232,Ivan Franceschini,it ITA,DF,Reggina,27,1976,34,33,"2,961",32.9,3,0,3,0,0,9,1,0.09,0.00,0.09,0.09,0.09,Matches,2004-2005
+234,Jorge Francisco Vargas,cl CHI,DF,Livorno,28,1976,24,24,"1,991",22.1,0,1,0,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+235,Sébastien Frey,fr FRA,GK,Parma,24,1980,36,36,"3,215",35.7,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+236,Massimiliano Fusani,it ITA,MF,Chievo,25,1979,6,1,225,2.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+237,Luca Fusco,it ITA,DF,Messina,26,1977,5,4,433,4.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+238,Fabio Galante,it ITA,DF,Livorno,30,1973,25,21,"1,827",20.3,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+239,Carlos Gamarra,py PAR,DF,Inter,33,1971,3,1,114,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+240,Alessandro Gambadori,it ITA,MF,Livorno,23,1981,2,0,47,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+241,Alessandro Gamberini,it ITA,DF,Bologna,22,1981,28,23,"2,283",25.4,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+242,Massimo Ganci,it ITA,FW,Reggina,22,1981,10,1,187,2.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+243,Andrea Gasbarroni,it ITA,"FW,MF",Sampdoria,22,1981,10,2,386,4.3,2,1,2,0,0,2,0,0.47,0.23,0.70,0.47,0.70,Matches,2004-2005
+244,Andrea Gasbarroni,it ITA,"FW,MF",Palermo,22,1981,9,4,335,3.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+245,Gennaro Gattuso,it ITA,MF,Milan,26,1978,33,28,"2,341",26.0,0,3,0,0,0,5,0,0.00,0.12,0.12,0.00,0.12,Matches,2004-2005
+246,Carmine Gautieri,it ITA,"FW,MF",Atalanta,34,1970,13,5,516,5.7,2,0,2,0,0,1,0,0.35,0.00,0.35,0.35,0.35,Matches,2004-2005
+247,Guillermo Giacomazzi,uy URU,MF,Lecce,26,1977,34,32,"2,810",31.2,5,10,5,0,0,8,0,0.16,0.32,0.48,0.16,0.48,Matches,2004-2005
+248,Andrea Giallombardo,it ITA,DF,Livorno,23,1980,20,15,"1,441",16.0,0,2,0,0,0,5,1,0.00,0.12,0.12,0.00,0.12,Matches,2004-2005
+249,Domenico Giampà,it ITA,MF,Messina,27,1977,26,23,"1,928",21.4,3,1,3,0,0,5,0,0.14,0.05,0.19,0.14,0.19,Matches,2004-2005
+250,Giuliano Giannichedda,it ITA,MF,Lazio,29,1974,32,31,"2,701",30.0,0,1,0,0,0,7,1,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+251,Alberto Gilardino,it ITA,FW,Parma,22,1982,38,37,"3,327",37.0,23,3,19,4,5,3,0,0.62,0.08,0.70,0.51,0.60,Matches,2004-2005
+252,Davide Giorgino,it ITA,MF,Lecce,19,1985,1,0,25,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+253,Federico Giunti,it ITA,MF,Bologna,32,1971,23,19,"1,605",17.8,2,1,2,0,1,9,0,0.11,0.06,0.17,0.11,0.17,Matches,2004-2005
+254,Massimo Gobbi,it ITA,"DF,MF",Cagliari,23,1980,36,36,"3,157",35.1,3,5,3,0,0,8,0,0.09,0.14,0.23,0.09,0.23,Matches,2004-2005
+255,Henok Goitom,er ERI,FW,Udinese,19,1984,1,0,7,0.1,1,0,1,0,0,0,0,12.86,0.00,12.86,12.86,12.86,Matches,2004-2005
+256,Takis Gonias,gr GRE,MF,Messina,32,1971,3,1,106,1.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+257,Natale Gonnella,it ITA,DF,Atalanta,28,1976,9,9,810,9.0,0,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,2004-2005
+258,Esteban González,ar ARG,MF,Lazio,25,1978,3,2,203,2.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+260,Kily González,ar ARG,"FW,MF",Inter,29,1974,14,12,901,10.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+261,Mariano González,ar ARG,MF,Palermo,23,1981,20,9,881,9.8,2,0,2,0,0,1,0,0.20,0.00,0.20,0.20,0.20,Matches,2004-2005
+262,Mattia Graffiedi,it ITA,FW,Siena,24,1980,13,6,626,7.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+263,Alessandro Grandoni,it ITA,DF,Livorno,27,1977,25,23,"2,083",23.1,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+264,Claudio Grauso,it ITA,MF,Livorno,25,1979,23,16,"1,477",16.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+265,Leandro Greco,it ITA,MF,Roma,18,1986,1,0,15,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+266,Vince Grella,au AUS,MF,Parma,24,1979,23,18,"1,565",17.4,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+267,Fabio Grosso,it ITA,"DF,MF",Palermo,26,1977,36,35,"3,165",35.2,1,1,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06,Matches,2004-2005
+268,Roberto Guana,it ITA,MF,Brescia,23,1981,24,22,"1,914",21.3,0,2,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches,2004-2005
+269,Matteo Guardalben,it ITA,GK,Palermo,30,1974,37,37,"3,330",37.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+270,Gianni Guigou,uy URU,MF,Fiorentina,29,1975,2,1,78,0.9,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+271,Marek Hamšík,sk SVK,MF,Brescia,17,1987,1,0,26,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+272,Samir Handanović,si SVN,GK,Udinese,20,1984,3,2,243,2.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+273,Víctor Hugo Mareco,py PAR,DF,Brescia,20,1984,23,19,"1,577",17.5,1,0,1,0,0,8,0,0.06,0.00,0.06,0.06,0.06,Matches,2004-2005
+274,Vincenzo Iacopino,it ITA,MF,Sampdoria,27,1976,1,0,10,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+275,Vincenzo Iaquinta,it ITA,FW,Udinese,24,1979,31,30,"2,667",29.6,13,6,13,0,0,2,0,0.44,0.20,0.64,0.44,0.64,Matches,2004-2005
+276,Zlatan Ibrahimović,se SWE,FW,Juventus,22,1981,35,31,"2,764",30.7,16,5,15,1,1,3,0,0.52,0.16,0.68,0.49,0.65,Matches,2004-2005
+277,Gennaro Iezzo,it ITA,GK,Cagliari,31,1973,22,22,"1,980",22.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+278,Ivica Iliev,rs SRB,"FW,MF",Messina,24,1979,29,20,"1,869",20.8,1,2,1,0,0,5,1,0.05,0.10,0.14,0.05,0.14,Matches,2004-2005
+279,Duccio Innocenti,it ITA,DF,Atalanta,28,1975,8,5,423,4.7,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+280,Filippo Inzaghi,it ITA,FW,Milan,30,1973,11,4,454,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+281,Simone Inzaghi,it ITA,FW,Sampdoria,28,1976,5,1,146,1.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+282,Simone Inzaghi,it ITA,FW,Lazio,28,1976,12,6,658,7.3,1,0,0,1,1,3,0,0.14,0.00,0.14,0.00,0.00,Matches,2004-2005
+283,Abderrazzak Jadid,ma MAR,"FW,MF",Brescia,21,1983,3,0,60,0.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+284,Marek Jankulovski,cz CZE,"DF,MF",Udinese,27,1977,32,32,"2,787",31.0,4,7,2,2,2,7,1,0.13,0.23,0.36,0.06,0.29,Matches,2004-2005
+286,Juárez,br BRA,DF,Bologna,30,1973,30,28,"2,366",26.3,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+287,Martin Jørgensen,dk DEN,MF,Fiorentina,28,1975,30,23,"1,957",21.7,3,3,3,0,0,0,0,0.14,0.14,0.28,0.14,0.28,Matches,2004-2005
+288,Kaká,br BRA,"FW,MF",Milan,22,1982,36,33,"2,931",32.6,7,13,7,0,0,5,0,0.21,0.40,0.61,0.21,0.61,Matches,2004-2005
+289,Kakha Kaladze,ge GEO,"DF,MF",Milan,26,1978,19,18,"1,478",16.4,2,1,2,0,0,4,0,0.12,0.06,0.18,0.12,0.18,Matches,2004-2005
+290,Olivier Kapo,fr FRA,"FW,MF",Juventus,23,1980,13,2,267,3.0,0,2,0,0,0,0,0,0.00,0.67,0.67,0.00,0.67,Matches,2004-2005
+291,Giorgos Karagounis,gr GRE,MF,Inter,27,1977,12,5,485,5.4,0,1,0,0,0,0,0,0.00,0.19,0.19,0.00,0.19,Matches,2004-2005
+292,Fanis Katergiannakis,gr GRE,GK,Cagliari,30,1974,15,15,"1,350",15.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+293,Per Krøldrup,dk DEN,DF,Udinese,25,1979,25,22,"2,005",22.3,0,1,0,0,0,0,0,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+294,Vitali Kutuzov,by BLR,FW,Sampdoria,24,1980,32,14,"1,349",15.0,4,2,4,0,0,2,0,0.27,0.13,0.40,0.27,0.40,Matches,2004-2005
+295,Antonio Langella,it ITA,"FW,MF",Cagliari,27,1977,31,22,"2,008",22.3,6,6,6,0,0,5,1,0.27,0.27,0.54,0.27,0.54,Matches,2004-2005
+296,Salvatore Lanna,it ITA,DF,Chievo,28,1976,35,35,"3,124",34.7,0,1,0,0,0,4,2,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+297,Gustavo Lazzaretti,br BRA,DF,Udinese,20,1984,1,0,26,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+298,Andrea Lazzari,it ITA,MF,Atalanta,19,1984,31,21,"1,849",20.5,1,2,1,0,0,1,1,0.05,0.10,0.15,0.05,0.15,Matches,2004-2005
+299,Cristian Ledesma,it ITA,MF,Lecce,21,1982,33,33,"2,908",32.3,0,6,0,0,0,6,1,0.00,0.19,0.19,0.00,0.19,Matches,2004-2005
+300,Nicola Legrottaglie,it ITA,DF,Bologna,27,1976,9,8,759,8.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+301,Matías Lequi,ar ARG,DF,Lazio,23,1981,6,4,456,5.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+302,Mario Lička,cz CZE,MF,Livorno,22,1982,4,2,173,1.9,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+303,Fabio Liverani,it ITA,MF,Lazio,28,1976,24,20,"1,627",18.1,1,5,1,0,0,2,0,0.06,0.28,0.33,0.06,0.33,Matches,2004-2005
+304,Tomas Locatelli,it ITA,"FW,MF",Bologna,28,1976,32,25,"2,343",26.0,3,4,3,0,1,2,0,0.12,0.15,0.27,0.12,0.27,Matches,2004-2005
+305,Óscar López,es ESP,DF,Lazio,24,1980,14,10,956,10.6,0,1,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09,Matches,2004-2005
+306,Stefano Lorenzi,it ITA,DF,Atalanta,27,1977,1,0,3,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+307,Simone Loria,it ITA,DF,Cagliari,27,1976,20,14,"1,228",13.6,1,0,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,2004-2005
+308,Massimo Loviso,it ITA,MF,Bologna,20,1984,26,7,915,10.2,1,0,1,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches,2004-2005
+309,Alessandro Lucarelli,it ITA,DF,Livorno,27,1977,27,25,"2,237",24.9,4,0,4,0,0,7,0,0.16,0.00,0.16,0.16,0.16,Matches,2004-2005
+310,Cristiano Lucarelli,it ITA,FW,Livorno,28,1975,35,34,"3,076",34.2,24,4,20,4,5,8,0,0.70,0.12,0.82,0.59,0.70,Matches,2004-2005
+312,Luciano,br BRA,MF,Chievo,28,1975,20,11,982,10.9,0,2,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches,2004-2005
+313,José Luís Vidigal,pt POR,MF,Livorno,31,1973,29,26,"2,289",25.4,3,2,3,0,0,7,0,0.12,0.08,0.20,0.12,0.20,Matches,2004-2005
+314,Cristiano Lupatelli,it ITA,GK,Fiorentina,26,1978,30,30,"2,655",29.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+315,Massimo Maccarone,it ITA,FW,Siena,24,1979,24,12,"1,151",12.8,6,2,6,0,0,4,0,0.47,0.16,0.63,0.47,0.63,Matches,2004-2005
+316,Christian Maggio,it ITA,"DF,MF",Fiorentina,22,1982,13,11,"1,041",11.6,1,1,1,0,0,4,2,0.09,0.09,0.17,0.09,0.17,Matches,2004-2005
+317,Stephen Makinwa,ng NGA,FW,Atalanta,21,1983,17,16,"1,428",15.9,6,3,6,0,0,4,0,0.38,0.19,0.57,0.38,0.57,Matches,2004-2005
+318,Marco Malagò,it ITA,DF,Chievo,25,1978,23,15,"1,392",15.5,0,1,0,0,0,7,0,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+319,Paolo Maldini,it ITA,DF,Milan,36,1968,33,33,"2,915",32.4,0,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+320,Roberto Maltagliati,it ITA,DF,Cagliari,35,1969,30,30,"2,693",29.9,0,1,0,0,0,0,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+321,José Mamede,pt POR,MF,Messina,30,1974,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+322,Mancini,br BRA,"FW,MF",Roma,23,1980,34,26,"2,545",28.3,4,5,3,1,1,4,0,0.14,0.18,0.32,0.11,0.28,Matches,2004-2005
+323,Davide Mandelli,it ITA,DF,Chievo,27,1977,35,35,"3,150",35.0,3,0,3,0,0,7,0,0.09,0.00,0.09,0.09,0.09,Matches,2004-2005
+324,Christian Manfredini,ci CIV,MF,Lazio,29,1975,15,6,608,6.8,1,0,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,2004-2005
+325,Alex Manninger,at AUT,GK,Siena,27,1977,19,19,"1,710",19.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+326,Daniele Mannini,it ITA,MF,Brescia,20,1983,29,12,"1,368",15.2,3,1,3,0,0,3,0,0.20,0.07,0.26,0.20,0.26,Matches,2004-2005
+327,Luca Marchegiani,it ITA,GK,Chievo,38,1966,37,37,"3,286",36.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+328,Mattia Marchesetti,it ITA,"FW,MF",Chievo,20,1983,9,3,343,3.8,1,0,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,2004-2005
+329,Marco Marchionni,it ITA,MF,Parma,24,1980,24,22,"1,907",21.2,4,3,4,0,0,3,0,0.19,0.14,0.33,0.19,0.33,Matches,2004-2005
+330,Michele Marcolini,it ITA,MF,Atalanta,28,1975,35,33,"2,795",31.1,4,2,2,2,2,6,1,0.13,0.06,0.19,0.06,0.13,Matches,2004-2005
+331,Sergio Marcon,it ITA,GK,Chievo,33,1970,2,1,134,1.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+332,Gianmatteo Mareggini,it ITA,GK,Livorno,37,1967,7,6,584,6.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+333,Enzo Maresca,it ITA,MF,Fiorentina,24,1980,25,24,"2,091",23.2,4,1,4,0,0,5,0,0.17,0.04,0.22,0.17,0.22,Matches,2004-2005
+334,Zé Maria,br BRA,DF,Inter,31,1973,22,14,"1,388",15.4,1,4,1,0,0,1,0,0.06,0.26,0.32,0.06,0.32,Matches,2004-2005
+335,Francesco Marianini,it ITA,MF,Lecce,25,1979,8,2,212,2.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+336,Dino Marino,it ITA,MF,Inter,19,1985,2,1,97,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+338,Massimiliano Marsili,it ITA,MF,Roma,17,1987,1,1,35,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+339,Gilberto Martínez,cr CRC,DF,Brescia,24,1979,33,33,"2,842",31.6,1,1,1,0,0,1,0,0.03,0.03,0.06,0.03,0.06,Matches,2004-2005
+340,Obafemi Martins,ng NGA,FW,Inter,19,1984,31,16,"1,773",19.7,11,5,11,0,0,0,0,0.56,0.25,0.81,0.56,0.81,Matches,2004-2005
+341,Lino Marzorati,it ITA,DF,Milan,17,1986,1,1,72,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+342,Andrea Masiello,it ITA,DF,Juventus,18,1986,1,0,35,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+343,Marco Materazzi,it ITA,DF,Inter,30,1973,26,24,"2,184",24.3,0,1,0,0,0,6,1,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+344,Italo Mattioli,it ITA,FW,Lecce,19,1985,2,0,32,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+345,Stefano Mauri,it ITA,"FW,MF",Udinese,24,1980,31,17,"1,610",17.9,5,2,5,0,0,3,0,0.28,0.11,0.39,0.28,0.39,Matches,2004-2005
+346,Luca Mazzoni,it ITA,GK,Livorno,20,1984,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+347,Riccardo Meggiorini,it ITA,FW,Inter,18,1985,1,0,5,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+348,Mourad Meghni,dz ALG,MF,Bologna,20,1984,16,9,872,9.7,3,0,3,0,0,5,0,0.31,0.00,0.31,0.31,0.31,Matches,2004-2005
+349,Matteo Melara,it ITA,DF,Livorno,26,1978,24,22,"1,952",21.7,1,0,1,0,0,9,0,0.05,0.00,0.05,0.05,0.05,Matches,2004-2005
+350,John Mensah,gh GHA,DF,Chievo,21,1982,9,7,666,7.4,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+351,Giandomenico Mesto,it ITA,"DF,MF",Reggina,22,1982,35,35,"2,998",33.3,1,2,1,0,0,13,0,0.03,0.06,0.09,0.03,0.09,Matches,2004-2005
+352,Philippe Mexès,fr FRA,DF,Roma,22,1982,28,24,"2,192",24.4,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+353,Fabrizio Miccoli,it ITA,FW,Fiorentina,25,1979,35,33,"2,650",29.4,12,4,10,2,2,6,0,0.41,0.14,0.54,0.34,0.48,Matches,2004-2005
+354,Mido,eg EGY,FW,Roma,21,1983,8,0,253,2.8,0,2,0,0,0,1,0,0.00,0.71,0.71,0.00,0.71,Matches,2004-2005
+355,Giulio Migliaccio,it ITA,"DF,MF",Atalanta,23,1981,14,8,800,8.9,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+356,Michele Mignani,it ITA,DF,Siena,32,1972,14,13,"1,149",12.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+357,Siniša Mihajlović,rs SRB,DF,Inter,35,1969,19,18,"1,538",17.1,4,6,4,0,0,4,0,0.23,0.35,0.59,0.23,0.59,Matches,2004-2005
+358,Omar Milanetto,it ITA,MF,Brescia,28,1975,31,28,"2,432",27.0,1,3,1,0,0,8,1,0.04,0.11,0.15,0.04,0.15,Matches,2004-2005
+359,Nicola Mingazzini,it ITA,MF,Atalanta,23,1980,27,19,"1,675",18.6,0,2,0,0,0,6,0,0.00,0.11,0.11,0.00,0.11,Matches,2004-2005
+360,Simone Missiroli,it ITA,MF,Reggina,18,1986,3,0,41,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+361,Vincenzo Montella,it ITA,FW,Roma,30,1974,37,34,"2,996",33.3,21,4,20,1,2,7,0,0.63,0.12,0.75,0.60,0.72,Matches,2004-2005
+362,Paolo Montero,uy URU,DF,Juventus,32,1971,5,3,313,3.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+364,Riccardo Montolivo,it ITA,MF,Atalanta,19,1985,32,24,"2,187",24.3,3,0,3,0,0,6,1,0.12,0.00,0.12,0.12,0.12,Matches,2004-2005
+365,Giovanni Morabito,it ITA,DF,Reggina,26,1978,1,0,22,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+366,Domenico Morfeo,it ITA,"FW,MF",Parma,28,1976,31,26,"2,320",25.8,8,12,8,0,2,7,1,0.31,0.47,0.78,0.31,0.78,Matches,2004-2005
+367,Fabio Moro,it ITA,DF,Chievo,29,1975,27,26,"2,321",25.8,0,1,0,0,0,8,0,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+368,Stefano Morrone,it ITA,MF,Palermo,25,1978,23,9,"1,089",12.1,0,1,0,0,0,3,1,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+369,Marco Motta,it ITA,DF,Atalanta,18,1986,19,18,"1,571",17.5,0,1,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+370,Mozart,br BRA,MF,Reggina,24,1979,35,34,"3,070",34.1,2,1,0,2,2,9,0,0.06,0.03,0.09,0.00,0.03,Matches,2004-2005
+371,Sulley Muntari,gh GHA,MF,Udinese,19,1984,33,30,"2,555",28.4,2,0,2,0,0,14,0,0.07,0.00,0.07,0.07,0.07,Matches,2004-2005
+372,Massimo Mutarelli,it ITA,MF,Palermo,26,1978,23,17,"1,505",16.7,1,1,1,0,0,8,0,0.06,0.06,0.12,0.06,0.12,Matches,2004-2005
+373,Adrian Mutu,ro ROU,"FW,MF",Juventus,25,1979,1,0,34,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+374,Roberto Muzzi,it ITA,FW,Lazio,32,1971,16,9,736,8.2,3,2,3,0,0,1,0,0.37,0.24,0.61,0.37,0.61,Matches,2004-2005
+375,Shunsuke Nakamura,jp JPN,MF,Reggina,26,1978,33,26,"2,060",22.9,2,5,2,0,0,4,0,0.09,0.22,0.31,0.09,0.31,Matches,2004-2005
+376,Hidetoshi Nakata,jp JPN,MF,Fiorentina,27,1977,20,14,"1,176",13.1,0,3,0,0,0,1,0,0.00,0.23,0.23,0.00,0.23,Matches,2004-2005
+377,Valentin Năstase,ro ROU,DF,Bologna,29,1974,16,11,"1,182",13.1,0,1,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+378,Cesare Natali,it ITA,DF,Atalanta,25,1979,34,34,"3,011",33.5,1,2,1,0,0,4,0,0.03,0.06,0.09,0.03,0.09,Matches,2004-2005
+379,Pavel Nedvěd,cz CZE,MF,Juventus,31,1972,27,27,"2,381",26.5,7,6,7,0,0,7,0,0.26,0.23,0.49,0.26,0.49,Matches,2004-2005
+380,Paolo Negro,it ITA,DF,Lazio,32,1972,4,1,170,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+381,Carlo Nervo,it ITA,MF,Bologna,32,1971,21,18,"1,440",16.0,0,1,0,0,0,4,0,0.00,0.06,0.06,0.00,0.06,Matches,2004-2005
+382,Alessandro Nesta,it ITA,DF,Milan,28,1976,29,29,"2,549",28.3,0,1,0,0,0,4,2,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+383,Davide Nicola,it ITA,DF,Siena,31,1973,15,13,"1,196",13.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+384,Marc Nygaard,dk DEN,FW,Brescia,27,1976,10,4,386,4.3,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+385,Christian Obodo,ng NGA,MF,Fiorentina,20,1984,33,26,"2,493",27.7,2,3,2,0,0,4,0,0.07,0.11,0.18,0.07,0.18,Matches,2004-2005
+386,Massimo Oddo,it ITA,DF,Lazio,28,1976,35,34,"2,953",32.8,4,4,0,4,4,4,0,0.12,0.12,0.24,0.00,0.12,Matches,2004-2005
+387,Renato Olive,it ITA,MF,Parma,33,1971,8,3,312,3.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+388,Rubén Olivera,uy URU,MF,Juventus,21,1983,18,6,676,7.5,4,2,4,0,0,6,1,0.53,0.27,0.80,0.53,0.80,Matches,2004-2005
+390,Emmanuel Osei,gh GHA,DF,Livorno,21,1982,6,5,385,4.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+391,Massimo Paci,it ITA,DF,Lecce,26,1978,12,7,742,8.2,1,0,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,2004-2005
+392,Biagio Pagano,it ITA,MF,Sampdoria,21,1983,3,0,44,0.5,1,0,1,0,0,1,0,2.05,0.00,2.05,2.05,2.05,Matches,2004-2005
+393,Biagio Pagano,it ITA,MF,Atalanta,21,1983,6,1,114,1.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+394,Gianluca Pagliuca,it ITA,GK,Bologna,37,1966,38,38,"3,420",38.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+395,Angelo Palombo,it ITA,MF,Sampdoria,22,1981,37,35,"3,084",34.3,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+396,Giuseppe Pancaro,it ITA,DF,Milan,32,1971,18,12,"1,123",12.5,1,0,1,0,0,3,1,0.08,0.00,0.08,0.08,0.08,Matches,2004-2005
+397,Goran Pandev,mk MKD,FW,Lazio,21,1983,25,13,"1,134",12.6,3,2,3,0,0,2,0,0.24,0.16,0.40,0.24,0.40,Matches,2004-2005
+398,Claudio Pani,it ITA,MF,Cagliari,18,1986,1,1,61,0.7,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+399,Christian Panucci,it ITA,DF,Roma,31,1973,26,25,"2,191",24.3,0,2,0,0,0,4,1,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+400,Carlos Paredes,py PAR,MF,Reggina,28,1976,29,22,"2,128",23.6,5,0,5,0,0,3,0,0.21,0.00,0.21,0.21,0.21,Matches,2004-2005
+401,Alessandro Parisi,it ITA,DF,Messina,27,1977,27,26,"2,177",24.2,6,6,2,4,4,8,1,0.25,0.25,0.50,0.08,0.33,Matches,2004-2005
+402,Giovanni Pasquale,it ITA,DF,Inter,22,1982,4,4,332,3.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+403,Dario Passoni,it ITA,MF,Livorno,30,1974,28,27,"2,450",27.2,1,3,1,0,0,4,0,0.04,0.11,0.15,0.04,0.15,Matches,2004-2005
+404,Paulinho,br BRA,FW,Livorno,18,1986,4,1,130,1.4,0,,0,0,,1,0,0.00,,,0.00,,Matches,2004-2005
+405,Simone Pavan,it ITA,DF,Sampdoria,30,1974,27,22,"2,155",23.9,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+406,Nicola Pavarini,it ITA,GK,Reggina,30,1974,23,21,"1,920",21.3,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+407,Michele Pazienza,it ITA,MF,Udinese,21,1982,26,11,"1,201",13.3,0,1,0,0,0,8,0,0.00,0.07,0.07,0.00,0.07,Matches,2004-2005
+408,Giampaolo Pazzini,it ITA,FW,Fiorentina,19,1984,14,10,999,11.1,3,,3,0,0,1,0,0.27,,,0.27,,Matches,2004-2005
+409,Giampaolo Pazzini,it ITA,FW,Atalanta,19,1984,12,7,614,6.8,3,,3,0,0,1,1,0.44,,,0.44,,Matches,2004-2005
+410,Fabio Pecchia,it ITA,MF,Siena,30,1973,23,20,"1,671",18.6,2,2,2,0,0,0,1,0.11,0.11,0.22,0.11,0.22,Matches,2004-2005
+411,Ivan Pelizzoli,it ITA,GK,Roma,23,1980,17,17,"1,530",17.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+412,Sergio Pellissier,it ITA,FW,Chievo,25,1979,33,22,"2,092",23.2,7,2,7,0,0,1,0,0.30,0.09,0.39,0.30,0.39,Matches,2004-2005
+413,Horacio Peralta,uy URU,"FW,MF",Cagliari,22,1982,1,0,12,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+414,Simone Perrotta,it ITA,MF,Roma,26,1977,30,28,"2,344",26.0,3,0,3,0,0,9,0,0.12,0.00,0.12,0.12,0.12,Matches,2004-2005
+416,Romano Perticone,it ITA,DF,Milan,17,1986,1,0,18,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+417,Angelo Peruzzi,it ITA,GK,Lazio,34,1970,21,21,"1,612",17.9,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+418,Emanuele Pesaresi,it ITA,DF,Chievo,27,1976,1,0,1,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+419,Gianluca Pessotto,it ITA,"DF,MF",Juventus,33,1970,19,13,"1,152",12.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+420,Fabio Petruzzi,it ITA,DF,Bologna,33,1970,17,17,"1,448",16.1,2,0,2,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,2004-2005
+421,Marc Pfertzel,fr FRA,"DF,MF",Livorno,23,1981,26,14,"1,260",14.0,0,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,2004-2005
+422,Piá,br BRA,"FW,MF",Atalanta,22,1982,10,4,421,4.7,0,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,2004-2005
+423,Luigi Piangerelli,it ITA,MF,Fiorentina,30,1973,15,11,"1,044",11.6,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+424,Felice Piccolo,it ITA,DF,Reggina,20,1983,9,2,268,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+425,Mirko Pieri,it ITA,"DF,MF",Udinese,26,1978,15,7,736,8.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+426,Alex Pinardi,it ITA,MF,Lecce,23,1980,32,28,"2,342",26.0,3,5,3,0,0,4,0,0.12,0.19,0.31,0.12,0.31,Matches,2004-2005
+427,Giampiero Pinzi,it ITA,MF,Udinese,23,1981,30,27,"2,291",25.5,1,1,1,0,0,10,2,0.04,0.04,0.08,0.04,0.08,Matches,2004-2005
+428,Andrea Pirlo,it ITA,MF,Milan,25,1979,30,26,"2,251",25.0,4,6,3,1,3,4,0,0.16,0.24,0.40,0.12,0.36,Matches,2004-2005
+429,Francesco Pisano,it ITA,DF,Cagliari,18,1986,13,7,749,8.3,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+430,Marco Pisano,it ITA,DF,Sampdoria,22,1981,28,28,"2,311",25.7,1,2,1,0,0,3,0,0.04,0.08,0.12,0.04,0.12,Matches,2004-2005
+431,Andrea Pisanu,it ITA,"FW,MF",Parma,22,1982,17,14,"1,200",13.3,1,3,1,0,0,4,1,0.07,0.23,0.30,0.07,0.30,Matches,2004-2005
+432,David Pizarro,cl CHI,MF,Udinese,24,1979,34,32,"2,857",31.7,2,4,0,2,2,2,0,0.06,0.13,0.19,0.00,0.13,Matches,2004-2005
+433,Daniele Portanova,it ITA,DF,Siena,25,1978,25,23,"1,932",21.5,4,0,4,0,0,4,1,0.19,0.00,0.19,0.19,0.19,Matches,2004-2005
+434,Javier Portillo,es ESP,FW,Fiorentina,22,1982,11,4,458,5.1,1,1,1,0,0,0,0,0.20,0.20,0.39,0.20,0.39,Matches,2004-2005
+435,Davide Possanzini,it ITA,"FW,MF",Palermo,28,1976,2,1,75,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+436,Alessandro Potenza,it ITA,DF,Chievo,20,1984,20,16,"1,354",15.0,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+437,Igor Protti,it ITA,FW,Livorno,36,1967,27,20,"1,819",20.2,6,2,4,2,2,4,1,0.30,0.10,0.40,0.20,0.30,Matches,2004-2005
+438,Cristian Raimondi,it ITA,"DF,MF",Palermo,23,1981,14,4,447,5.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+439,Álvaro Recoba,uy URU,"FW,MF",Inter,28,1976,13,4,485,5.4,3,5,3,0,0,2,0,0.56,0.93,1.48,0.56,1.48,Matches,2004-2005
+440,Rahman Rezaei,ir IRN,DF,Messina,29,1975,36,36,"3,237",36.0,0,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+442,Julio Ricardo Cruz,ar ARG,FW,Inter,29,1974,18,12,943,10.5,5,3,4,1,1,0,0,0.48,0.29,0.76,0.38,0.67,Matches,2004-2005
+443,Christian Riganò,it ITA,FW,Fiorentina,30,1974,18,9,890,9.9,4,2,4,0,0,1,0,0.40,0.20,0.61,0.40,0.61,Matches,2004-2005
+444,Claudio Rivalta,it ITA,DF,Atalanta,26,1978,31,31,"2,790",31.0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+445,Marco Roccati,it ITA,GK,Fiorentina,29,1975,3,2,225,2.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+446,Tommaso Rocchi,it ITA,"FW,MF",Lazio,26,1977,35,33,"2,837",31.5,13,1,13,0,0,4,1,0.41,0.03,0.44,0.41,0.44,Matches,2004-2005
+447,Antonio Rosati,it ITA,GK,Lecce,21,1983,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+448,Mattia Roselli,,,Sampdoria,17,1986,1,0,1,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+449,Aleandro Rosi,it ITA,"DF,MF",Roma,17,1987,1,0,4,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+450,Alessandro Rosina,it ITA,MF,Parma,20,1984,12,6,549,6.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+451,Fausto Rossini,it ITA,FW,Sampdoria,26,1978,31,16,"1,482",16.5,2,3,2,0,0,4,0,0.12,0.18,0.30,0.12,0.30,Matches,2004-2005
+452,Erminio Rullo,it ITA,DF,Lecce,20,1984,35,34,"3,076",34.2,1,2,1,0,0,9,0,0.03,0.06,0.09,0.03,0.09,Matches,2004-2005
+453,Francesco Ruopolo,it ITA,FW,Parma,21,1983,9,0,108,1.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+454,Gennaro Ruotolo,it ITA,MF,Livorno,37,1967,22,14,"1,271",14.1,0,3,0,0,0,3,0,0.00,0.21,0.21,0.00,0.21,Matches,2004-2005
+455,Rocco Sabato,it ITA,DF,Cagliari,22,1982,3,3,223,2.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+456,Stefano Sacchetti,it ITA,DF,Sampdoria,31,1972,14,11,970,10.8,1,1,1,0,0,3,0,0.09,0.09,0.19,0.09,0.19,Matches,2004-2005
+457,Luigi Sala,it ITA,DF,Atalanta,30,1974,29,27,"2,482",27.6,3,0,3,0,0,5,0,0.11,0.00,0.11,0.11,0.11,Matches,2004-2005
+458,Paolo Sammarco,it ITA,MF,Chievo,21,1983,15,12,"1,020",11.3,0,1,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches,2004-2005
+459,Mario Santana,ar ARG,MF,Palermo,22,1981,30,22,"1,949",21.7,3,3,3,0,0,0,0,0.14,0.14,0.28,0.14,0.28,Matches,2004-2005
+460,Nicola Santoni,it ITA,GK,Palermo,25,1979,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+461,Giuseppe Santoro,it ITA,GK,Messina,16,1987,1,0,45,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+462,Luigi Sartor,it ITA,DF,Roma,29,1975,7,5,440,4.9,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+463,Luca Saudati,it ITA,"FW,MF",Atalanta,26,1978,5,2,151,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+464,Filippo Savi,it ITA,MF,Parma,17,1987,2,1,115,1.3,0,,0,0,,1,0,0.00,,,0.00,,Matches,2004-2005
+465,Mirko Savini,it ITA,DF,Fiorentina,25,1979,12,6,585,6.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+466,Markus Schopp,at AUT,MF,Brescia,30,1974,17,8,929,10.3,1,1,1,0,0,4,0,0.10,0.10,0.19,0.10,0.19,Matches,2004-2005
+468,Giuseppe Sculli,it ITA,"FW,MF",Brescia,23,1981,28,19,"1,699",18.9,0,1,0,0,0,7,1,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+469,Giuseppe Scurto,it ITA,DF,Roma,20,1984,9,4,472,5.2,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+470,Juan Sebastián Verón,ar ARG,MF,Inter,29,1975,24,23,"1,974",21.9,3,2,3,0,0,7,0,0.14,0.09,0.23,0.14,0.23,Matches,2004-2005
+471,Clarence Seedorf,nl NED,MF,Milan,28,1976,32,26,"2,276",25.3,5,2,5,0,0,3,0,0.20,0.08,0.28,0.20,0.28,Matches,2004-2005
+472,Franco Semioli,it ITA,MF,Chievo,24,1980,35,32,"2,815",31.3,5,4,5,0,0,5,0,0.16,0.13,0.29,0.16,0.29,Matches,2004-2005
+473,Roberto Sensini,ar ARG,DF,Udinese,37,1966,21,21,"1,777",19.7,1,0,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,2004-2005
+474,Matteo Serafini,it ITA,"FW,MF",Siena,26,1978,7,0,117,1.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+475,Matteo Sereni,it ITA,GK,Lazio,29,1975,20,16,"1,630",18.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+476,Serginho,br BRA,"DF,MF",Milan,33,1971,21,6,931,10.3,5,1,5,0,0,1,0,0.48,0.10,0.58,0.48,0.58,Matches,2004-2005
+477,Anthony Šerić,hr CRO,DF,Lazio,25,1979,17,6,807,9.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+478,Andriy Shevchenko,ua UKR,FW,Milan,27,1976,29,27,"2,251",25.0,17,6,16,1,1,3,0,0.68,0.24,0.92,0.64,0.88,Matches,2004-2005
+479,Vincenzo Sicignano,it ITA,GK,Lecce,30,1974,36,36,"3,176",35.3,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+480,Rafael da Silva,br BRA,DF,Messina,24,1980,24,5,677,7.5,1,1,1,0,0,1,0,0.13,0.13,0.27,0.13,0.27,Matches,2004-2005
+481,Cristian Silvestri,it ITA,DF,Lecce,29,1975,6,2,198,2.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+482,Dario Šimić,hr CRO,DF,Milan,28,1975,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+483,Fábio Simplício,br BRA,MF,Parma,24,1979,33,30,"2,711",30.1,1,1,0,1,1,8,0,0.03,0.03,0.07,0.00,0.03,Matches,2004-2005
+484,Davide Sinigaglia,it ITA,FW,Atalanta,23,1981,12,3,383,4.3,1,0,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,2004-2005
+485,Sebastiano Siviglia,it ITA,DF,Lazio,31,1973,28,28,"2,368",26.3,2,1,2,0,0,4,1,0.08,0.04,0.11,0.08,0.11,Matches,2004-2005
+486,Tonino Sorrentino,it ITA,FW,Parma,19,1985,5,0,121,1.3,1,0,1,0,0,0,0,0.74,0.00,0.74,0.74,0.74,Matches,2004-2005
+487,Salvatore Soviero,it ITA,GK,Reggina,31,1973,18,17,"1,500",16.7,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+488,Jaap Stam,nl NED,DF,Milan,32,1972,17,15,"1,339",14.9,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+489,Marius Stankevičius,lt LTU,"DF,MF",Brescia,23,1981,33,29,"2,587",28.7,3,3,3,0,0,5,0,0.10,0.10,0.21,0.10,0.21,Matches,2004-2005
+490,Dejan Stanković,rs SRB,MF,Inter,25,1978,31,25,"2,318",25.8,3,6,3,0,0,7,1,0.12,0.23,0.35,0.12,0.35,Matches,2004-2005
+491,Marco Storari,it ITA,GK,Messina,27,1977,28,28,"2,520",28.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+492,Lorenzo Stovini,it ITA,DF,Lecce,27,1976,37,37,"3,330",37.0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+494,David Suazo,hn HON,FW,Cagliari,24,1979,22,13,"1,197",13.3,7,1,6,1,1,4,0,0.53,0.08,0.60,0.45,0.53,Matches,2004-2005
+495,Davide Succi,it ITA,FW,Chievo,22,1981,1,0,3,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+496,Salvatore Sullo,it ITA,MF,Messina,32,1971,18,14,"1,209",13.4,2,2,2,0,0,1,0,0.15,0.15,0.30,0.15,0.30,Matches,2004-2005
+497,Andrea Sussi,it ITA,DF,Bologna,30,1973,29,27,"2,343",26.0,1,1,1,0,0,7,1,0.04,0.04,0.08,0.04,0.08,Matches,2004-2005
+498,Alessio Tacchinardi,it ITA,MF,Juventus,29,1975,16,8,750,8.3,0,2,0,0,0,2,0,0.00,0.24,0.24,0.00,0.24,Matches,2004-2005
+499,Rodrigo Taddei,br BRA,"DF,FW",Siena,24,1980,21,17,"1,548",17.2,3,2,3,0,0,3,0,0.17,0.12,0.29,0.17,0.29,Matches,2004-2005
+500,Massimo Taibi,it ITA,GK,Atalanta,34,1970,22,22,"1,936",21.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+501,Leonardo Talamonti,ar ARG,DF,Lazio,22,1981,12,12,"1,080",12.0,1,0,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,2004-2005
+502,Igli Tare,al ALB,FW,Bologna,31,1973,26,19,"1,813",20.1,5,1,5,0,0,0,1,0.25,0.05,0.30,0.25,0.30,Matches,2004-2005
+503,Luca Tedeschi,it ITA,DF,Bologna,17,1987,1,0,1,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+504,Giacomo Tedesco,it ITA,MF,Reggina,28,1976,33,28,"2,481",27.6,1,1,1,0,0,4,1,0.04,0.04,0.07,0.04,0.07,Matches,2004-2005
+505,Christian Terlizzi,it ITA,DF,Palermo,24,1979,14,10,907,10.1,1,0,1,0,0,3,1,0.10,0.00,0.10,0.10,0.10,Matches,2004-2005
+506,Lilian Thuram,fr FRA,DF,Juventus,32,1972,37,37,"3,330",37.0,0,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+507,Simone Tiribocchi,it ITA,FW,Chievo,26,1978,21,14,"1,218",13.5,5,0,5,0,0,4,1,0.37,0.00,0.37,0.37,0.37,Matches,2004-2005
+508,Fernando Tissone,ar ARG,MF,Udinese,18,1986,2,0,16,0.2,0,,0,0,,1,0,0.00,,,0.00,,Matches,2004-2005
+509,Francesco Toldo,it ITA,GK,Inter,32,1971,30,30,"2,659",29.5,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+510,Max Tonetto,it ITA,"DF,MF",Sampdoria,29,1974,33,33,"2,754",30.6,5,6,5,0,0,4,0,0.16,0.20,0.36,0.16,0.36,Matches,2004-2005
+511,Luca Toni,it ITA,FW,Palermo,27,1977,35,35,"3,127",34.7,20,5,17,3,3,10,0,0.58,0.14,0.72,0.49,0.63,Matches,2004-2005
+512,Stefano Torrisi,it ITA,DF,Bologna,33,1971,25,25,"2,057",22.9,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+513,Francesco Totti,it ITA,"FW,MF",Roma,27,1976,29,29,"2,568",28.5,12,10,9,3,5,12,2,0.42,0.35,0.77,0.32,0.67,Matches,2004-2005
+514,David Trezeguet,fr FRA,FW,Juventus,26,1977,18,14,"1,171",13.0,9,0,9,0,0,0,0,0.69,0.00,0.69,0.69,0.69,Matches,2004-2005
+515,Igor Tudor,hr CRO,DF,Juventus,26,1978,2,0,18,0.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+516,Igor Tudor,hr CRO,DF,Siena,26,1978,15,15,"1,348",15.0,1,1,1,0,0,4,1,0.07,0.07,0.13,0.07,0.13,Matches,2004-2005
+517,Luigi Turci,it ITA,GK,Sampdoria,34,1970,2,1,152,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+518,Tomáš Ujfaluši,cz CZE,DF,Fiorentina,26,1978,28,27,"2,426",27.0,0,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+520,Jaime Valdés,cl CHI,"FW,MF",Fiorentina,23,1981,5,2,132,1.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+521,Jaime Valdés,cl CHI,"FW,MF",Lecce,23,1981,15,10,856,9.5,1,2,1,0,0,3,0,0.11,0.21,0.32,0.11,0.32,Matches,2004-2005
+522,Alberto Valentim,br BRA,"DF,MF",Siena,29,1975,15,14,"1,071",11.9,0,1,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+523,Alberto Valentim,br BRA,"DF,MF",Udinese,29,1975,2,2,116,1.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+524,Simone Vergassola,it ITA,MF,Siena,28,1976,37,37,"3,247",36.1,6,2,6,0,0,4,1,0.17,0.06,0.22,0.17,0.22,Matches,2004-2005
+525,Ricardo Verón,ar ARG,MF,Reggina,23,1981,1,0,1,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+526,William Viali,it ITA,DF,Fiorentina,29,1974,34,33,"2,816",31.3,0,1,0,0,0,10,1,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+527,Christian Vieri,it ITA,FW,Inter,31,1973,27,19,"1,730",19.2,13,1,11,2,2,2,0,0.68,0.05,0.73,0.57,0.62,Matches,2004-2005
+528,Luca Vigiani,it ITA,MF,Livorno,27,1976,34,26,"2,309",25.7,3,4,3,0,0,3,0,0.12,0.16,0.27,0.12,0.27,Matches,2004-2005
+529,Fabio Vignaroli,it ITA,"FW,MF",Parma,28,1976,16,6,556,6.2,0,,0,0,,1,0,0.00,,,0.00,,Matches,2004-2005
+530,Fabio Vignati,,,Cagliari,20,1984,1,0,4,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+531,Valerio Virga,it ITA,MF,Roma,18,1986,6,2,342,3.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+532,Sergio Volpi,it ITA,MF,Sampdoria,30,1974,34,33,"2,927",32.5,2,3,2,0,0,12,1,0.06,0.09,0.15,0.06,0.15,Matches,2004-2005
+533,Johan Vonlanthen,ch SUI,"FW,MF",Brescia,18,1986,9,2,315,3.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+534,Mirko Vučinić,me MNE,FW,Lecce,20,1983,28,20,"1,895",21.1,19,1,19,0,0,3,0,0.90,0.05,0.95,0.90,0.95,Matches,2004-2005
+535,Pierre Womé,cm CMR,DF,Brescia,25,1979,16,16,"1,440",16.0,3,2,3,0,0,1,0,0.19,0.12,0.31,0.19,0.31,Matches,2004-2005
+536,Abel Xavier,pt POR,DF,Roma,31,1972,3,2,199,2.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+537,Atsushi Yanagisawa,jp JPN,FW,Messina,27,1977,22,7,789,8.8,0,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches,2004-2005
+538,Cristian Zaccardo,it ITA,DF,Palermo,22,1981,35,34,"3,017",33.5,2,1,2,0,0,5,1,0.06,0.03,0.09,0.06,0.09,Matches,2004-2005
+539,Theodoros Zagorakis,gr GRE,MF,Bologna,32,1971,32,30,"2,702",30.0,0,3,0,0,0,7,1,0.00,0.10,0.10,0.00,0.10,Matches,2004-2005
+540,Marcelo Zalayeta,uy URU,FW,Juventus,25,1978,28,10,"1,322",14.7,6,5,6,0,0,1,0,0.41,0.34,0.75,0.41,0.75,Matches,2004-2005
+541,Marco Zambelli,it ITA,"DF,MF",Brescia,18,1985,5,2,173,1.9,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+542,Marco Zamboni,it ITA,DF,Reggina,26,1977,28,24,"2,178",24.2,2,0,2,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches,2004-2005
+543,Fabrizio Zambrella,ch SUI,MF,Brescia,18,1986,13,10,650,7.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+544,Gianluca Zambrotta,it ITA,DF,Juventus,27,1977,36,36,"3,237",36.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+546,Riccardo Zampagna,it ITA,FW,Messina,29,1974,28,28,"2,326",25.8,12,3,12,0,0,8,0,0.46,0.12,0.58,0.46,0.58,Matches,2004-2005
+547,Andrea Zanchetta,it ITA,MF,Chievo,29,1975,22,12,"1,186",13.2,1,2,1,0,0,3,0,0.08,0.15,0.23,0.08,0.23,Matches,2004-2005
+548,Marco Zanchi,it ITA,DF,Messina,27,1977,29,26,"2,186",24.3,0,1,0,0,0,9,0,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+549,Cristiano Zanetti,it ITA,MF,Inter,27,1977,23,18,"1,642",18.2,0,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+550,Javier Zanetti,ar ARG,"DF,MF",Inter,30,1973,35,32,"3,008",33.4,0,1,0,0,0,1,0,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+551,Lamberto Zauli,it ITA,MF,Palermo,33,1971,27,26,"2,092",23.2,4,4,4,0,0,8,0,0.17,0.17,0.34,0.17,0.34,Matches,2004-2005
+552,Luciano Zauri,it ITA,DF,Lazio,26,1978,21,21,"1,847",20.5,0,1,0,0,0,3,0,0.00,0.05,0.05,0.00,0.05,Matches,2004-2005
+553,Jonathan Zebina,fr FRA,DF,Juventus,26,1978,24,24,"2,072",23.0,0,2,0,0,0,7,0,0.00,0.09,0.09,0.00,0.09,Matches,2004-2005
+554,Cristian Zenoni,it ITA,DF,Sampdoria,27,1977,35,35,"3,112",34.6,0,1,0,0,0,6,1,0.00,0.03,0.03,0.00,0.03,Matches,2004-2005
+555,Damiano Zenoni,it ITA,"DF,MF",Udinese,27,1977,16,13,"1,135",12.6,0,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches,2004-2005
+556,Damiano Zenoni,it ITA,"DF,MF",Atalanta,27,1977,17,14,"1,300",14.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+557,Ilyas Zeytulayev,,,Reggina,19,1984,2,0,40,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2004-2005
+558,Ianis Zicu,ro ROU,"FW,MF",Parma,20,1983,2,1,75,0.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005
+559,Davide Zoboli,it ITA,DF,Brescia,22,1981,27,23,"2,094",23.3,1,0,1,0,0,4,2,0.04,0.00,0.04,0.04,0.04,Matches,2004-2005
+560,Gianfranco Zola,it ITA,FW,Cagliari,38,1966,31,30,"2,247",25.0,9,7,6,3,4,0,0,0.36,0.28,0.64,0.24,0.52,Matches,2004-2005
+561,Marco Zoro,ci CIV,DF,Messina,20,1983,30,27,"2,536",28.2,0,1,0,0,0,11,1,0.00,0.04,0.04,0.00,0.04,Matches,2004-2005
+562,Carlo Zotti,it ITA,GK,Roma,21,1982,10,10,900,10.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2004-2005

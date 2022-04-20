@@ -9,20 +9,29 @@ source("src/functions.R")
 league_meta <- read_csv("config/league-meta.csv")
 
 # seasons to scrape
-seasons <- 2021
+seasons <- as.double(2013:2014)
 
-# scrape ---------------------------------------------------
 
-transfers <- map2(
-  league_meta$league_name, league_meta$league_id,
-  ~ map_dfr(seasons, scrape_season_transfers, 
-            league_name = .x, league_id = .y)
+for (season in seasons){
+  # scrape ---------------------------------------------------
+  transfers <- map2(
+    league_meta$league_name, league_meta$league_id,
+    ~ map_dfr(season, 
+              scrape_season_transfers, 
+              league_name = .x,
+              league_id = .y)
   )
-
-# export ---------------------------------------------------
-
-# create directory tree
-fs::dir_create(path = file.path("data", seasons))
-
-# export data
-map2(transfers, league_meta$file_name, export_data)
+  
+  # export ---------------------------------------------------
+  
+  # create directory tree
+  fs::dir_create(path = file.path("data", season))
+  
+  # export data
+  map2(transfers, 
+       league_meta$file_name,
+       export_data)
+  
+  # Pretend to be human (yet again)
+  Sys.sleep(2)
+}

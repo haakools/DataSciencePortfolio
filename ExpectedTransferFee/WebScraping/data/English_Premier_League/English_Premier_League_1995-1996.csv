@@ -1,0 +1,516 @@
+,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+0,Gary Ablett,eng ENG,DF,Everton,29,1965,13,13,"1,017",11.3,0,1,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches,1995-1996
+1,Tony Adams,eng ENG,DF,Arsenal,28,1966,21,21,"1,890",21.0,1,1,1,0,0,4,1,0.05,0.05,0.10,0.05,0.10,Matches,1995-1996
+2,Jan Åge Fjørtoft,no NOR,FW,Middlesbrough,28,1967,28,27,"2,341",26.0,6,4,6,0,0,3,0,0.23,0.15,0.38,0.23,0.38,Matches,1995-1996
+3,Philippe Albert,be BEL,DF,Newcastle Utd,27,1967,23,19,"1,804",20.0,4,1,4,0,0,5,0,0.20,0.05,0.25,0.20,0.25,Matches,1995-1996
+4,Bradley Allen,eng ENG,FW,QPR,23,1971,8,4,386,4.3,1,1,1,0,0,3,0,0.23,0.23,0.47,0.23,0.47,Matches,1995-1996
+5,Chris Allen,eng ENG,MF,Nott'ham Forest,22,1972,3,1,119,1.3,1,1,1,0,,1,0,0.76,0.76,1.51,0.76,1.51,Matches,1995-1996
+6,Martin Allen,eng ENG,MF,West Ham,29,1965,3,3,270,3.0,1,0,1,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches,1995-1996
+7,Daniel Amokachi,ng NGA,FW,Everton,22,1972,25,17,"1,745",19.4,6,3,6,0,0,1,0,0.31,0.15,0.46,0.31,0.46,Matches,1995-1996
+8,Darren Anderton,eng ENG,MF,Tottenham,23,1972,8,6,549,6.1,2,1,2,0,0,0,0,0.33,0.16,0.49,0.33,0.49,Matches,1995-1996
+9,Neal Ardley,eng ENG,MF,Wimbledon,22,1972,6,4,365,4.1,0,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,1995-1996
+10,Chris Armstrong,eng ENG,FW,Tottenham,24,1971,36,36,"3,240",36.0,15,6,15,0,0,4,0,0.42,0.17,0.58,0.42,0.58,Matches,1995-1996
+11,Faustino Asprilla,co COL,FW,Newcastle Utd,25,1969,14,11,980,10.9,3,7,3,0,0,2,0,0.28,0.64,0.92,0.28,0.92,Matches,1995-1996
+12,Peter Atherton,eng ENG,"DF,MF",Sheffield Weds,25,1970,36,36,"3,240",36.0,0,2,0,0,0,5,0,0.00,0.06,0.06,0.00,0.06,Matches,1995-1996
+13,Mark Atkins,eng ENG,"DF,MF",Blackburn,26,1968,4,0,45,0.5,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+14,Dean Austin,eng ENG,DF,Tottenham,25,1970,28,28,"2,520",28.0,0,2,0,0,0,8,0,0.00,0.07,0.07,0.00,0.07,Matches,1995-1996
+15,Phil Babb,ie IRL,DF,Liverpool,24,1970,28,28,"2,502",27.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+16,David Bardsley,eng ENG,DF,QPR,30,1964,30,29,"2,472",27.5,0,2,0,0,0,5,1,0.00,0.07,0.07,0.00,0.07,Matches,1995-1996
+17,Simon Barker,eng ENG,MF,QPR,30,1964,33,33,"2,944",32.7,5,2,5,0,0,9,0,0.15,0.06,0.21,0.15,0.21,Matches,1995-1996
+18,Stuart Barlow,eng ENG,FW,Everton,27,1968,3,0,56,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+19,Nick Barmby,eng ENG,"FW,MF",Middlesbrough,21,1974,32,32,"2,880",32.0,7,7,7,0,1,4,0,0.22,0.22,0.44,0.22,0.44,Matches,1995-1996
+20,John Barnes,eng ENG,"DF,FW",Liverpool,31,1963,36,36,"3,173",35.3,3,10,3,0,0,0,0,0.09,0.28,0.37,0.09,0.37,Matches,1995-1996
+21,Jamie Barnwell-Edinboro,eng ENG,FW,Coventry City,19,1975,1,0,72,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+22,Earl Barrett,eng ENG,DF,Everton,28,1967,8,8,720,8.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+23,Michael Barron,eng ENG,DF,Middlesbrough,20,1974,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+24,Chris Bart-Williams,eng ENG,"DF,MF",Nott'ham Forest,21,1974,33,33,"2,970",33.0,0,2,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,1995-1996
+26,Warren Barton,eng ENG,DF,Newcastle Utd,26,1969,31,30,"2,610",29.0,0,4,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,1995-1996
+27,David Batty,eng ENG,MF,Newcastle Utd,26,1968,11,11,990,11.0,1,2,,,,2,0,0.09,0.18,0.27,,,Matches,1995-1996
+28,David Batty,eng ENG,MF,Blackburn,26,1968,23,23,"2,025",22.5,1,1,,,,5,0,0.04,0.04,0.09,,,Matches,1995-1996
+29,Peter Beagrie,eng ENG,FW,Manchester City,29,1965,5,4,356,4.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+30,Peter Beardsley,eng ENG,"FW,MF",Newcastle Utd,34,1961,33,33,"2,784",30.9,8,9,6,2,3,6,0,0.26,0.29,0.55,0.19,0.48,Matches,1995-1996
+31,Dave Beasant,eng ENG,GK,Southampton,36,1959,36,36,"3,240",36.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+32,David Beckham,eng ENG,MF,Manchester Utd,20,1975,32,25,"2,518",28.0,7,5,7,0,0,5,0,0.25,0.18,0.43,0.25,0.43,Matches,1995-1996
+33,Mark Beeney,eng ENG,GK,Leeds United,27,1967,10,10,825,9.2,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+34,Paul Beesley,eng ENG,DF,Leeds United,30,1965,10,8,726,8.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+35,Francis Benali,eng ENG,DF,Southampton,26,1968,29,28,"2,501",27.8,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+36,Frankie Bennett,eng ENG,FW,Southampton,26,1969,10,5,445,4.9,0,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,1995-1996
+37,John Beresford,eng ENG,DF,Newcastle Utd,28,1966,33,32,"2,734",30.4,0,2,0,0,,4,1,0.00,0.07,0.07,0.00,0.07,Matches,1995-1996
+38,Henning Berg,no NOR,DF,Blackburn,25,1969,38,38,"3,381",37.6,0,1,0,0,0,4,1,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+39,Dennis Bergkamp,nl NED,FW,Arsenal,26,1969,33,33,"2,925",32.5,11,8,11,0,0,5,0,0.34,0.25,0.58,0.34,0.58,Matches,1995-1996
+40,Guðni Bergsson,is ISL,DF,Bolton,30,1965,34,34,"3,015",33.5,4,1,4,0,0,9,1,0.12,0.03,0.15,0.12,0.15,Matches,1995-1996
+41,Slaven Bilić,hr CRO,DF,West Ham,26,1968,13,13,"1,149",12.8,0,1,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches,1995-1996
+42,Ian Bishop,eng ENG,MF,West Ham,30,1965,35,35,"3,106",34.5,1,4,1,0,0,3,0,0.03,0.12,0.14,0.03,0.14,Matches,1995-1996
+43,Kingsley Black,nir NIR,MF,Nott'ham Forest,27,1968,2,1,95,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+44,Clayton Blackmore,wls WAL,"DF,MF",Middlesbrough,30,1964,5,4,382,4.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+45,Dean Blackwell,eng ENG,DF,Wimbledon,25,1969,8,8,720,8.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+46,Nathan Blake,wls WAL,FW,Bolton,23,1972,18,14,"1,206",13.4,1,1,1,0,0,4,0,0.07,0.07,0.15,0.07,0.15,Matches,1995-1996
+47,Regi Blinker,nl NED,"FW,MF",Sheffield Weds,26,1969,9,9,728,8.1,2,0,2,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,1995-1996
+48,Gary Blissett,eng ENG,FW,Wimbledon,31,1964,4,0,29,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+49,Jason Blunt,eng ENG,MF,Leeds United,17,1977,3,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+50,Jeroen Boere,nl NED,FW,West Ham,27,1967,1,0,9,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+52,Lars Bohinen,no NOR,MF,Blackburn,25,1969,19,17,"1,532",17.0,4,1,,,,3,0,0.23,0.06,0.29,,,Matches,1995-1996
+53,Lars Bohinen,no NOR,MF,Nott'ham Forest,25,1969,7,7,593,6.6,0,0,,,,1,0,0.00,0.00,0.00,,,Matches,1995-1996
+54,Willie Boland,ie IRL,MF,Coventry City,19,1975,3,2,265,2.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+55,Marco Boogers,nl NED,FW,West Ham,28,1967,4,0,100,1.1,0,1,0,0,0,0,1,0.00,0.90,0.90,0.00,0.90,Matches,1995-1996
+56,Brian Borrows,eng ENG,DF,Coventry City,34,1960,21,21,"1,839",20.4,0,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05,Matches,1995-1996
+57,Mark Bosnich,au AUS,GK,Aston Villa,23,1972,38,38,"3,375",37.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+58,Steve Bould,eng ENG,DF,Arsenal,32,1962,19,19,"1,677",18.6,0,2,0,0,0,7,1,0.00,0.11,0.11,0.00,0.11,Matches,1995-1996
+59,Rob Bowman,eng ENG,FW,Leeds United,19,1975,3,1,98,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+60,Keith Branagan,ie IRL,GK,Bolton,29,1966,31,31,"2,790",31.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+61,Michael Branch,eng ENG,FW,Everton,16,1978,3,1,108,1.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+62,Branco,br BRA,DF,Middlesbrough,31,1964,7,5,422,4.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+63,Matt Brazier,,MF,QPR,19,1976,11,6,453,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+64,Tim Breacker,eng ENG,DF,West Ham,30,1965,22,19,"1,808",20.1,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+65,Rufus Brevett,eng ENG,DF,QPR,25,1969,27,26,"2,320",25.8,1,1,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08,Matches,1995-1996
+66,Mark Bright,eng ENG,FW,Sheffield Weds,33,1962,25,16,"1,467",16.3,7,2,7,0,0,2,0,0.43,0.12,0.55,0.43,0.55,Matches,1995-1996
+67,Ian Brightwell,eng ENG,DF,Manchester City,27,1968,29,26,"2,323",25.8,0,1,0,0,0,4,1,0.00,0.04,0.04,0.00,0.04,Matches,1995-1996
+68,Lee Briscoe,eng ENG,"DF,MF",Sheffield Weds,19,1975,25,22,"1,859",20.7,0,3,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,1995-1996
+69,Tomas Brolin,se SWE,"FW,MF",Leeds United,25,1969,19,17,"1,442",16.0,3,5,3,0,0,3,0,0.19,0.31,0.50,0.19,0.50,Matches,1995-1996
+70,Kenny Brown,eng ENG,DF,West Ham,28,1967,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+71,Michael Brown,eng ENG,MF,Manchester City,18,1977,20,16,"1,474",16.4,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+72,Paul Browne,sct SCO,DF,Aston Villa,20,1975,2,2,180,2.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+73,Steve Bruce,eng ENG,DF,Manchester Utd,34,1960,30,30,"2,508",27.9,1,0,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches,1995-1996
+74,Craig Burley,sct SCO,MF,Chelsea,23,1971,22,16,"1,463",16.3,0,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches,1995-1996
+75,Wayne Burnett,eng ENG,MF,Bolton,23,1971,1,0,22,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+76,David Burrows,eng ENG,DF,Coventry City,26,1968,11,11,943,10.5,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+78,David Busst,eng ENG,DF,Coventry City,28,1967,17,16,"1,405",15.6,2,0,2,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches,1995-1996
+79,Nicky Butt,eng ENG,"DF,MF",Manchester Utd,20,1975,32,31,"2,649",29.4,2,3,2,0,0,8,1,0.07,0.10,0.17,0.07,0.17,Matches,1995-1996
+80,Colin Calderwood,sct SCO,DF,Tottenham,30,1965,30,27,"2,275",25.3,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+81,Andy Campbell,eng ENG,FW,Middlesbrough,16,1979,2,1,75,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+82,Kevin Campbell,eng ENG,FW,Nott'ham Forest,25,1970,21,21,"1,795",19.9,3,4,3,0,0,2,0,0.15,0.20,0.35,0.15,0.35,Matches,1995-1996
+83,Sol Campbell,eng ENG,"DF,FW",Tottenham,20,1974,31,31,"2,624",29.2,1,2,1,0,0,2,0,0.03,0.07,0.10,0.03,0.10,Matches,1995-1996
+84,Eric Cantona,fr FRA,FW,Manchester Utd,29,1966,30,30,"2,682",29.8,14,10,10,4,4,1,0,0.47,0.34,0.81,0.34,0.67,Matches,1995-1996
+85,Franz Carr,eng ENG,"FW,MF",Aston Villa,28,1966,1,1,90,1.0,0,,0,0,,1,0,0.00,,,0.00,,Matches,1995-1996
+86,Darren Caskey,eng ENG,MF,Tottenham,20,1974,3,3,270,3.0,0,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,1995-1996
+87,Stewart Castledine,eng ENG,MF,Wimbledon,22,1973,4,2,215,2.4,1,0,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches,1995-1996
+88,Trevor Challis,eng ENG,DF,QPR,19,1975,11,10,938,10.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+89,Lee Chapman,eng ENG,FW,Leeds United,35,1959,2,2,151,1.7,0,1,0,0,0,0,1,0.00,0.60,0.60,0.00,0.60,Matches,1995-1996
+90,Gary Charles,eng ENG,DF,Aston Villa,25,1970,34,34,"2,999",33.3,1,6,1,0,0,1,0,0.03,0.18,0.21,0.03,0.21,Matches,1995-1996
+91,Lee Charles,,FW,QPR,23,1971,4,0,107,1.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+92,Simon Charlton,eng ENG,DF,Southampton,23,1971,25,23,"2,090",23.2,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+93,Steve Chettle,eng ENG,DF,Nott'ham Forest,26,1968,37,37,"3,306",36.7,0,1,0,0,0,4,1,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+94,Iyseden Christie,eng ENG,FW,Coventry City,18,1976,1,1,27,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+95,Lee Clark,eng ENG,MF,Newcastle Utd,22,1972,27,21,"2,081",23.1,2,1,2,0,0,1,0,0.09,0.04,0.13,0.09,0.13,Matches,1995-1996
+96,Adrian Clarke,eng ENG,MF,Arsenal,20,1974,6,4,359,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+97,Andy Clarke,eng ENG,FW,Wimbledon,28,1967,18,9,952,10.6,2,2,2,0,0,0,0,0.19,0.19,0.38,0.19,0.38,Matches,1995-1996
+98,Steve Clarke,sct SCO,DF,Chelsea,31,1963,22,21,"1,935",21.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+99,Nigel Clough,eng ENG,"FW,MF",Liverpool,29,1966,2,1,116,1.3,0,0,,,,1,0,0.00,0.00,0.00,,,Matches,1995-1996
+100,Nigel Clough,eng ENG,"FW,MF",Manchester City,29,1966,15,15,"1,327",14.7,2,3,,,,2,0,0.14,0.20,0.34,,,Matches,1995-1996
+101,Andy Cole,eng ENG,FW,Manchester Utd,23,1971,34,32,"2,731",30.3,11,6,11,0,0,4,0,0.36,0.20,0.56,0.36,0.56,Matches,1995-1996
+102,Chris Coleman,wls WAL,DF,Blackburn,25,1970,21,20,"1,746",19.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+104,Simon Coleman,eng ENG,DF,Bolton,27,1968,12,12,"1,075",11.9,1,1,1,0,0,2,0,0.08,0.08,0.17,0.08,0.17,Matches,1995-1996
+105,Stan Collymore,eng ENG,FW,Liverpool,24,1971,31,30,"2,567",28.5,14,11,14,0,0,2,0,0.49,0.39,0.88,0.49,0.88,Matches,1995-1996
+106,Paul Cook,eng ENG,MF,Coventry City,28,1967,3,2,162,1.8,0,1,0,0,0,0,0,0.00,0.56,0.56,0.00,0.56,Matches,1995-1996
+107,Terry Cooke,eng ENG,MF,Manchester Utd,18,1976,4,2,118,1.3,0,1,0,0,0,0,0,0.00,0.76,0.76,0.00,0.76,Matches,1995-1996
+108,Colin Cooper,eng ENG,DF,Nott'ham Forest,28,1967,37,37,"3,270",36.3,5,1,5,0,0,7,0,0.14,0.03,0.17,0.14,0.17,Matches,1995-1996
+109,Tony Cottee,eng ENG,FW,West Ham,30,1965,33,30,"2,598",28.9,10,2,10,0,0,1,0,0.35,0.07,0.42,0.35,0.42,Matches,1995-1996
+110,Andy Couzens,eng ENG,MF,Leeds United,20,1975,14,9,779,8.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+111,Neil Cox,eng ENG,DF,Middlesbrough,23,1971,35,35,"3,150",35.0,2,1,2,0,0,7,0,0.06,0.03,0.09,0.06,0.09,Matches,1995-1996
+112,Owen Coyle,ie IRL,FW,Bolton,29,1966,5,2,199,2.2,0,2,0,0,0,0,0,0.00,0.90,0.90,0.00,0.90,Matches,1995-1996
+113,Gerry Creaney,sct SCO,FW,Manchester City,25,1970,15,8,748,8.3,3,0,3,0,0,2,0,0.36,0.00,0.36,0.36,0.36,Matches,1995-1996
+114,Mark Crossley,wls WAL,GK,Nott'ham Forest,26,1969,38,38,"3,420",38.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+115,Jason Cundy,eng ENG,DF,Tottenham,25,1969,1,0,71,0.8,0,,0,0,,1,0,0.00,,,0.00,,Matches,1995-1996
+116,Kenny Cunningham,ie IRL,DF,Wimbledon,24,1971,33,32,"2,857",31.7,0,3,0,0,0,6,0,0.00,0.09,0.09,0.00,0.09,Matches,1995-1996
+117,Saša Ćurčić,rs SRB,MF,Bolton,23,1972,27,27,"2,431",27.0,4,7,4,0,0,3,0,0.15,0.26,0.41,0.15,0.41,Matches,1995-1996
+118,Keith Curle,eng ENG,DF,Manchester City,31,1963,32,32,"2,880",32.0,0,0,0,0,1,7,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+119,Liam Daish,ie IRL,DF,Coventry City,26,1968,11,11,990,11.0,1,0,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,1995-1996
+120,Dani,pt POR,"FW,MF",West Ham,18,1976,9,3,312,3.5,2,2,2,0,0,0,0,0.58,0.58,1.15,0.58,1.15,Matches,1995-1996
+121,Simon Davies,wls WAL,MF,Manchester Utd,21,1974,6,1,169,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+122,Neil Davis,eng ENG,FW,Aston Villa,21,1973,2,0,73,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+123,Aidan Davison,nir NIR,GK,Bolton,27,1968,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+124,Brian Deane,eng ENG,FW,Leeds United,27,1968,33,29,"2,790",31.0,7,4,7,0,0,4,0,0.23,0.13,0.35,0.23,0.35,Matches,1995-1996
+125,Marc Degryse,be BEL,FW,Sheffield Weds,29,1965,34,30,"2,681",29.8,8,5,8,0,0,0,0,0.27,0.17,0.44,0.27,0.44,Matches,1995-1996
+126,Danny Dichio,eng ENG,FW,QPR,20,1974,29,22,"2,053",22.8,10,5,10,0,0,7,1,0.44,0.22,0.66,0.44,0.66,Matches,1995-1996
+127,Paul Dickov,sct SCO,FW,Arsenal,22,1972,7,1,246,2.7,1,2,1,0,0,0,0,0.37,0.73,1.10,0.37,1.10,Matches,1995-1996
+128,Julian Dicks,eng ENG,DF,West Ham,26,1968,34,34,"3,024",33.6,10,3,5,5,6,5,1,0.30,0.09,0.39,0.15,0.24,Matches,1995-1996
+130,Lee Dixon,eng ENG,DF,Arsenal,31,1964,38,38,"3,330",37.0,2,3,2,0,0,2,0,0.05,0.08,0.14,0.05,0.14,Matches,1995-1996
+131,Jason Dodd,eng ENG,DF,Southampton,24,1970,37,37,"3,330",37.0,2,1,2,0,0,4,0,0.05,0.03,0.08,0.05,0.08,Matches,1995-1996
+132,O'Neill Donaldson,eng ENG,FW,Sheffield Weds,25,1969,3,1,113,1.3,1,0,1,0,0,0,0,0.80,0.00,0.80,0.80,0.80,Matches,1995-1996
+133,Tony Dorigo,eng ENG,DF,Leeds United,29,1965,16,16,"1,344",14.9,1,2,1,0,0,2,0,0.07,0.13,0.20,0.07,0.20,Matches,1995-1996
+134,Andy Dow,sct SCO,DF,Chelsea,22,1973,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+135,Iain Dowie,nir NIR,FW,West Ham,30,1965,33,33,"2,967",33.0,8,1,8,0,0,6,0,0.24,0.03,0.27,0.24,0.27,Matches,1995-1996
+136,Jason Dozzell,eng ENG,MF,Tottenham,27,1967,28,24,"2,196",24.4,3,0,3,0,0,9,0,0.12,0.00,0.12,0.12,0.12,Matches,1995-1996
+137,Mark Draper,eng ENG,MF,Aston Villa,24,1970,36,36,"3,143",34.9,2,6,2,0,0,1,0,0.06,0.17,0.23,0.06,0.23,Matches,1995-1996
+138,Michael Duberry,eng ENG,DF,Chelsea,19,1975,22,22,"1,895",21.1,0,1,0,0,0,3,0,0.00,0.05,0.05,0.00,0.05,Matches,1995-1996
+139,Dion Dublin,eng ENG,"DF,FW",Coventry City,26,1969,34,34,"2,988",33.2,14,3,14,0,0,2,0,0.42,0.09,0.51,0.42,0.51,Matches,1995-1996
+140,Ilie Dumitrescu,ro ROU,"FW,MF",Tottenham,26,1969,5,5,439,4.9,0,0,,,,0,0,0.00,0.00,0.00,,,Matches,1995-1996
+141,Ilie Dumitrescu,ro ROU,"FW,MF",West Ham,26,1969,3,2,178,2.0,0,0,,,,0,0,0.00,0.00,0.00,,,Matches,1995-1996
+142,Robbie Earle,jm JAM,MF,Wimbledon,30,1965,37,37,"3,291",36.6,11,4,11,0,0,2,1,0.30,0.11,0.41,0.30,0.41,Matches,1995-1996
+143,John Ebbrell,eng ENG,MF,Everton,25,1969,25,24,"2,126",23.6,4,1,4,0,0,5,0,0.17,0.04,0.21,0.17,0.21,Matches,1995-1996
+144,Richard Edghill,eng ENG,DF,Manchester City,20,1974,13,13,"1,040",11.6,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+145,Justin Edinburgh,eng ENG,DF,Tottenham,25,1969,22,15,"1,450",16.1,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+146,Ugo Ehiogu,eng ENG,DF,Aston Villa,22,1972,36,36,"3,240",36.0,1,0,1,0,0,7,0,0.03,0.00,0.03,0.03,0.03,Matches,1995-1996
+147,Ronnie Ekelund,dk DEN,"FW,MF",Manchester City,22,1972,4,3,200,2.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+148,Efan Ekoku,ng NGA,FW,Wimbledon,28,1967,32,29,"2,345",26.1,7,3,7,0,0,5,0,0.27,0.12,0.38,0.27,0.38,Matches,1995-1996
+149,Gary Elkins,eng ENG,DF,Wimbledon,29,1966,10,7,688,7.6,0,1,0,0,0,3,0,0.00,0.13,0.13,0.00,0.13,Matches,1995-1996
+150,Robbie Elliott,eng ENG,DF,Newcastle Utd,21,1973,6,5,516,5.7,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+151,Jason Euell,jm JAM,"FW,MF",Wimbledon,18,1977,9,4,465,5.2,2,0,2,0,0,1,0,0.39,0.00,0.39,0.39,0.39,Matches,1995-1996
+152,Chris Fairclough,eng ENG,DF,Bolton,31,1964,33,33,"2,916",32.4,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+153,Gareth Farrelly,ie IRL,MF,Aston Villa,19,1975,5,1,120,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+154,Peter Fear,eng ENG,MF,Wimbledon,21,1973,4,4,286,3.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+156,Graham Fenton,eng ENG,MF,Aston Villa,21,1974,3,0,52,0.6,0,0,,,,0,0,0.00,0.00,0.00,,,Matches,1995-1996
+157,Graham Fenton,eng ENG,MF,Blackburn,21,1974,14,4,596,6.6,6,2,,,,2,0,0.91,0.30,1.21,,,Matches,1995-1996
+158,Les Ferdinand,eng ENG,FW,Newcastle Utd,28,1966,36,36,"3,122",34.7,25,6,25,0,0,4,0,0.72,0.17,0.89,0.72,0.89,Matches,1995-1996
+159,Rio Ferdinand,eng ENG,DF,West Ham,16,1978,1,0,21,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+160,Duncan Ferguson,sct SCO,FW,Everton,23,1971,18,16,"1,463",16.3,5,2,5,0,0,4,0,0.31,0.12,0.43,0.31,0.43,Matches,1995-1996
+161,John Filan,au AUS,GK,Coventry City,25,1970,13,13,"1,170",13.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+162,Neil Finn,eng ENG,GK,West Ham,16,1978,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+163,Scott Fitzgerald,ie IRL,DF,Wimbledon,25,1969,4,2,294,3.3,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+164,Curtis Fleming,ie IRL,DF,Middlesbrough,26,1968,13,13,"1,143",12.7,1,0,1,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches,1995-1996
+165,Garry Flitcroft,eng ENG,MF,Manchester City,22,1972,25,25,"2,103",23.4,0,0,,,,9,0,0.00,0.00,0.00,,,Matches,1995-1996
+166,Garry Flitcroft,eng ENG,MF,Blackburn,22,1972,3,3,183,2.0,0,0,,,,1,1,0.00,0.00,0.00,,,Matches,1995-1996
+167,Tim Flowers,eng ENG,GK,Blackburn,28,1967,37,37,"3,318",36.9,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+168,Mark Ford,eng ENG,MF,Leeds United,19,1975,12,12,963,10.7,0,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches,1995-1996
+169,John Foster,eng ENG,DF,Manchester City,21,1973,4,4,356,4.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+170,Robbie Fowler,eng ENG,FW,Liverpool,20,1975,38,36,"3,306",36.7,28,5,27,1,1,3,0,0.76,0.14,0.90,0.74,0.87,Matches,1995-1996
+171,Ruel Fox,ms MSR,MF,Newcastle Utd,27,1968,4,2,196,2.2,0,0,,,,0,0,0.00,0.00,0.00,,,Matches,1995-1996
+172,Ruel Fox,ms MSR,MF,Tottenham,27,1968,26,26,"2,307",25.6,6,6,,,,1,0,0.23,0.23,0.47,,,Matches,1995-1996
+173,Chris Freestone,eng ENG,FW,Middlesbrough,23,1971,3,2,195,2.2,1,1,1,0,0,0,0,0.46,0.46,0.92,0.46,0.92,Matches,1995-1996
+174,Fabian de Freitas,nl NED,FW,Bolton,23,1972,27,18,"1,648",18.3,5,1,5,0,0,0,0,0.27,0.05,0.33,0.27,0.33,Matches,1995-1996
+175,Michael Frontzeck,de GER,DF,Manchester City,31,1964,12,11,818,9.1,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+176,Paul Furlong,eng ENG,FW,Chelsea,26,1968,28,15,"1,435",15.9,3,3,3,0,0,3,0,0.19,0.19,0.38,0.19,0.38,Matches,1995-1996
+177,Kevin Gallacher,sct SCO,"FW,MF",Blackburn,28,1966,17,14,"1,217",13.5,2,1,2,0,0,1,0,0.15,0.07,0.22,0.15,0.22,Matches,1995-1996
+178,Kevin Gallen,eng ENG,FW,QPR,19,1975,29,26,"2,326",25.8,8,4,8,0,1,0,0,0.31,0.15,0.46,0.31,0.46,Matches,1995-1996
+179,Marcus Gayle,jm JAM,"FW,MF",Wimbledon,24,1970,33,21,"1,997",22.2,5,4,5,0,0,0,0,0.23,0.18,0.41,0.23,0.41,Matches,1995-1996
+180,Scot Gemmill,sct SCO,MF,Nott'ham Forest,24,1971,31,26,"2,258",25.1,1,4,1,0,0,4,0,0.04,0.16,0.20,0.04,0.20,Matches,1995-1996
+182,Ryan Giggs,wls WAL,"FW,MF",Manchester Utd,21,1973,33,30,"2,703",30.0,11,9,11,0,0,0,0,0.37,0.30,0.67,0.37,0.67,Matches,1995-1996
+183,Keith Gillespie,nir NIR,"FW,MF",Newcastle Utd,20,1975,28,26,"2,123",23.6,4,6,4,0,0,3,0,0.17,0.25,0.42,0.17,0.42,Matches,1995-1996
+184,David Ginola,fr FRA,"FW,MF",Newcastle Utd,28,1967,34,34,"2,930",32.6,5,8,5,0,0,6,0,0.15,0.25,0.40,0.15,0.40,Matches,1995-1996
+185,Jon Goodman,ie IRL,FW,Wimbledon,24,1971,28,9,"1,047",11.6,6,1,6,0,0,0,0,0.52,0.09,0.60,0.52,0.60,Matches,1995-1996
+186,Gregory Goodridge,bb BRB,"DF,MF",QPR,24,1971,7,1,79,0.9,1,0,1,0,0,1,0,1.14,0.00,1.14,1.14,1.14,Matches,1995-1996
+187,Dale Gordon,eng ENG,MF,West Ham,28,1967,1,0,3,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+188,Tony Grant,eng ENG,MF,Everton,20,1974,13,11,"1,004",11.2,1,5,1,0,0,1,0,0.09,0.45,0.54,0.09,0.54,Matches,1995-1996
+189,Andy Gray,sct SCO,FW,Leeds United,17,1977,15,12,"1,093",12.1,0,1,0,0,0,0,0,0.00,0.08,0.08,0.00,0.08,Matches,1995-1996
+190,Scott Green,eng ENG,DF,Bolton,25,1970,31,27,"2,385",26.5,3,0,3,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,1995-1996
+191,Bruce Grobbelaar,zw ZIM,GK,Southampton,37,1957,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+192,Niklas Gudmundsson,se SWE,MF,Blackburn,23,1972,4,1,110,1.2,0,1,0,0,0,0,0,0.00,0.82,0.82,0.00,0.82,Matches,1995-1996
+193,Steve Guinan,eng ENG,FW,Nott'ham Forest,19,1975,2,1,72,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+194,Ruud Gullit,nl NED,"FW,MF",Chelsea,32,1962,31,31,"2,736",30.4,3,4,3,0,0,2,0,0.10,0.13,0.23,0.10,0.23,Matches,1995-1996
+195,Alf-Inge Håland,no NOR,"DF,MF",Nott'ham Forest,22,1972,16,11,"1,412",15.7,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+196,Gareth Hall,wls WAL,DF,Chelsea,26,1969,5,5,450,5.0,1,0,1,0,0,1,0,0.20,0.00,0.20,0.20,0.20,Matches,1995-1996
+197,Marcus Hall,eng ENG,DF,Coventry City,19,1976,25,24,"2,134",23.7,0,1,0,0,0,1,0,0.00,0.04,0.04,0.00,0.04,Matches,1995-1996
+198,Richard Hall,eng ENG,DF,Southampton,23,1972,30,30,"2,655",29.5,1,0,1,0,0,5,0,0.03,0.00,0.03,0.03,0.03,Matches,1995-1996
+199,Mick Harford,eng ENG,FW,Wimbledon,36,1959,20,16,"1,305",14.5,2,1,2,0,0,6,1,0.14,0.07,0.21,0.14,0.21,Matches,1995-1996
+200,John Harkes,us USA,MF,West Ham,28,1967,11,6,544,6.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+201,Steve Harkness,eng ENG,DF,Liverpool,23,1971,24,23,"2,030",22.6,1,0,1,0,0,4,0,0.04,0.00,0.04,0.04,0.04,Matches,1995-1996
+202,Ian Harte,ie IRL,DF,Leeds United,17,1977,4,2,240,2.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+203,John Hartson,wls WAL,FW,Arsenal,20,1975,19,15,"1,360",15.1,4,2,4,0,0,3,0,0.26,0.13,0.40,0.26,0.40,Matches,1995-1996
+204,Mark Hateley,eng ENG,FW,QPR,33,1961,14,10,901,10.0,2,3,2,0,0,1,0,0.20,0.30,0.50,0.20,0.50,Matches,1995-1996
+205,Paul Heald,eng ENG,GK,Wimbledon,26,1968,18,18,"1,590",17.7,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+206,Neil Heaney,eng ENG,MF,Southampton,23,1971,17,15,"1,232",13.7,2,0,2,0,0,5,0,0.15,0.00,0.15,0.15,0.15,Matches,1995-1996
+208,Glenn Helder,nl NED,"FW,MF",Arsenal,26,1968,24,15,"1,412",15.7,1,3,1,0,0,0,0,0.06,0.19,0.25,0.06,0.25,Matches,1995-1996
+209,John Hendrie,sct SCO,"FW,MF",Middlesbrough,31,1963,13,7,720,8.0,1,1,1,0,0,1,0,0.12,0.12,0.25,0.12,0.25,Matches,1995-1996
+210,Lee Hendrie,eng ENG,MF,Aston Villa,18,1977,3,2,237,2.6,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+211,Colin Hendry,sct SCO,DF,Blackburn,29,1965,33,33,"2,930",32.6,1,0,1,0,0,9,0,0.03,0.00,0.03,0.03,0.03,Matches,1995-1996
+212,Craig Hignett,eng ENG,"FW,MF",Middlesbrough,25,1970,22,18,"1,629",18.1,5,1,3,2,2,3,0,0.28,0.06,0.33,0.17,0.22,Matches,1995-1996
+213,Scott Hiley,eng ENG,DF,Manchester City,26,1968,6,2,293,3.3,0,2,0,0,0,0,0,0.00,0.61,0.61,0.00,0.61,Matches,1995-1996
+214,David Hillier,eng ENG,MF,Arsenal,25,1969,5,3,289,3.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+215,Andy Hinchcliffe,eng ENG,DF,Everton,26,1969,34,29,"2,191",24.3,2,3,0,2,2,4,0,0.08,0.12,0.21,0.00,0.12,Matches,1995-1996
+216,David Hirst,eng ENG,FW,Sheffield Weds,27,1967,30,29,"2,286",25.4,13,5,9,4,4,1,1,0.51,0.20,0.71,0.35,0.55,Matches,1995-1996
+217,Shaka Hislop,tt TRI,GK,Newcastle Utd,26,1969,23,23,"2,070",23.0,0,1,0,0,0,0,0,0.00,0.04,0.04,0.00,0.04,Matches,1995-1996
+218,Kevin Hitchcock,,GK,Chelsea,32,1962,12,12,"1,080",12.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+219,Dean Holdsworth,eng ENG,FW,Wimbledon,26,1968,33,31,"2,691",29.9,10,2,9,1,1,7,1,0.33,0.07,0.40,0.30,0.37,Matches,1995-1996
+220,Ian Holloway,eng ENG,MF,QPR,32,1963,27,26,"2,343",26.0,1,3,1,0,0,5,0,0.04,0.12,0.15,0.04,0.15,Matches,1995-1996
+221,Matty Holmes,eng ENG,MF,Blackburn,25,1969,9,8,670,7.4,1,1,1,0,0,0,0,0.13,0.13,0.27,0.13,0.27,Matches,1995-1996
+222,Paul Holmes,eng ENG,DF,Everton,27,1968,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+223,Barry Horne,wls WAL,MF,Everton,33,1962,26,25,"2,221",24.7,1,2,1,0,0,9,1,0.04,0.08,0.12,0.04,0.12,Matches,1995-1996
+224,Marc Hottiger,ch SUI,DF,Everton,27,1967,10,9,821,9.1,1,1,1,0,0,0,0,0.11,0.11,0.22,0.11,0.22,Matches,1995-1996
+225,Bobby Howe,eng ENG,MF,Nott'ham Forest,21,1973,9,4,356,4.0,2,1,2,0,0,1,0,0.51,0.25,0.76,0.51,0.76,Matches,1995-1996
+226,David Howells,eng ENG,MF,Tottenham,27,1967,29,29,"2,505",27.8,3,1,3,0,0,6,0,0.11,0.04,0.14,0.11,0.14,Matches,1995-1996
+227,Steve Howey,eng ENG,DF,Newcastle Utd,23,1971,28,28,"2,500",27.8,1,1,1,0,0,2,0,0.04,0.04,0.07,0.04,0.07,Matches,1995-1996
+228,Darren Huckerby,eng ENG,"FW,MF",Newcastle Utd,19,1976,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+229,David Hughes,eng ENG,MF,Southampton,22,1972,11,6,708,7.9,1,0,1,0,0,1,0,0.13,0.00,0.13,0.13,0.13,Matches,1995-1996
+230,Mark Hughes,wls WAL,FW,Chelsea,31,1963,31,31,"2,699",30.0,8,5,7,1,1,12,1,0.27,0.17,0.43,0.23,0.40,Matches,1995-1996
+231,Michael Hughes,nir NIR,MF,West Ham,23,1971,27,27,"2,377",26.4,0,6,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23,Matches,1995-1996
+232,Stephen Hughes,eng ENG,MF,Arsenal,18,1976,1,0,21,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+234,Ritchie Humphreys,eng ENG,"DF,FW",Sheffield Weds,17,1977,4,2,111,1.2,0,1,0,0,0,0,0,0.00,0.81,0.81,0.00,0.81,Matches,1995-1996
+235,Don Hutchison,sct SCO,MF,West Ham,24,1971,12,8,720,8.0,2,0,2,0,0,3,0,0.25,0.00,0.25,0.25,0.25,Matches,1995-1996
+236,Graham Hyde,eng ENG,MF,Sheffield Weds,24,1970,26,15,"1,432",15.9,1,1,1,0,0,2,0,0.06,0.06,0.13,0.06,0.13,Matches,1995-1996
+237,Eike Immel,de GER,GK,Manchester City,34,1960,38,38,"3,420",38.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+238,Andy Impey,eng ENG,"DF,MF",QPR,23,1971,29,28,"2,500",27.8,3,1,3,0,0,2,1,0.11,0.04,0.14,0.11,0.14,Matches,1995-1996
+239,Stig Inge Bjørnebye,no NOR,DF,Liverpool,25,1969,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+240,Klas Ingesson,se SWE,MF,Sheffield Weds,26,1968,6,3,321,3.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+241,Rae Ingram,eng ENG,DF,Manchester City,20,1974,5,5,449,5.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+242,Richard Irving,,FW,Nott'ham Forest,19,1975,1,0,4,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+243,Denis Irwin,ie IRL,DF,Manchester Utd,29,1965,31,31,"2,735",30.4,1,5,1,0,0,4,0,0.03,0.16,0.20,0.03,0.20,Matches,1995-1996
+244,Isaías,br BRA,FW,Coventry City,31,1963,12,10,818,9.1,2,1,2,0,0,1,0,0.22,0.11,0.33,0.22,0.33,Matches,1995-1996
+245,Matt Jackson,eng ENG,DF,Everton,23,1971,14,14,"1,225",13.6,0,2,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,1995-1996
+246,David James,eng ENG,GK,Liverpool,24,1970,38,38,"3,420",38.0,0,1,0,0,0,1,0,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+247,John Jensen,dk DEN,MF,Arsenal,30,1965,15,13,"1,141",12.7,0,3,0,0,0,4,0,0.00,0.24,0.24,0.00,0.24,Matches,1995-1996
+248,Eoin Jess,sct SCO,MF,Coventry City,24,1970,12,9,885,9.8,1,1,1,0,0,0,0,0.10,0.10,0.20,0.10,0.20,Matches,1995-1996
+249,Julian Joachim,eng ENG,FW,Aston Villa,20,1974,11,4,500,5.6,1,0,1,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches,1995-1996
+250,Richard Jobson,eng ENG,DF,Leeds United,32,1963,12,12,"1,080",12.0,1,0,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,1995-1996
+251,Erland Johnsen,no NOR,"DF,MF",Chelsea,28,1967,22,18,"1,669",18.5,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+252,Tommy Johnson,eng ENG,FW,Aston Villa,24,1971,21,17,"1,699",18.9,5,2,5,0,0,5,0,0.26,0.11,0.37,0.26,0.37,Matches,1995-1996
+253,Rob Jones,eng ENG,DF,Liverpool,23,1971,33,33,"2,868",31.9,0,2,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,1995-1996
+254,Vinnie Jones,wls WAL,MF,Wimbledon,30,1965,31,27,"2,435",27.1,3,6,2,1,1,7,3,0.11,0.22,0.33,0.07,0.30,Matches,1995-1996
+255,Andrei Kanchelskis,xc CIS,"DF,MF",Everton,26,1969,32,32,"2,785",30.9,16,8,16,0,0,2,0,0.52,0.26,0.78,0.52,0.78,Matches,1995-1996
+256,Graham Kavanagh,ie IRL,MF,Middlesbrough,21,1973,7,6,523,5.8,1,1,0,1,1,0,0,0.17,0.17,0.34,0.00,0.17,Matches,1995-1996
+257,Mikheil Kavelashvili,ge GEO,FW,Manchester City,24,1971,4,3,244,2.7,1,0,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,1995-1996
+258,Roy Keane,ie IRL,MF,Manchester Utd,23,1971,30,30,"2,465",27.4,6,0,6,0,0,7,2,0.22,0.00,0.22,0.22,0.22,Matches,1995-1996
+260,Gary Kelly,ie IRL,DF,Leeds United,21,1974,34,34,"2,985",33.2,0,4,0,0,0,4,1,0.00,0.12,0.12,0.00,0.12,Matches,1995-1996
+261,Jeff Kenna,ie IRL,DF,Blackburn,24,1970,32,32,"2,859",31.8,0,3,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches,1995-1996
+262,Mark Kennedy,ie IRL,"DF,MF",Liverpool,19,1976,4,1,183,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+263,Martin Keown,eng ENG,"DF,MF",Arsenal,29,1966,34,34,"2,981",33.1,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+264,Alan Kernaghan,ie IRL,DF,Manchester City,28,1967,6,4,399,4.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+265,David Kerr,sct SCO,MF,Manchester City,20,1974,1,0,13,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+266,David Kerslake,eng ENG,DF,Tottenham,29,1966,2,2,170,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+267,Harry Kewell,au AUS,"FW,MF",Leeds United,16,1978,2,2,168,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+268,Dmitri Kharine,xc CIS,GK,Chelsea,26,1968,26,26,"2,340",26.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+269,Alan Kimble,eng ENG,DF,Wimbledon,28,1966,31,31,"2,777",30.9,0,6,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,1995-1996
+270,Georgi Kinkladze,ge GEO,MF,Manchester City,22,1973,37,37,"3,221",35.8,4,4,4,0,0,2,0,0.11,0.11,0.22,0.11,0.22,Matches,1995-1996
+271,Paul Kitson,eng ENG,FW,Newcastle Utd,24,1971,7,2,223,2.5,2,1,2,0,0,1,0,0.81,0.40,1.21,0.81,1.21,Matches,1995-1996
+272,Darko Kovačević,rs SRB,FW,Sheffield Weds,21,1973,16,8,856,9.5,4,1,4,0,0,1,0,0.42,0.11,0.53,0.42,0.53,Matches,1995-1996
+273,Frank Lampard,eng ENG,MF,West Ham,17,1978,2,0,30,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+274,Nii Lamptey,gh GHA,"FW,MF",Coventry City,20,1974,6,3,331,3.7,0,1,0,0,0,1,0,0.00,0.27,0.27,0.00,0.27,Matches,1995-1996
+275,Stan Lazaridis,au AUS,"DF,MF",West Ham,22,1972,4,2,197,2.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+276,Graeme Le Saux,eng ENG,DF,Blackburn,26,1968,14,13,"1,105",12.3,1,1,1,0,0,3,0,0.08,0.08,0.16,0.08,0.16,Matches,1995-1996
+277,Matt Le Tissier,eng ENG,"FW,MF",Southampton,26,1968,34,34,"2,988",33.2,7,8,4,3,3,11,1,0.21,0.24,0.45,0.12,0.36,Matches,1995-1996
+278,David Lee,,MF,Bolton,27,1967,18,10,"1,141",12.7,1,0,1,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches,1995-1996
+279,David Lee,eng ENG,DF,Chelsea,25,1969,31,29,"2,634",29.3,1,0,1,0,0,2,0,0.03,0.00,0.03,0.03,0.03,Matches,1995-1996
+280,Jason Lee,eng ENG,FW,Nott'ham Forest,24,1971,28,21,"1,884",20.9,8,1,8,0,0,5,1,0.38,0.05,0.43,0.38,0.43,Matches,1995-1996
+281,Rob Lee,eng ENG,MF,Newcastle Utd,29,1966,36,36,"3,202",35.6,8,4,7,1,1,3,0,0.22,0.11,0.34,0.20,0.31,Matches,1995-1996
+282,Øyvind Leonhardsen,no NOR,MF,Wimbledon,24,1970,29,28,"2,464",27.4,4,3,4,0,0,6,0,0.15,0.11,0.26,0.15,0.26,Matches,1995-1996
+283,Craig Liddle,eng ENG,DF,Middlesbrough,23,1971,13,12,"1,125",12.5,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+284,Anders Limpar,se SWE,MF,Everton,29,1965,28,23,"1,835",20.4,3,5,3,0,0,5,0,0.15,0.25,0.39,0.15,0.39,Matches,1995-1996
+286,Andy Linighan,eng ENG,DF,Arsenal,33,1962,18,17,"1,534",17.0,0,1,0,0,0,0,0,0.00,0.06,0.06,0.00,0.06,Matches,1995-1996
+287,Steve Lomas,nir NIR,MF,Manchester City,21,1974,33,33,"2,817",31.3,3,6,3,0,0,8,1,0.10,0.19,0.29,0.10,0.29,Matches,1995-1996
+288,John Lukic,eng ENG,GK,Leeds United,34,1960,28,28,"2,516",28.0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+289,Des Lyttle,eng ENG,DF,Nott'ham Forest,23,1971,33,32,"2,890",32.1,1,1,1,0,0,0,0,0.03,0.03,0.06,0.03,0.06,Matches,1995-1996
+290,Gary Mabbutt,eng ENG,"DF,MF",Tottenham,33,1961,32,32,"2,840",31.6,0,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+291,Neil Maddison,eng ENG,"DF,MF",Southampton,25,1969,13,11,"1,157",12.9,1,0,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,1995-1996
+292,Danny Maddix,jm JAM,DF,QPR,27,1967,22,20,"1,770",19.7,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+293,Jim Magilton,nir NIR,"DF,MF",Southampton,26,1969,34,34,"2,748",30.5,3,0,2,1,1,2,0,0.10,0.00,0.10,0.07,0.07,Matches,1995-1996
+294,Lee Makel,eng ENG,MF,Blackburn,22,1973,3,0,113,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+295,Nicky Marker,eng ENG,DF,Blackburn,30,1965,10,8,711,7.9,1,1,1,0,0,0,0,0.13,0.13,0.25,0.13,0.25,Matches,1995-1996
+296,Scott Marshall,sct SCO,DF,Arsenal,22,1973,11,10,920,10.2,1,0,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,1995-1996
+297,Alvin Martin,eng ENG,DF,West Ham,37,1958,14,10,895,9.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+298,Phil Masinga,za RSA,FW,Leeds United,26,1969,9,6,398,4.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+299,Craig Maskell,eng ENG,FW,Southampton,27,1968,1,0,26,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+300,Dominic Matteo,sct SCO,"DF,MF",Liverpool,21,1974,5,5,421,4.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+301,David May,eng ENG,DF,Manchester Utd,25,1970,16,13,"1,175",13.1,1,0,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,1995-1996
+302,Alan Maybury,ie IRL,DF,Leeds United,16,1978,1,1,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+303,Giuseppe Mazzarelli,ch SUI,DF,Manchester City,22,1972,2,0,41,0.5,0,1,0,0,0,0,0,0.00,2.20,2.20,0.00,2.20,Matches,1995-1996
+304,Brian McAllister,sct SCO,DF,Wimbledon,24,1970,2,2,101,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+305,Gary McAllister,sct SCO,MF,Leeds United,30,1964,36,36,"3,240",36.0,5,4,3,2,3,1,0,0.14,0.11,0.25,0.08,0.19,Matches,1995-1996
+306,Steve McAnespie,sct SCO,DF,Bolton,23,1972,9,7,628,7.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+307,Jason McAteer,ie IRL,MF,Bolton,24,1971,4,4,360,4.0,0,0,,,,1,0,0.00,0.00,0.00,,,Matches,1995-1996
+308,Jason McAteer,ie IRL,MF,Liverpool,24,1971,29,27,"2,445",27.2,0,3,,,,4,0,0.00,0.11,0.11,,,Matches,1995-1996
+309,Brian McClair,sct SCO,"FW,MF",Manchester Utd,31,1963,21,11,"1,228",13.6,3,2,3,0,0,1,0,0.22,0.15,0.37,0.22,0.37,Matches,1995-1996
+310,Alan McDonald,nir NIR,DF,QPR,31,1963,26,25,"2,184",24.3,1,2,1,0,0,7,0,0.04,0.08,0.12,0.04,0.12,Matches,1995-1996
+312,Paul McDonald,sct SCO,DF,Southampton,27,1968,1,0,31,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+313,John McGinlay,sct SCO,FW,Bolton,31,1964,32,29,"2,463",27.4,6,3,5,1,1,4,0,0.22,0.11,0.33,0.18,0.29,Matches,1995-1996
+314,Eddie McGoldrick,ie IRL,"DF,FW",Arsenal,30,1965,1,0,14,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+315,Gavin McGowan,eng ENG,"DF,MF",Arsenal,19,1976,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+316,Paul McGrath,ie IRL,DF,Aston Villa,35,1959,30,29,"2,540",28.2,2,0,2,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,1995-1996
+317,Paul McGregor,eng ENG,FW,Nott'ham Forest,20,1974,14,7,697,7.7,2,1,2,0,0,0,0,0.26,0.13,0.39,0.26,0.39,Matches,1995-1996
+318,Billy McKinlay,sct SCO,MF,Blackburn,26,1969,19,14,"1,327",14.7,2,1,2,0,0,5,1,0.14,0.07,0.20,0.14,0.20,Matches,1995-1996
+319,Gerry McMahon,nir NIR,MF,Tottenham,21,1973,14,7,615,6.8,0,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,1995-1996
+320,Steve McManaman,eng ENG,MF,Liverpool,23,1972,38,38,"3,408",37.9,6,15,6,0,0,1,0,0.16,0.40,0.55,0.16,0.55,Matches,1995-1996
+321,Paul Merson,eng ENG,"FW,MF",Arsenal,27,1968,38,38,"3,379",37.5,5,5,5,0,0,2,0,0.13,0.13,0.27,0.13,0.27,Matches,1995-1996
+322,Luděk Mikloško,cz CZE,GK,West Ham,33,1961,36,36,"3,181",35.3,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+323,Alan Miller,eng ENG,GK,Middlesbrough,25,1970,6,6,540,6.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+324,Savo Milošević,rs SRB,FW,Aston Villa,21,1973,36,35,"3,187",35.4,12,6,12,0,0,6,0,0.34,0.17,0.51,0.34,0.51,Matches,1995-1996
+325,Bobby Mimms,eng ENG,GK,Blackburn,31,1963,2,1,102,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+326,Scott Minto,eng ENG,DF,Chelsea,23,1971,10,10,811,9.0,0,2,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,1995-1996
+327,John Moncur,eng ENG,MF,West Ham,28,1966,17,17,"1,445",16.1,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+328,Ken Monkou,nl NED,DF,Southampton,30,1964,32,31,"2,701",30.0,2,0,2,0,0,6,0,0.07,0.00,0.07,0.07,0.07,Matches,1995-1996
+329,Alan Moore,ie IRL,MF,Middlesbrough,20,1974,12,5,629,7.0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+330,Jaime Moreno,bo BOL,FW,Middlesbrough,21,1974,7,2,239,2.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+331,Chris Morris,ie IRL,DF,Middlesbrough,31,1963,23,22,"1,980",22.0,2,1,2,0,0,9,0,0.09,0.05,0.14,0.09,0.14,Matches,1995-1996
+332,Jody Morris,eng ENG,MF,Chelsea,16,1978,1,0,19,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+333,Steve Morrow,nir NIR,"DF,MF",Arsenal,25,1970,4,3,203,2.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+334,Paul Murray,eng ENG,MF,QPR,18,1976,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+335,Scott Murray,sct SCO,MF,Aston Villa,21,1974,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+336,Robbie Mustoe,eng ENG,MF,Middlesbrough,26,1968,21,21,"1,814",20.2,1,0,1,0,0,3,0,0.05,0.00,0.05,0.05,0.05,Matches,1995-1996
+338,Andy Myers,eng ENG,DF,Chelsea,21,1973,20,20,"1,800",20.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+339,Peter Ndlovu,zw ZIM,FW,Coventry City,22,1973,32,27,"2,400",26.7,5,1,5,0,1,2,0,0.19,0.04,0.23,0.19,0.23,Matches,1995-1996
+340,Alan Neilson,wls WAL,DF,Southampton,22,1972,18,15,"1,320",14.7,0,2,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,1995-1996
+341,Stuart Nethercott,eng ENG,DF,Tottenham,22,1973,13,10,930,10.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+342,Gary Neville,eng ENG,DF,Manchester Utd,20,1975,31,30,"2,665",29.6,0,4,0,0,0,6,0,0.00,0.14,0.14,0.00,0.14,Matches,1995-1996
+343,Phil Neville,eng ENG,"DF,MF",Manchester Utd,18,1977,24,21,"1,814",20.2,0,3,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,1995-1996
+344,Mike Newell,eng ENG,FW,Blackburn,30,1965,30,26,"2,118",23.5,3,9,3,0,0,7,0,0.13,0.38,0.51,0.13,0.51,Matches,1995-1996
+345,Jon Newsome,eng ENG,DF,Sheffield Weds,24,1970,8,8,720,8.0,1,0,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches,1995-1996
+346,Eddie Newton,eng ENG,MF,Chelsea,23,1971,24,21,"1,826",20.3,1,0,1,0,0,4,0,0.05,0.00,0.05,0.05,0.05,Matches,1995-1996
+347,Steve Nicol,sct SCO,DF,Sheffield Weds,33,1961,19,18,"1,659",18.4,0,1,0,0,0,1,0,0.00,0.05,0.05,0.00,0.05,Matches,1995-1996
+348,Ian Nolan,nir NIR,DF,Sheffield Weds,25,1970,29,29,"2,475",27.5,0,4,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,1995-1996
+349,Jon O'Connor,eng ENG,DF,Everton,18,1976,4,3,272,3.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+350,Keith O'Halloran,ie IRL,MF,Middlesbrough,19,1975,3,2,218,2.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+351,John O'Kane,eng ENG,DF,Manchester Utd,20,1974,1,0,32,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+352,Matt Oakley,eng ENG,MF,Southampton,17,1977,7,4,447,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+353,Steve Ogrizovic,eng ENG,GK,Coventry City,37,1957,25,25,"2,250",25.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+354,Simon Osborn,eng ENG,MF,QPR,23,1972,9,7,559,6.2,1,1,1,0,0,0,0,0.16,0.16,0.32,0.16,0.32,Matches,1995-1996
+355,Mixu Paatelainen,fi FIN,FW,Bolton,28,1967,15,13,"1,044",11.6,1,1,1,0,0,1,0,0.09,0.09,0.17,0.09,0.17,Matches,1995-1996
+356,Gary Pallister,eng ENG,DF,Manchester Utd,30,1965,21,21,"1,858",20.6,1,1,1,0,0,3,0,0.05,0.05,0.10,0.05,0.10,Matches,1995-1996
+357,Carlton Palmer,eng ENG,MF,Leeds United,29,1965,35,35,"3,121",34.7,2,1,2,0,0,8,0,0.06,0.03,0.09,0.06,0.09,Matches,1995-1996
+358,Paul Parker,eng ENG,DF,Manchester Utd,31,1964,6,6,469,5.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+359,Joe Parkinson,eng ENG,MF,Everton,24,1971,28,28,"2,385",26.5,3,1,3,0,0,9,0,0.11,0.04,0.15,0.11,0.15,Matches,1995-1996
+360,Ray Parlour,eng ENG,MF,Arsenal,22,1973,22,20,"1,715",19.1,0,1,0,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches,1995-1996
+361,Mark Patterson,eng ENG,MF,Bolton,30,1965,16,12,987,11.0,1,3,0,1,1,5,1,0.09,0.27,0.36,0.00,0.27,Matches,1995-1996
+362,Juninho Paulista,br BRA,MF,Middlesbrough,22,1973,21,20,"1,673",18.6,2,3,2,0,0,2,0,0.11,0.16,0.27,0.11,0.27,Matches,1995-1996
+364,Darren Peacock,eng ENG,DF,Newcastle Utd,27,1968,34,33,"2,979",33.1,0,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+365,Gavin Peacock,eng ENG,"FW,MF",Chelsea,27,1967,28,17,"1,674",18.6,5,4,5,0,0,1,0,0.27,0.22,0.48,0.27,0.48,Matches,1995-1996
+366,Andy Pearce,eng ENG,DF,Sheffield Weds,29,1966,3,3,270,3.0,0,0,,,,1,0,0.00,0.00,0.00,,,Matches,1995-1996
+367,Andy Pearce,eng ENG,DF,Wimbledon,29,1966,7,6,457,5.1,0,0,,,,1,0,0.00,0.00,0.00,,,Matches,1995-1996
+368,Ian Pearce,eng ENG,DF,Blackburn,21,1974,12,12,"1,052",11.7,1,2,1,0,0,2,0,0.09,0.17,0.26,0.09,0.26,Matches,1995-1996
+369,Stuart Pearce,eng ENG,DF,Nott'ham Forest,33,1962,31,31,"2,790",31.0,3,3,1,2,2,4,0,0.10,0.10,0.19,0.03,0.13,Matches,1995-1996
+370,Nigel Pearson,eng ENG,DF,Middlesbrough,31,1963,36,36,"3,138",34.9,0,1,0,0,0,6,0,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+371,John Pemberton,eng ENG,DF,Leeds United,30,1964,17,16,"1,310",14.6,0,1,0,0,0,8,1,0.00,0.07,0.07,0.00,0.07,Matches,1995-1996
+372,Mark Pembridge,wls WAL,MF,Sheffield Weds,24,1970,24,23,"2,050",22.8,2,3,2,0,0,0,0,0.09,0.13,0.22,0.09,0.22,Matches,1995-1996
+373,Gary Penrice,eng ENG,"FW,MF",QPR,31,1964,2,0,49,0.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+374,Chris Perry,eng ENG,DF,Wimbledon,22,1973,36,35,"3,173",35.3,0,1,0,0,0,8,0,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+375,Dan Petrescu,ro ROU,DF,Sheffield Weds,27,1967,8,8,703,7.8,0,0,,,,2,0,0.00,0.00,0.00,,,Matches,1995-1996
+376,Dan Petrescu,ro ROU,DF,Chelsea,27,1967,24,22,"1,978",22.0,2,8,,,,4,0,0.09,0.36,0.46,,,Matches,1995-1996
+377,Terry Phelan,ie IRL,DF,Chelsea,28,1967,12,12,"1,035",11.5,0,1,,,,0,0,0.00,0.09,0.09,,,Matches,1995-1996
+378,Terry Phelan,ie IRL,DF,Manchester City,28,1967,9,9,805,8.9,0,0,,,,5,0,0.00,0.00,0.00,,,Matches,1995-1996
+379,David Phillips,wls WAL,"DF,MF",Nott'ham Forest,32,1963,18,14,"1,357",15.1,0,1,0,0,0,1,0,0.00,0.07,0.07,0.00,0.07,Matches,1995-1996
+380,Jimmy Phillips,eng ENG,DF,Bolton,29,1966,37,37,"3,317",36.9,0,2,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches,1995-1996
+381,Martin Phillips,eng ENG,MF,Manchester City,19,1976,11,2,373,4.1,0,1,0,0,0,0,0,0.00,0.24,0.24,0.00,0.24,Matches,1995-1996
+382,Ally Pickering,eng ENG,DF,Coventry City,28,1967,29,25,"2,442",27.1,0,5,0,0,0,4,0,0.00,0.18,0.18,0.00,0.18,Matches,1995-1996
+383,Kevin Pilkington,eng ENG,GK,Manchester Utd,21,1974,3,2,225,2.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+384,David Platt,eng ENG,MF,Arsenal,29,1966,29,27,"2,488",27.6,6,3,6,0,0,3,0,0.22,0.11,0.33,0.22,0.33,Matches,1995-1996
+385,Mark Platts,eng ENG,MF,Sheffield Weds,16,1979,2,0,24,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+386,Chris Plummer,eng ENG,DF,QPR,18,1976,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+387,Jamie Pollock,eng ENG,MF,Middlesbrough,21,1974,31,31,"2,635",29.3,1,2,1,0,0,9,0,0.03,0.07,0.10,0.03,0.10,Matches,1995-1996
+388,Steve Potts,eng ENG,DF,West Ham,28,1967,34,34,"3,007",33.4,0,1,0,0,0,4,1,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+390,Kevin Pressman,eng ENG,GK,Sheffield Weds,27,1967,30,30,"2,688",29.9,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+391,William Prunier,fr FRA,DF,Manchester Utd,27,1967,2,2,180,2.0,0,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,1995-1996
+392,Nigel Quashie,sct SCO,MF,QPR,17,1978,11,11,913,10.1,0,1,,,,1,0,0.00,0.10,0.10,,,Matches,1995-1996
+393,Niall Quinn,ie IRL,FW,Manchester City,28,1966,32,24,"2,215",24.6,8,5,8,0,0,4,0,0.33,0.20,0.53,0.33,0.53,Matches,1995-1996
+394,Lucas Radebe,za RSA,DF,Leeds United,26,1969,11,10,930,10.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+395,Karl Ready,wls WAL,DF,QPR,22,1972,21,16,"1,489",16.5,1,1,1,0,0,7,1,0.06,0.06,0.12,0.06,0.12,Matches,1995-1996
+396,Jamie Redknapp,eng ENG,MF,Liverpool,22,1973,23,19,"1,744",19.4,3,3,,,,1,,0.15,0.15,0.31,,,Matches,1995-1996
+397,Alan Reeves,eng ENG,DF,Wimbledon,27,1967,25,22,"1,984",22.0,1,0,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,1995-1996
+398,David Rennie,sct SCO,"DF,MF",Coventry City,30,1964,11,9,768,8.5,2,1,2,0,0,3,0,0.23,0.12,0.35,0.23,0.35,Matches,1995-1996
+399,Kevin Richardson,eng ENG,MF,Coventry City,32,1962,33,33,"2,952",32.8,0,6,0,0,0,6,1,0.00,0.18,0.18,0.00,0.18,Matches,1995-1996
+400,Paul Rideout,eng ENG,FW,Everton,30,1964,25,19,"1,747",19.4,6,4,6,0,0,2,0,0.31,0.21,0.52,0.31,0.52,Matches,1995-1996
+401,Marc Rieper,dk DEN,DF,West Ham,27,1968,37,36,"3,195",35.5,2,1,2,0,0,2,0,0.06,0.03,0.08,0.06,0.08,Matches,1995-1996
+402,Stuart Ripley,eng ENG,"FW,MF",Blackburn,27,1967,28,28,"2,224",24.7,0,9,0,0,0,1,0,0.00,0.36,0.36,0.00,0.36,Matches,1995-1996
+403,Tony Roberts,wls WAL,GK,QPR,25,1969,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+404,Matthew Robinson,eng ENG,DF,Southampton,20,1974,5,0,167,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+405,Bryan Robson,eng ENG,MF,Middlesbrough,38,1957,2,1,154,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+406,David Rocastle,eng ENG,MF,Chelsea,28,1967,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+407,Matthew Rose,eng ENG,DF,Arsenal,19,1975,4,1,204,2.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+408,Ronny Rosenthal,il ISR,"FW,MF",Tottenham,31,1963,33,26,"2,368",26.3,1,2,1,0,0,2,0,0.04,0.08,0.11,0.04,0.11,Matches,1995-1996
+409,Uwe Rösler,de GER,FW,Manchester City,26,1968,36,34,"3,013",33.5,9,3,8,1,1,6,0,0.27,0.09,0.36,0.24,0.33,Matches,1995-1996
+410,Keith Rowland,nir NIR,DF,West Ham,23,1971,23,19,"1,702",18.9,0,2,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,1995-1996
+411,Bryan Roy,nl NED,"FW,MF",Nott'ham Forest,25,1970,28,25,"2,158",24.0,8,4,7,1,1,3,0,0.33,0.17,0.50,0.29,0.46,Matches,1995-1996
+412,Neil Ruddock,eng ENG,DF,Liverpool,27,1968,20,18,"1,681",18.7,5,0,5,0,0,7,0,0.27,0.00,0.27,0.27,0.27,Matches,1995-1996
+413,Ian Rush,wls WAL,FW,Liverpool,33,1961,20,10,993,11.0,5,2,5,0,0,0,0,0.45,0.18,0.63,0.45,0.63,Matches,1995-1996
+414,John Salako,eng ENG,MF,Coventry City,26,1969,37,34,"3,072",34.1,3,8,2,1,1,3,0,0.09,0.23,0.32,0.06,0.29,Matches,1995-1996
+416,Vinny Samways,eng ENG,MF,Everton,26,1968,4,3,299,3.3,1,0,1,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches,1995-1996
+417,John Scales,eng ENG,DF,Liverpool,29,1966,27,27,"2,404",26.7,0,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,1995-1996
+418,Peter Schmeichel,dk DEN,GK,Manchester Utd,31,1963,36,36,"3,195",35.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+419,Paul Scholes,eng ENG,MF,Manchester Utd,20,1974,26,17,"1,440",16.0,10,1,10,0,0,1,0,0.62,0.06,0.69,0.62,0.69,Matches,1995-1996
+420,Riccardo Scimeca,eng ENG,"DF,MF",Aston Villa,20,1975,17,8,765,8.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+421,Kevin Scott,eng ENG,DF,Tottenham,28,1966,2,0,78,0.9,0,1,0,0,0,0,0,0.00,1.15,1.15,0.00,1.15,Matches,1995-1996
+422,Les Sealey,eng ENG,GK,West Ham,37,1957,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+423,David Seaman,eng ENG,GK,Arsenal,31,1963,38,38,"3,420",38.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+424,Hans Segers,nl NED,GK,Wimbledon,33,1961,4,3,276,3.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+425,Scott Sellars,eng ENG,MF,Bolton,29,1965,22,22,"1,958",21.8,3,4,,,,2,0,0.14,0.18,0.32,,,Matches,1995-1996
+426,Scott Sellars,eng ENG,MF,Newcastle Utd,29,1965,6,2,316,3.5,0,1,,,,0,0,0.00,0.28,0.28,,,Matches,1995-1996
+427,Kevin Sharp,eng ENG,DF,Leeds United,20,1974,1,0,2,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+428,Lee Sharpe,eng ENG,MF,Manchester Utd,24,1971,31,22,"2,066",23.0,4,2,4,0,0,3,0,0.17,0.09,0.26,0.17,0.26,Matches,1995-1996
+429,Paul Shaw,eng ENG,"FW,MF",Arsenal,21,1973,3,0,37,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+430,Richard Shaw,eng ENG,DF,Coventry City,26,1968,21,21,"1,889",21.0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+431,Alan Shearer,eng ENG,FW,Blackburn,24,1970,35,35,"3,150",35.0,31,7,28,3,3,4,0,0.89,0.20,1.09,0.80,1.00,Matches,1995-1996
+432,John Sheridan,ie IRL,MF,Sheffield Weds,30,1964,17,12,"1,118",12.4,0,1,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches,1995-1996
+433,Teddy Sheringham,eng ENG,FW,Tottenham,29,1966,38,38,"3,416",38.0,16,8,14,2,2,2,0,0.42,0.21,0.63,0.37,0.58,Matches,1995-1996
+434,Tim Sherwood,eng ENG,MF,Blackburn,26,1969,33,33,"2,929",32.5,4,3,4,0,0,9,0,0.12,0.09,0.22,0.12,0.22,Matches,1995-1996
+435,Neil Shipperley,eng ENG,FW,Southampton,20,1974,37,37,"3,276",36.4,8,2,8,0,0,1,0,0.22,0.05,0.27,0.22,0.27,Matches,1995-1996
+436,Craig Short,eng ENG,DF,Everton,27,1968,23,22,"1,994",22.2,2,1,2,0,0,6,0,0.09,0.05,0.14,0.09,0.14,Matches,1995-1996
+437,Andrea Silenzi,it ITA,FW,Nott'ham Forest,29,1966,10,3,429,4.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+438,Frank Sinclair,jm JAM,DF,Chelsea,23,1971,13,12,"1,115",12.4,1,0,1,0,0,6,1,0.08,0.00,0.08,0.08,0.08,Matches,1995-1996
+439,Trevor Sinclair,eng ENG,MF,QPR,22,1973,37,37,"3,292",36.6,2,5,2,0,0,4,0,0.05,0.14,0.19,0.05,0.19,Matches,1995-1996
+440,Andy Sinton,eng ENG,MF,Sheffield Weds,29,1966,10,7,682,7.6,0,0,,,,1,0,0.00,0.00,0.00,,,Matches,1995-1996
+442,Andy Sinton,eng ENG,MF,Tottenham,29,1966,9,8,701,7.8,0,1,,,,1,0,0.00,0.13,0.13,,,Matches,1995-1996
+443,Justin Skinner,,DF,Wimbledon,22,1972,1,1,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+444,Steve Slade,eng ENG,FW,Tottenham,19,1975,5,1,114,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+445,Robbie Slater,au AUS,MF,West Ham,30,1964,22,16,"1,435",15.9,2,1,2,0,0,1,0,0.13,0.06,0.19,0.13,0.19,Matches,1995-1996
+446,Bryan Small,eng ENG,DF,Bolton,23,1971,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+447,Richard Sneekes,nl NED,MF,Bolton,26,1968,17,15,"1,362",15.1,1,1,1,0,0,4,0,0.07,0.07,0.13,0.07,0.13,Matches,1995-1996
+448,Juergen Sommer,us USA,GK,QPR,26,1969,33,33,"2,970",33.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+449,Neville Southall,wls WAL,GK,Everton,36,1958,38,38,"3,420",38.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+450,Gareth Southgate,eng ENG,DF,Aston Villa,24,1970,31,31,"2,755",30.6,1,1,1,0,0,2,0,0.03,0.03,0.07,0.03,0.07,Matches,1995-1996
+451,Nigel Spackman,eng ENG,MF,Chelsea,34,1960,16,13,"1,164",12.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+452,Gary Speed,wls WAL,MF,Leeds United,25,1969,29,29,"2,572",28.6,2,1,2,0,0,2,0,0.07,0.03,0.10,0.07,0.10,Matches,1995-1996
+453,John Spencer,sct SCO,FW,Chelsea,24,1970,28,23,"2,008",22.3,13,3,13,0,0,5,0,0.58,0.13,0.72,0.58,0.72,Matches,1995-1996
+454,Nigel Spink,eng ENG,GK,Aston Villa,36,1958,2,0,46,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+455,Pavel Srníček,cz CZE,GK,Newcastle Utd,27,1968,15,14,"1,250",13.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+456,Phil Stamp,eng ENG,MF,Middlesbrough,19,1975,12,11,920,10.2,2,1,2,0,0,0,0,0.20,0.10,0.29,0.20,0.29,Matches,1995-1996
+457,Steve Staunton,ie IRL,"DF,MF",Aston Villa,26,1969,13,11,857,9.5,0,1,0,0,0,0,0,0.00,0.11,0.11,0.00,0.11,Matches,1995-1996
+458,Dejan Stefanović,rs SRB,DF,Sheffield Weds,20,1974,6,5,446,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+459,Mark Stein,eng ENG,FW,Chelsea,29,1966,7,6,584,6.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+460,Steve Stone,eng ENG,MF,Nott'ham Forest,23,1971,34,34,"3,041",33.8,7,5,7,0,0,3,0,0.21,0.15,0.36,0.21,0.36,Matches,1995-1996
+461,Gordon Strachan,sct SCO,MF,Coventry City,38,1957,12,5,495,5.5,0,2,0,0,0,1,0,0.00,0.36,0.36,0.00,0.36,Matches,1995-1996
+462,Greg Strong,eng ENG,DF,Bolton,19,1975,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+463,Graham Stuart,eng ENG,"FW,MF",Everton,24,1970,29,27,"2,488",27.6,9,3,9,0,0,3,0,0.33,0.11,0.43,0.33,0.43,Matches,1995-1996
+464,Alan Stubbs,eng ENG,DF,Bolton,23,1971,25,24,"2,180",24.2,4,2,4,0,0,1,0,0.17,0.08,0.25,0.17,0.25,Matches,1995-1996
+465,Neil Sullivan,sct SCO,GK,Wimbledon,25,1970,16,16,"1,440",16.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+466,Nicky Summerbee,eng ENG,MF,Manchester City,23,1971,37,35,"2,997",33.3,1,2,1,0,0,4,1,0.03,0.06,0.09,0.03,0.09,Matches,1995-1996
+468,Mark Summerbell,eng ENG,MF,Middlesbrough,18,1976,1,0,51,0.6,0,,0,0,,1,0,0.00,,,0.00,,Matches,1995-1996
+469,Chris Sutton,eng ENG,"DF,FW",Blackburn,22,1973,13,9,819,9.1,0,1,0,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches,1995-1996
+470,Kit Symons,wls WAL,DF,Manchester City,24,1971,38,38,"3,420",38.0,2,1,2,0,0,3,0,0.05,0.03,0.08,0.05,0.08,Matches,1995-1996
+471,Gerry Taggart,nir NIR,DF,Bolton,24,1970,11,11,953,10.6,1,0,1,0,0,6,0,0.09,0.00,0.09,0.09,0.09,Matches,1995-1996
+472,Steve Talboys,eng ENG,MF,Wimbledon,28,1966,5,3,354,3.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+473,Ian Taylor,eng ENG,MF,Aston Villa,27,1968,25,24,"2,142",23.8,3,2,3,0,0,5,0,0.13,0.08,0.21,0.13,0.21,Matches,1995-1996
+474,Scott Taylor,eng ENG,FW,Bolton,19,1976,1,0,9,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+475,Paul Telfer,sct SCO,"DF,MF",Coventry City,23,1971,31,31,"2,657",29.5,1,3,1,0,0,5,0,0.03,0.10,0.14,0.03,0.14,Matches,1995-1996
+476,Michael Thomas,eng ENG,MF,Liverpool,27,1967,27,18,"1,748",19.4,1,1,1,0,0,3,0,0.05,0.05,0.10,0.05,0.10,Matches,1995-1996
+477,Alan Thompson,eng ENG,MF,Bolton,21,1973,26,23,"2,087",23.2,1,3,0,1,1,8,0,0.04,0.13,0.17,0.00,0.13,Matches,1995-1996
+478,Andy Thorn,eng ENG,DF,Wimbledon,28,1966,14,11,859,9.5,0,3,0,0,0,2,0,0.00,0.31,0.31,0.00,0.31,Matches,1995-1996
+479,Ben Thornley,eng ENG,MF,Manchester Utd,20,1975,1,0,7,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+480,Carl Tiler,eng ENG,DF,Aston Villa,25,1970,1,1,74,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+481,Mark Tinkler,eng ENG,MF,Leeds United,20,1974,9,5,504,5.6,0,1,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18,Matches,1995-1996
+482,Paul Tisdale,eng ENG,MF,Southampton,22,1973,8,5,541,6.0,1,0,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,1995-1996
+483,Andy Todd,eng ENG,DF,Bolton,20,1974,11,9,730,8.1,2,0,2,0,0,2,0,0.25,0.00,0.25,0.25,0.25,Matches,1995-1996
+484,Andy Townsend,ie IRL,MF,Aston Villa,32,1963,33,32,"2,836",31.5,2,6,2,0,0,9,1,0.06,0.19,0.25,0.06,0.25,Matches,1995-1996
+485,Simon Tracey,eng ENG,GK,Wimbledon,27,1967,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+486,David Unsworth,eng ENG,DF,Everton,21,1973,31,28,"2,578",28.6,2,3,0,2,2,4,1,0.07,0.10,0.17,0.00,0.10,Matches,1995-1996
+487,Barry Venison,eng ENG,DF,Southampton,30,1964,22,21,"1,882",20.9,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+488,Steve Vickers,eng ENG,DF,Middlesbrough,27,1967,32,32,"2,880",32.0,1,2,1,0,0,1,0,0.03,0.06,0.09,0.03,0.09,Matches,1995-1996
+489,Chris Waddle,eng ENG,"FW,MF",Sheffield Weds,34,1960,32,23,"2,199",24.4,2,6,2,0,0,1,0,0.08,0.25,0.33,0.08,0.33,Matches,1995-1996
+490,Des Walker,eng ENG,DF,Sheffield Weds,29,1965,36,36,"3,223",35.8,0,2,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,1995-1996
+491,Ian Walker,eng ENG,GK,Tottenham,23,1971,38,38,"3,420",38.0,0,1,0,0,0,1,0,0.00,0.03,0.03,0.00,0.03,Matches,1995-1996
+492,Rod Wallace,eng ENG,FW,Leeds United,25,1969,24,12,"1,238",13.8,1,1,1,0,0,1,0,0.07,0.07,0.15,0.07,0.15,Matches,1995-1996
+494,Gary Walsh,eng ENG,GK,Middlesbrough,27,1968,32,32,"2,880",32.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+495,Paul Walsh,eng ENG,FW,Manchester City,32,1962,3,3,244,2.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+496,Mark Walters,eng ENG,MF,Southampton,31,1964,5,5,354,3.9,0,1,0,0,0,2,0,0.00,0.25,0.25,0.00,0.25,Matches,1995-1996
+497,Gavin Ward,eng ENG,GK,Bolton,25,1970,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+498,Paul Warhurst,eng ENG,"DF,MF",Blackburn,25,1969,10,1,346,3.8,0,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,1995-1996
+499,Christer Warren,eng ENG,MF,Southampton,20,1974,7,1,268,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+500,Dave Watson,eng ENG,DF,Everton,33,1961,34,34,"2,987",33.2,1,2,1,0,0,6,1,0.03,0.06,0.09,0.03,0.09,Matches,1995-1996
+501,Gordon Watson,eng ENG,FW,Southampton,24,1971,24,17,"1,589",17.7,3,3,3,0,0,1,1,0.17,0.17,0.34,0.17,0.34,Matches,1995-1996
+502,Mark Watson,,FW,West Ham,21,1973,1,0,14,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1995-1996
+503,Steve Watson,eng ENG,"DF,MF",Newcastle Utd,21,1974,22,15,"1,520",16.9,3,1,3,0,0,0,0,0.18,0.06,0.24,0.18,0.24,Matches,1995-1996
+504,Julian Watts,eng ENG,DF,Sheffield Weds,24,1971,11,9,795,8.8,1,0,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches,1995-1996
+505,David Wetherall,eng ENG,DF,Leeds United,24,1971,34,34,"3,060",34.0,3,2,3,0,0,5,0,0.09,0.06,0.15,0.09,0.15,Matches,1995-1996
+506,Noel Whelan,eng ENG,FW,Leeds United,20,1974,8,3,288,3.2,0,0,,,,0,0,0.00,0.00,0.00,,,Matches,1995-1996
+507,Noel Whelan,eng ENG,FW,Coventry City,20,1974,21,21,"1,841",20.5,8,3,,,,3,0,0.39,0.15,0.54,,,Matches,1995-1996
+508,Phil Whelan,eng ENG,DF,Middlesbrough,23,1972,13,9,888,9.9,1,0,1,0,0,4,1,0.10,0.00,0.10,0.10,0.10,Matches,1995-1996
+509,Adrian Whitbread,eng ENG,DF,West Ham,23,1971,2,0,7,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+510,David White,eng ENG,"FW,MF",Leeds United,27,1967,4,1,210,2.3,1,0,1,0,0,0,0,0.43,0.00,0.43,0.43,0.43,Matches,1995-1996
+511,Guy Whittingham,eng ENG,FW,Sheffield Weds,30,1964,28,26,"2,413",26.8,6,5,6,0,0,4,0,0.22,0.19,0.41,0.22,0.41,Matches,1995-1996
+512,Chris Whyte,eng ENG,DF,Coventry City,33,1961,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+513,Derek Whyte,sct SCO,DF,Middlesbrough,26,1968,25,24,"2,091",23.2,0,1,0,0,0,8,1,0.00,0.04,0.04,0.00,0.04,Matches,1995-1996
+514,Tommy Widdrington,eng ENG,MF,Southampton,23,1971,21,21,"1,743",19.4,2,0,2,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches,1995-1996
+515,Jason Wilcox,eng ENG,"FW,MF",Blackburn,24,1971,10,10,837,9.3,3,3,3,0,0,0,0,0.32,0.32,0.65,0.32,0.65,Matches,1995-1996
+516,Ray Wilkins,eng ENG,MF,QPR,38,1956,15,12,947,10.5,0,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches,1995-1996
+517,Paul Wilkinson,eng ENG,FW,Middlesbrough,30,1964,3,2,210,2.3,0,1,0,0,0,0,0,0.00,0.43,0.43,0.00,0.43,Matches,1995-1996
+518,Mike Williams,eng ENG,FW,Sheffield Weds,25,1969,5,3,258,2.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+520,Paul Williams,eng ENG,DF,Coventry City,24,1971,33,31,"2,751",30.6,3,0,3,0,0,9,0,0.10,0.00,0.10,0.10,0.10,Matches,1995-1996
+521,Danny Williamson,eng ENG,MF,West Ham,21,1973,29,28,"2,477",27.5,4,2,4,0,0,4,0,0.15,0.07,0.22,0.15,0.22,Matches,1995-1996
+522,Clive Wilson,eng ENG,DF,Tottenham,33,1961,28,28,"2,520",28.0,0,4,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,1995-1996
+523,Nigel Winterburn,eng ENG,DF,Arsenal,31,1963,36,36,"3,238",36.0,2,1,2,0,0,6,0,0.06,0.03,0.08,0.06,0.08,Matches,1995-1996
+524,Dennis Wise,eng ENG,MF,Chelsea,28,1966,35,34,"2,994",33.3,7,4,5,2,3,10,0,0.21,0.12,0.33,0.15,0.27,Matches,1995-1996
+525,Ian Woan,eng ENG,MF,Nott'ham Forest,27,1967,33,33,"2,956",32.8,8,10,8,0,0,5,0,0.24,0.30,0.55,0.24,0.55,Matches,1995-1996
+526,Chris Woods,eng ENG,GK,Sheffield Weds,35,1959,8,8,720,8.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+527,Nigel Worthington,nir NIR,"DF,MF",Leeds United,33,1961,15,12,"1,187",13.2,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+528,Alan Wright,eng ENG,DF,Aston Villa,23,1971,38,38,"3,420",38.0,2,1,2,0,0,2,0,0.05,0.03,0.08,0.05,0.08,Matches,1995-1996
+529,Ian Wright,eng ENG,FW,Arsenal,31,1963,31,31,"2,734",30.4,15,2,12,3,5,8,0,0.49,0.07,0.56,0.40,0.46,Matches,1995-1996
+530,Mark Wright,eng ENG,DF,Liverpool,31,1963,28,28,"2,416",26.8,2,1,2,0,0,7,0,0.07,0.04,0.11,0.07,0.11,Matches,1995-1996
+531,Steve Yates,eng ENG,DF,QPR,25,1970,30,30,"2,697",30.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
+532,Tony Yeboah,gh GHA,FW,Leeds United,29,1966,21,21,"1,880",20.9,12,1,12,0,0,1,0,0.57,0.05,0.62,0.57,0.62,Matches,1995-1996
+533,Dwight Yorke,tt TRI,"FW,MF",Aston Villa,23,1971,35,35,"3,002",33.4,17,10,15,2,2,0,0,0.51,0.30,0.81,0.45,0.75,Matches,1995-1996
+534,Ned Zelić,au AUS,"DF,MF",QPR,24,1971,4,3,300,3.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1995-1996
