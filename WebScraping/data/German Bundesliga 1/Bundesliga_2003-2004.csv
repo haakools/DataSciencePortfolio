@@ -1,0 +1,475 @@
+,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+0,Otto Addo,gh GHA,MF,Dortmund,28,1975,6,5,435,4.8,0,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,2003-2004
+1,Godfried Aduobe,gh GHA,MF,Hansa Rostock,27,1975,12,8,710,7.9,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+2,Victor Agali,ng NGA,FW,Schalke 04,24,1978,12,8,784,8.7,3,0,3,0,0,5,0,0.34,0.00,0.34,0.34,0.34,Matches,2003-2004
+3,Paul Agostino,au AUS,FW,1860 Munich,28,1975,22,9,"1,028",11.4,5,0,5,0,0,1,0,0.44,0.00,0.44,0.44,0.44,Matches,2003-2004
+4,Lawrence Aidoo,gh GHA,"FW,MF",M'Gladbach,21,1982,5,1,193,2.1,0,1,0,0,0,0,0,0.00,0.47,0.47,0.00,0.47,Matches,2003-2004
+5,Alcides,br BRA,DF,Schalke 04,18,1985,6,5,374,4.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+6,Halil Altıntop,tr TUR,"FW,MF",Kaiserslautern,20,1982,27,11,"1,292",14.4,2,0,2,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,2003-2004
+7,Hamit Altıntop,tr TUR,"DF,MF",Schalke 04,20,1982,30,27,"2,494",27.7,6,5,6,0,0,5,0,0.22,0.18,0.40,0.22,0.40,Matches,2003-2004
+8,Ioannis Amanatidis,gr GRE,"FW,MF",Eint Frankfurt,21,1981,15,15,"1,281",14.2,6,0,6,0,0,2,1,0.42,0.00,0.42,0.42,0.42,Matches,2003-2004
+9,Ioannis Amanatidis,gr GRE,"FW,MF",Stuttgart,21,1981,8,1,176,2.0,1,0,1,0,0,1,0,0.51,0.00,0.51,0.51,0.51,Matches,2003-2004
+10,Márcio Amoroso,br BRA,FW,Dortmund,29,1974,4,4,329,3.7,4,0,3,1,1,1,0,1.09,0.00,1.09,0.82,0.82,Matches,2003-2004
+11,Markus Anfang,de GER,MF,Kaiserslautern,29,1974,8,4,439,4.9,0,1,0,0,0,2,0,0.00,0.21,0.21,0.00,0.21,Matches,2003-2004
+12,Roda Antar,lb LIB,MF,Freiburg,22,1980,17,17,"1,422",15.8,7,1,7,0,0,1,1,0.44,0.06,0.51,0.44,0.51,Matches,2003-2004
+13,Magnus Arvidsson,se SWE,FW,Hansa Rostock,30,1973,24,13,"1,167",13.0,6,3,6,0,0,1,0,0.46,0.23,0.69,0.46,0.69,Matches,2003-2004
+14,Gerald Asamoah,de GER,"FW,MF",Schalke 04,24,1978,24,22,"1,687",18.7,4,2,4,0,0,3,1,0.21,0.11,0.32,0.21,0.32,Matches,2003-2004
+15,Slađan Ašanin,hr CRO,DF,M'Gladbach,31,1971,27,27,"2,329",25.9,1,0,1,0,0,2,0,0.04,0.00,0.04,0.04,0.04,Matches,2003-2004
+16,Marko Babić,hr CRO,"DF,MF",Leverkusen,22,1981,32,29,"2,589",28.8,6,8,6,0,0,7,0,0.21,0.28,0.49,0.21,0.49,Matches,2003-2004
+17,Alexander Bade,de GER,GK,Köln,32,1970,3,2,222,2.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+18,Fernando Baiano,br BRA,FW,Wolfsburg,24,1979,17,13,"1,039",11.5,11,2,11,0,0,2,0,0.95,0.17,1.13,0.95,1.13,Matches,2003-2004
+19,Daniel Baier,de GER,MF,1860 Munich,19,1984,11,4,487,5.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+20,Zlatan Bajramović,ba BIH,MF,Freiburg,23,1979,26,21,"1,892",21.0,6,3,6,0,0,5,1,0.29,0.14,0.43,0.29,0.43,Matches,2003-2004
+21,Hanno Balitsch,de GER,MF,Leverkusen,22,1981,26,16,"1,564",17.4,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+22,Michael Ballack,de GER,MF,Bayern Munich,26,1976,28,28,"2,470",27.4,7,12,7,0,1,9,2,0.26,0.44,0.69,0.26,0.69,Matches,2003-2004
+23,Ivica Banović,hr CRO,MF,Werder Bremen,22,1980,3,0,42,0.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+24,Sergej Barbarez,ba BIH,"FW,MF",Hamburger SV,31,1971,32,32,"2,795",31.1,10,6,10,0,0,8,0,0.32,0.19,0.52,0.32,0.52,Matches,2003-2004
+26,Yıldıray Baştürk,tr TUR,MF,Leverkusen,24,1978,17,8,665,7.4,2,4,2,0,0,5,0,0.27,0.54,0.81,0.27,0.81,Matches,2003-2004
+27,Frank Baumann,de GER,"DF,MF",Werder Bremen,27,1975,32,32,"2,872",31.9,2,2,2,0,0,5,0,0.06,0.06,0.13,0.06,0.13,Matches,2003-2004
+28,Markus Beierle,de GER,FW,Eint Frankfurt,31,1972,20,11,"1,181",13.1,4,2,4,0,0,1,0,0.30,0.15,0.46,0.30,0.46,Matches,2003-2004
+29,Stefan Beinlich,de GER,MF,Hamburger SV,31,1972,23,21,"1,846",20.5,2,4,2,0,0,4,0,0.10,0.20,0.29,0.10,0.29,Matches,2003-2004
+30,Michał Bemben,de GER,"DF,MF",Bochum,27,1976,10,2,244,2.7,0,1,0,0,0,0,0,0.00,0.37,0.37,0.00,0.37,Matches,2003-2004
+31,Collin Benjamin,na NAM,"DF,MF",Hamburger SV,24,1978,16,9,755,8.4,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+32,Dimitar Berbatov,bg BUL,FW,Leverkusen,22,1981,33,24,"2,291",25.5,16,7,15,1,2,4,0,0.63,0.27,0.90,0.59,0.86,Matches,2003-2004
+33,Vinícius Bergantin,br BRA,DF,Hannover 96,23,1980,22,20,"1,823",20.3,1,0,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,2003-2004
+34,André Bergdølmo,no NOR,DF,Dortmund,31,1971,16,13,"1,208",13.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+35,Bruno Berner,ch SUI,"DF,MF",Freiburg,25,1977,33,26,"2,212",24.6,1,5,1,0,0,3,0,0.04,0.20,0.24,0.04,0.24,Matches,2003-2004
+36,Daniel Bierofka,de GER,MF,Leverkusen,24,1979,32,18,"1,901",21.1,4,2,4,0,0,6,0,0.19,0.09,0.28,0.19,0.28,Matches,2003-2004
+37,Marino Biliškov,hr CRO,DF,Wolfsburg,27,1976,23,18,"1,641",18.2,3,0,3,0,0,9,0,0.16,0.00,0.16,0.16,0.16,Matches,2003-2004
+38,Uwe Bindewald,de GER,DF,Eint Frankfurt,34,1968,21,18,"1,561",17.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+39,Nenad Bjelica,hr CRO,MF,Kaiserslautern,31,1971,19,16,"1,462",16.2,2,3,2,0,0,9,0,0.12,0.18,0.31,0.12,0.31,Matches,2003-2004
+40,Fredi Bobic,de GER,FW,Hertha BSC,31,1971,32,27,"2,444",27.2,7,4,7,0,0,4,0,0.26,0.15,0.41,0.26,0.41,Matches,2003-2004
+41,Jörg Böhme,de GER,MF,Schalke 04,29,1974,14,11,936,10.4,2,4,1,1,2,3,0,0.19,0.38,0.58,0.10,0.48,Matches,2003-2004
+42,Philipp Bönig,de GER,DF,Bochum,23,1980,28,28,"2,317",25.7,0,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches,2003-2004
+43,Marcelo Bordon,br BRA,DF,Stuttgart,27,1976,24,24,"2,159",24.0,5,3,5,0,0,6,1,0.21,0.13,0.33,0.21,0.33,Matches,2003-2004
+44,Pascal Borel,de GER,GK,Werder Bremen,24,1978,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+45,Daniel Borimirov,bg BUL,MF,1860 Munich,33,1970,5,1,123,1.4,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+46,Tim Borowski,de GER,MF,Werder Bremen,23,1980,25,12,"1,237",13.7,1,3,1,0,0,1,0,0.07,0.22,0.29,0.07,0.29,Matches,2003-2004
+47,Danko Bošković,de GER,FW,Kaiserslautern,21,1982,1,0,15,0.2,0,0,0,0,,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+48,Serge Branco,cm CMR,"DF,MF",Stuttgart,22,1980,3,0,18,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+49,Thomas Brdarić,de GER,FW,Hannover 96,28,1975,28,22,"2,047",22.7,12,5,12,0,0,8,1,0.53,0.22,0.75,0.53,0.75,Matches,2003-2004
+50,Thomas Broich,de GER,MF,M'Gladbach,22,1981,13,10,953,10.6,2,3,2,0,0,4,0,0.19,0.28,0.47,0.19,0.47,Matches,2003-2004
+52,Markus Brzenska,de GER,DF,Dortmund,19,1984,5,1,50,0.6,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+53,Delron Buckley,za RSA,"FW,MF",Bochum,25,1977,20,6,813,9.0,0,2,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,2003-2004
+54,Henning Bürger,de GER,"DF,MF",Eint Frankfurt,33,1969,21,19,"1,480",16.4,1,2,1,0,0,5,1,0.06,0.12,0.18,0.06,0.18,Matches,2003-2004
+55,Dick van Burik,nl NED,DF,Hertha BSC,29,1973,20,20,"1,564",17.4,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+56,Vladimir But,ru RUS,MF,Hannover 96,25,1977,3,1,103,1.1,0,1,0,0,0,0,0,0.00,0.87,0.87,0.00,0.87,Matches,2003-2004
+57,Hans-Jörg Butt,de GER,GK,Leverkusen,29,1974,34,34,"3,060",34.0,1,0,0,1,2,1,0,0.03,0.00,0.03,0.00,0.00,Matches,2003-2004
+58,Cacau,de GER,FW,Stuttgart,22,1981,15,9,839,9.3,5,1,5,0,0,3,0,0.54,0.11,0.64,0.54,0.64,Matches,2003-2004
+59,Dennis Cagara,ph PHI,DF,Hertha BSC,18,1985,8,5,525,5.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+60,Ellery Cairo,nl NED,"FW,MF",Freiburg,24,1978,30,13,"1,642",18.2,1,4,1,0,0,2,0,0.05,0.22,0.27,0.05,0.27,Matches,2003-2004
+61,Jan-Ingwer Callsen-Bracker,de GER,DF,Leverkusen,18,1984,1,0,12,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+62,Rodolfo Cardoso,ar ARG,MF,Hamburger SV,34,1968,9,2,237,2.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+63,Juan Carlos Menseguez,ar ARG,"FW,MF",Wolfsburg,19,1984,28,21,"1,764",19.6,0,3,0,0,0,4,0,0.00,0.15,0.15,0.00,0.15,Matches,2003-2004
+64,Bradley Carnell,za RSA,"DF,MF",M'Gladbach,26,1977,18,17,"1,537",17.1,1,2,1,0,0,2,0,0.06,0.12,0.18,0.06,0.18,Matches,2003-2004
+65,Emanuel Centurión,ar ARG,MF,Stuttgart,20,1982,5,0,112,1.2,0,1,0,0,0,0,0,0.00,0.80,0.80,0.00,0.80,Matches,2003-2004
+66,Harald Cerny,at AUT,MF,1860 Munich,29,1973,24,21,"1,827",20.3,0,3,0,0,0,6,0,0.00,0.15,0.15,0.00,0.15,Matches,2003-2004
+67,Sofian Chahed,tn TUN,"DF,MF",Hertha BSC,20,1983,8,6,570,6.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+68,Angelos Charisteas,gr GRE,FW,Werder Bremen,23,1980,24,7,850,9.4,4,4,4,0,0,0,0,0.42,0.42,0.85,0.42,0.85,Matches,2003-2004
+69,Steve Cherundolo,us USA,DF,Hannover 96,24,1979,29,27,"2,375",26.4,0,3,0,0,0,7,1,0.00,0.11,0.11,0.00,0.11,Matches,2003-2004
+70,Chris,br BRA,"DF,MF",Eint Frankfurt,24,1978,25,24,"2,110",23.4,3,0,3,0,0,9,0,0.13,0.00,0.13,0.13,0.13,Matches,2003-2004
+71,Thomas Christiansen,es ESP,FW,Hannover 96,30,1973,26,21,"1,719",19.1,9,3,7,2,2,6,1,0.47,0.16,0.63,0.37,0.52,Matches,2003-2004
+72,Thomas Cichon,de GER,DF,Köln,27,1976,22,19,"1,702",18.9,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+73,Geri Çipi,al ALB,DF,Eint Frankfurt,27,1976,13,13,"1,123",12.5,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+74,Søren Colding,dk DEN,DF,Bochum,30,1972,33,33,"2,940",32.7,1,1,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches,2003-2004
+75,Flávio Conceição,br BRA,MF,Dortmund,29,1974,14,12,917,10.2,1,1,1,0,0,1,0,0.10,0.10,0.20,0.10,0.20,Matches,2003-2004
+76,Rodrigo Costa,br BRA,DF,1860 Munich,28,1975,30,30,"2,700",30.0,1,0,1,0,0,12,0,0.03,0.00,0.03,0.03,0.03,Matches,2003-2004
+78,Soumaila Coulibaly,ml MLI,MF,Freiburg,25,1978,29,26,"2,345",26.1,4,3,2,2,2,3,1,0.15,0.12,0.27,0.08,0.19,Matches,2003-2004
+79,Carsten Cullmann,de GER,DF,Köln,27,1976,15,15,"1,350",15.0,0,2,0,0,0,4,0,0.00,0.13,0.13,0.00,0.13,Matches,2003-2004
+80,Simon Cziommer,de GER,MF,Schalke 04,22,1980,2,0,23,0.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+81,Andrés D'Alessandro,ar ARG,"FW,MF",Wolfsburg,22,1981,29,29,"2,413",26.8,3,11,3,0,0,9,1,0.11,0.41,0.52,0.11,0.52,Matches,2003-2004
+82,Christoph Dabrowski,de GER,MF,Hannover 96,24,1978,26,23,"1,978",22.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+83,Pál Dárdai,hu HUN,MF,Hertha BSC,27,1976,29,28,"2,452",27.2,0,1,0,0,0,10,0,0.00,0.04,0.04,0.00,0.04,Matches,2003-2004
+84,Markus Daun,de GER,FW,Werder Bremen,22,1980,5,0,83,0.9,0,2,0,0,0,0,0,0.00,2.17,2.17,0.00,2.17,Matches,2003-2004
+85,Ümit Davala,tr TUR,"DF,MF",Werder Bremen,30,1973,22,22,"1,900",21.1,0,1,0,0,0,3,1,0.00,0.05,0.05,0.00,0.05,Matches,2003-2004
+86,Lance Davids,za RSA,MF,1860 Munich,18,1985,12,6,500,5.6,0,1,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches,2003-2004
+87,Dedê,br BRA,DF,Dortmund,25,1978,23,21,"1,910",21.2,2,3,2,0,0,6,0,0.09,0.14,0.24,0.09,0.24,Matches,2003-2004
+88,Sebastian Deisler,de GER,MF,Bayern Munich,23,1980,11,8,592,6.6,4,3,4,0,0,0,0,0.61,0.46,1.06,0.61,1.06,Matches,2003-2004
+89,Michael Delura,de GER,"FW,MF",Schalke 04,18,1985,15,9,839,9.3,4,0,4,0,0,0,0,0.43,0.00,0.43,0.43,0.43,Matches,2003-2004
+90,Guy Demel,ci CIV,"DF,MF",Dortmund,22,1981,13,13,"1,097",12.2,0,1,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches,2003-2004
+91,Martín Demichelis,ar ARG,"DF,MF",Bayern Munich,22,1980,14,10,858,9.5,2,2,2,0,0,3,0,0.21,0.21,0.42,0.21,0.42,Matches,2003-2004
+92,Igor Demo,sk SVK,MF,M'Gladbach,27,1975,27,17,"1,449",16.1,4,1,4,0,1,1,0,0.25,0.06,0.31,0.25,0.31,Matches,2003-2004
+93,Antonio Di Salvo,de GER,FW,Hansa Rostock,24,1979,21,9,774,8.6,4,2,4,0,0,3,0,0.47,0.23,0.70,0.47,0.70,Matches,2003-2004
+94,Mamadou Diabang,sn SEN,FW,Bochum,24,1979,24,7,942,10.5,4,1,4,0,0,1,0,0.38,0.10,0.48,0.38,0.48,Matches,2003-2004
+95,Boubacar Diarra,ml MLI,DF,Freiburg,24,1979,32,30,"2,703",30.0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+96,Salim Djefaflia,fr FRA,FW,Hannover 96,24,1978,1,0,6,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+97,Mustafa Doğan,de GER,DF,Köln,27,1976,25,25,"2,146",23.8,1,0,1,0,0,7,0,0.04,0.00,0.04,0.04,0.04,Matches,2003-2004
+98,José Dominguez,pt POR,MF,Kaiserslautern,29,1974,26,17,"1,354",15.0,1,2,1,0,0,2,1,0.07,0.13,0.20,0.07,0.20,Matches,2003-2004
+99,Mehmet Dragusha,al ALB,MF,Eint Frankfurt,25,1977,14,2,372,4.1,1,0,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,2003-2004
+100,Thomas Drescher,de GER,DF,Kaiserslautern,24,1978,11,10,877,9.7,0,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches,2003-2004
+101,Cha Du-ri,kr KOR,"DF,MF",Eint Frankfurt,23,1980,31,24,"2,064",22.9,1,3,1,0,0,2,0,0.04,0.13,0.17,0.04,0.17,Matches,2003-2004
+102,Rein van Duijnhoven,nl NED,GK,Bochum,35,1967,34,34,"3,060",34.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+104,Markus Dworrak,de GER,"FW,MF",Köln,25,1978,2,0,37,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+105,Marius Ebbers,de GER,FW,Köln,25,1978,17,8,715,7.9,1,0,1,0,0,1,1,0.13,0.00,0.13,0.13,0.13,Matches,2003-2004
+106,Max Eberl,de GER,DF,M'Gladbach,29,1973,4,4,298,3.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+107,Edu,br BRA,FW,Bochum,21,1981,12,3,447,5.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+108,Giovane Élber,br BRA,FW,Bayern Munich,31,1972,4,2,208,2.3,1,0,1,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,2003-2004
+109,Fabian Ernst,de GER,MF,Werder Bremen,24,1979,33,33,"2,950",32.8,2,11,2,0,0,4,0,0.06,0.34,0.40,0.06,0.40,Matches,2003-2004
+110,Thomas Ernst,de GER,GK,Kaiserslautern,35,1967,6,4,462,5.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+111,Evanílson,br BRA,"DF,FW",Dortmund,27,1975,10,7,715,7.9,0,,0,0,,2,0,0.00,,,0.00,,Matches,2003-2004
+112,Ewerthon,br BRA,FW,Dortmund,22,1981,31,25,"2,281",25.3,16,4,13,3,3,3,0,0.63,0.16,0.79,0.51,0.67,Matches,2003-2004
+113,Frank Fahrenhorst,de GER,DF,Bochum,25,1977,33,33,"2,894",32.2,7,1,7,0,0,2,0,0.22,0.03,0.25,0.22,0.25,Matches,2003-2004
+114,Malik Fathi,de GER,DF,Hertha BSC,19,1983,14,13,"1,102",12.2,0,1,0,0,0,0,0,0.00,0.08,0.08,0.00,0.08,Matches,2003-2004
+115,Giovanni Federico,de GER,MF,Köln,22,1980,12,4,401,4.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+116,Juan Fernández,ar ARG,"DF,MF",Dortmund,23,1980,10,9,746,8.3,0,2,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,2003-2004
+117,Markus Feulner,de GER,MF,Köln,21,1982,12,9,779,8.7,1,0,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,2003-2004
+118,Markus Feulner,de GER,MF,Bayern Munich,21,1982,2,0,32,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+119,Christian Fiedler,de GER,GK,Hertha BSC,28,1975,17,17,"1,516",16.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+120,Thorsten Fink,de GER,MF,Bayern Munich,35,1967,1,0,18,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+121,Karsten Fischer,de GER,"DF,MF",Wolfsburg,19,1984,1,0,7,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+122,França,br BRA,FW,Leverkusen,27,1976,33,29,"2,342",26.0,14,11,14,0,0,1,0,0.54,0.42,0.96,0.54,0.96,Matches,2003-2004
+123,Maik Franz,de GER,DF,Wolfsburg,21,1981,23,20,"1,819",20.2,2,1,2,0,0,8,1,0.10,0.05,0.15,0.10,0.15,Matches,2003-2004
+124,Paul Freier,de GER,MF,Bochum,24,1979,27,26,"2,197",24.4,1,6,1,0,0,3,0,0.04,0.25,0.29,0.04,0.29,Matches,2003-2004
+125,Steffen Freund,de GER,MF,Kaiserslautern,33,1970,8,7,514,5.7,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+126,Arne Friedrich,de GER,DF,Hertha BSC,24,1979,30,30,"2,580",28.7,3,2,3,0,0,6,1,0.10,0.07,0.17,0.10,0.17,Matches,2003-2004
+127,Manuel Friedrich,de GER,DF,Werder Bremen,23,1979,1,0,8,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+128,Torsten Frings,de GER,MF,Dortmund,26,1976,16,16,"1,417",15.7,4,4,4,0,1,4,0,0.25,0.25,0.51,0.25,0.51,Matches,2003-2004
+130,Clemens Fritz,de GER,"DF,MF",Leverkusen,22,1980,14,11,890,9.9,1,1,1,0,0,2,0,0.10,0.10,0.20,0.10,0.20,Matches,2003-2004
+131,Nico Frommer,de GER,FW,Eint Frankfurt,25,1978,20,7,812,9.0,2,2,2,0,1,2,0,0.22,0.22,0.44,0.22,0.44,Matches,2003-2004
+132,Milan Fukal,cz CZE,"DF,MF",Hamburger SV,28,1975,8,6,530,5.9,1,0,1,0,0,1,1,0.17,0.00,0.17,0.17,0.17,Matches,2003-2004
+133,Enrico Gaede,de GER,MF,M'Gladbach,21,1982,25,21,"1,960",21.8,0,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+134,Salvatore Gambino,de GER,"FW,MF",Dortmund,19,1983,20,17,"1,425",15.8,3,3,3,0,0,1,0,0.19,0.19,0.38,0.19,0.38,Matches,2003-2004
+135,Heiko Gerber,de GER,"DF,MF",Stuttgart,31,1972,19,13,"1,217",13.5,1,1,1,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches,2003-2004
+136,Kristjan Glibo,de GER,"DF,MF",Kaiserslautern,21,1982,2,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+137,Eduard Glieder,at AUT,FW,Schalke 04,34,1969,15,8,697,7.7,2,0,2,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,2003-2004
+138,Richard Golz,de GER,GK,Freiburg,35,1968,23,23,"2,070",23.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+139,Mario Gómez,de GER,FW,Stuttgart,18,1985,1,0,42,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+140,Aílton Gonçalves,br BRA,FW,Werder Bremen,30,1973,33,32,"2,603",28.9,28,8,23,5,6,4,0,0.97,0.28,1.24,0.80,1.07,Matches,2003-2004
+141,Bart Goor,be BEL,MF,Hertha BSC,30,1973,24,17,"1,683",18.7,0,4,0,0,0,3,0,0.00,0.21,0.21,0.00,0.21,Matches,2003-2004
+142,Andreas Görlitz,de GER,"DF,MF",1860 Munich,21,1982,32,28,"2,563",28.5,1,2,1,0,0,4,1,0.04,0.07,0.11,0.04,0.11,Matches,2003-2004
+143,Dimitrios Grammozis,gr GRE,MF,Kaiserslautern,25,1978,12,11,"1,037",11.5,1,1,1,0,0,2,0,0.09,0.09,0.17,0.09,0.17,Matches,2003-2004
+144,Vladan Grujić,ba BIH,MF,Köln,22,1981,11,9,786,8.7,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+145,Rolf-Christel Guié-Mien,cg CGO,MF,Freiburg,25,1977,9,0,108,1.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+146,Sven Günther,de GER,"DF,MF",Eint Frankfurt,29,1974,25,19,"1,673",18.6,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+147,Julian de Guzmán,ca CAN,MF,Hannover 96,22,1981,30,27,"2,440",27.1,2,3,2,0,0,10,2,0.07,0.11,0.18,0.07,0.18,Matches,2003-2004
+148,Bjarni Guðjónsson,is ISL,MF,Bochum,24,1979,3,0,105,1.2,1,0,1,0,0,1,0,0.86,0.00,0.86,0.86,0.86,Matches,2003-2004
+149,Þórður Guðjónsson,is ISL,"FW,MF",Bochum,29,1973,13,3,374,4.2,0,1,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,2003-2004
+150,Daniel Haas,de GER,GK,Hannover 96,19,1983,1,0,45,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+151,Tomasz Hajto,pl POL,DF,Schalke 04,30,1972,19,15,"1,380",15.3,1,0,0,1,1,9,0,0.07,0.00,0.07,0.00,0.00,Matches,2003-2004
+152,Mike Hanke,de GER,FW,Schalke 04,19,1983,23,8,865,9.6,2,3,2,0,0,0,0,0.21,0.31,0.52,0.21,0.52,Matches,2003-2004
+153,Markus Happe,de GER,DF,Köln,31,1972,2,0,66,0.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+154,Owen Hargreaves,eng ENG,MF,Bayern Munich,22,1981,25,25,"2,244",24.9,2,3,2,0,0,5,0,0.08,0.12,0.20,0.08,0.20,Matches,2003-2004
+156,Michael Hartmann,de GER,"DF,MF",Hertha BSC,29,1974,9,7,660,7.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+157,Vahid Hashemian,ir IRN,"FW,MF",Bochum,27,1976,32,29,"2,582",28.7,16,5,16,0,0,2,0,0.56,0.17,0.73,0.56,0.73,Matches,2003-2004
+158,Markus Hausweiler,de GER,MF,M'Gladbach,27,1976,12,10,791,8.8,1,,1,0,,4,0,0.11,,,0.11,,Matches,2003-2004
+159,Christofer Heimeroth,de GER,GK,Schalke 04,21,1981,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+160,Jörg Heinrich,de GER,"DF,MF",Köln,33,1969,19,17,"1,498",16.6,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+161,Sebastian Helbig,de GER,"FW,MF",Köln,26,1977,12,6,582,6.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+162,Horst Heldt,de GER,MF,Stuttgart,33,1969,31,25,"1,814",20.2,1,8,0,1,1,4,0,0.05,0.40,0.45,0.00,0.40,Matches,2003-2004
+163,Thomas Hengen,de GER,DF,Kaiserslautern,28,1974,10,10,841,9.3,0,1,0,0,0,5,0,0.00,0.11,0.11,0.00,0.11,Matches,2003-2004
+164,Lars Hermel,de GER,DF,Freiburg,32,1970,13,9,911,10.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+165,Ingo Hertzsch,de GER,DF,Eint Frankfurt,26,1977,18,15,"1,323",14.7,1,0,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,2003-2004
+166,Nzelo Hervé Lembi,cd COD,DF,Kaiserslautern,27,1975,13,11,"1,089",12.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+167,Timo Hildebrand,de GER,GK,Stuttgart,24,1979,34,34,"3,060",34.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+168,Delano Hill,nl NED,DF,Hansa Rostock,28,1975,33,33,"2,970",33.0,0,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,2003-2004
+169,Andreas Hinkel,de GER,DF,Stuttgart,21,1982,28,26,"2,395",26.6,0,2,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,2003-2004
+170,Alexander Hleb,by BLR,MF,Stuttgart,22,1981,31,30,"2,348",26.1,5,6,5,0,1,2,0,0.19,0.23,0.42,0.19,0.42,Matches,2003-2004
+171,Vyacheslav Hleb,by BLR,"FW,MF",Hamburger SV,20,1983,7,2,223,2.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+172,Torben Hoffmann,de GER,DF,1860 Munich,28,1974,30,29,"2,641",29.3,1,1,0,1,1,7,0,0.03,0.03,0.07,0.00,0.03,Matches,2003-2004
+173,Michael Hofmann,de GER,GK,1860 Munich,30,1972,32,32,"2,851",31.7,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+174,Bernd Hollerbach,de GER,"DF,MF",Hamburger SV,33,1969,13,12,975,10.8,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+175,Nico-Jan Hoogma,nl NED,DF,Hamburger SV,34,1968,30,30,"2,645",29.4,2,1,2,0,0,7,1,0.07,0.03,0.10,0.07,0.10,Matches,2003-2004
+176,Mirko Hrgović,ba BIH,MF,Wolfsburg,24,1979,16,2,425,4.7,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+177,Marian Hristov,bg BUL,MF,Kaiserslautern,30,1973,31,31,"2,630",29.2,8,4,8,0,0,11,1,0.27,0.14,0.41,0.27,0.41,Matches,2003-2004
+178,Markus Husterer,de GER,DF,Stuttgart,20,1983,2,0,19,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+179,Aleksandre Iashvili,ge GEO,"FW,MF",Freiburg,25,1977,30,30,"2,616",29.1,9,5,9,0,0,1,0,0.31,0.17,0.48,0.31,0.48,Matches,2003-2004
+180,Mohammadou Idrissou,cm CMR,FW,Hannover 96,23,1980,26,19,"1,967",21.9,4,3,4,0,0,4,2,0.18,0.14,0.32,0.18,0.32,Matches,2003-2004
+182,Valérien Ismaël,fr FRA,DF,Werder Bremen,27,1975,32,32,"2,860",31.8,4,3,3,1,1,6,0,0.13,0.09,0.22,0.09,0.19,Matches,2003-2004
+183,Lars Jacobsen,dk DEN,DF,Hamburger SV,23,1979,10,5,533,5.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+184,Jaime,es ESP,MF,Hannover 96,30,1973,10,6,529,5.9,1,0,1,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches,2003-2004
+185,David Jarolím,cz CZE,MF,Hamburger SV,24,1979,26,25,"2,211",24.6,1,3,1,0,0,6,0,0.04,0.12,0.16,0.04,0.16,Matches,2003-2004
+186,Niclas Jensen,dk DEN,DF,Dortmund,28,1974,27,24,"2,135",23.7,1,1,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08,Matches,2003-2004
+187,Simon Jentzsch,de GER,GK,Wolfsburg,27,1976,26,26,"2,340",26.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+188,Jens Jeremies,de GER,MF,Bayern Munich,29,1974,22,15,"1,476",16.4,1,1,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches,2003-2004
+189,Shao Jiayi,cn CHN,MF,1860 Munich,23,1980,5,0,122,1.4,0,1,0,0,0,0,0,0.00,0.74,0.74,0.00,0.74,Matches,2003-2004
+190,Jermaine Jones,us USA,MF,Eint Frankfurt,21,1981,4,2,190,2.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+191,Juan,br BRA,DF,Leverkusen,24,1979,29,29,"2,558",28.4,2,1,2,0,0,6,1,0.07,0.04,0.11,0.07,0.11,Matches,2003-2004
+192,Oliver Kahn,de GER,GK,Bayern Munich,34,1969,33,33,"2,941",32.7,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+193,Raymond Kalla,cm CMR,DF,Bochum,28,1975,28,28,"2,354",26.2,1,1,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches,2003-2004
+194,Uwe Kamps,de GER,GK,M'Gladbach,39,1964,1,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+195,Miroslav Karhan,sk SVK,MF,Wolfsburg,27,1976,31,25,"2,426",27.0,4,6,4,0,0,4,0,0.15,0.22,0.37,0.15,0.37,Matches,2003-2004
+196,Bartosz Karwan,pl POL,MF,Hertha BSC,27,1976,7,2,227,2.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+197,Radosław Kałużny,pl POL,MF,Leverkusen,29,1974,6,2,253,2.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+198,Sebastian Kehl,de GER,"DF,MF",Dortmund,23,1980,23,23,"1,968",21.9,1,2,1,0,0,4,1,0.05,0.09,0.14,0.05,0.14,Matches,2003-2004
+199,Jens Keller,de GER,DF,Eint Frankfurt,32,1970,2,2,96,1.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+200,Joshua Kennedy,au AUS,FW,Köln,20,1982,4,0,51,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+201,Marcel Ketelaer,de GER,"FW,MF",M'Gladbach,25,1977,7,5,489,5.4,0,1,0,0,1,0,0,0.00,0.18,0.18,0.00,0.18,Matches,2003-2004
+202,Jochen Kientz,de GER,DF,Hansa Rostock,30,1972,9,9,810,9.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+203,Francis Kioyo,cm CMR,FW,1860 Munich,23,1979,25,9,960,10.7,2,0,2,0,1,0,0,0.19,0.00,0.19,0.19,0.19,Matches,2003-2004
+204,Gábor Király,hu HUN,GK,Hertha BSC,27,1976,18,17,"1,544",17.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+205,Oliver Kirch,de GER,"DF,MF",M'Gladbach,20,1982,8,3,381,4.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+206,Thomas Kläsener,de GER,DF,Schalke 04,26,1976,26,23,"2,104",23.4,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+208,Ivan Klasnić,hr CRO,FW,Werder Bremen,23,1980,29,27,"2,170",24.1,13,11,13,0,0,2,0,0.54,0.46,1.00,0.54,1.00,Matches,2003-2004
+209,Kléber,br BRA,DF,Hannover 96,23,1980,23,21,"1,792",19.9,1,3,1,0,0,3,0,0.05,0.15,0.20,0.05,0.20,Matches,2003-2004
+210,Daniel Klewer,de GER,GK,Hansa Rostock,26,1977,2,1,93,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+211,Diego Klimowicz,ar ARG,FW,Wolfsburg,29,1974,33,33,"2,875",31.9,15,4,15,0,0,9,0,0.47,0.13,0.59,0.47,0.59,Matches,2003-2004
+212,Stephan Kling,de GER,DF,Hamburger SV,22,1981,15,11,934,10.4,0,1,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches,2003-2004
+213,Miroslav Klose,de GER,FW,Kaiserslautern,25,1978,26,25,"2,180",24.2,10,3,9,1,3,5,0,0.41,0.12,0.54,0.37,0.50,Matches,2003-2004
+214,Peer Kluge,de GER,MF,M'Gladbach,22,1980,22,18,"1,446",16.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+215,Aleksander Knavs,si SVN,DF,Kaiserslautern,27,1975,25,24,"2,131",23.7,1,0,1,0,0,4,1,0.04,0.00,0.04,0.04,0.04,Matches,2003-2004
+216,Levan Kobiashvili,ge GEO,"DF,MF",Schalke 04,26,1977,29,28,"2,397",26.6,0,2,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,2003-2004
+217,Joonas Kolkka,fi FIN,MF,M'Gladbach,28,1974,28,22,"1,970",21.9,2,3,2,0,0,3,0,0.09,0.14,0.23,0.09,0.23,Matches,2003-2004
+218,Jan Koller,cz CZE,FW,Dortmund,30,1973,32,31,"2,794",31.0,16,4,15,1,2,1,0,0.52,0.13,0.64,0.48,0.61,Matches,2003-2004
+219,Oumar Kondé,cg CGO,DF,Freiburg,23,1979,21,19,"1,642",18.2,0,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05,Matches,2003-2004
+220,Kostas Konstantinidis,gr GRE,DF,Hannover 96,30,1972,22,22,"1,920",21.3,1,1,1,0,0,5,0,0.05,0.05,0.09,0.05,0.09,Matches,2003-2004
+221,Steffen Korell,de GER,DF,M'Gladbach,31,1971,1,0,24,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+222,Bernd Korzynietz,de GER,"DF,FW",M'Gladbach,23,1979,33,32,"2,874",31.9,0,6,0,0,0,7,0,0.00,0.19,0.19,0.00,0.19,Matches,2003-2004
+223,Kamil Kosowski,pl POL,MF,Kaiserslautern,25,1977,22,18,"1,498",16.6,0,2,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,2003-2004
+224,Niko Kovač,hr CRO,MF,Hertha BSC,31,1971,17,14,"1,331",14.8,1,2,1,0,0,8,0,0.07,0.14,0.20,0.07,0.20,Matches,2003-2004
+225,Robert Kovač,hr CRO,DF,Bayern Munich,29,1974,19,19,"1,647",18.3,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+226,Michal Kovář,cz CZE,DF,Hansa Rostock,29,1973,3,2,165,1.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+227,Markus Kreuz,de GER,MF,Eint Frankfurt,26,1977,30,25,"2,266",25.2,1,2,1,0,0,5,0,0.04,0.08,0.12,0.04,0.12,Matches,2003-2004
+228,Florian Kringe,de GER,"DF,MF",Köln,20,1982,29,22,"1,936",21.5,1,2,1,0,0,4,0,0.05,0.09,0.14,0.05,0.14,Matches,2003-2004
+229,Mladen Krstajić,rs SRB,DF,Werder Bremen,29,1974,30,30,"2,651",29.5,3,1,3,0,0,4,1,0.10,0.03,0.14,0.10,0.14,Matches,2003-2004
+230,Nebojša Krupniković,rs SRB,MF,Hannover 96,29,1973,19,18,"1,564",17.4,2,4,1,1,1,4,0,0.12,0.23,0.35,0.06,0.29,Matches,2003-2004
+231,Dennis Kruppke,de GER,"FW,MF",Freiburg,23,1980,28,25,"2,042",22.7,1,1,1,0,0,9,0,0.04,0.04,0.09,0.04,0.09,Matches,2003-2004
+232,Samuel Kuffour,gh GHA,DF,Bayern Munich,26,1976,23,22,"2,012",22.4,1,1,1,0,0,5,0,0.04,0.04,0.09,0.04,0.09,Matches,2003-2004
+234,Kevin Kurányi,de GER,FW,Stuttgart,21,1982,33,33,"2,917",32.4,11,5,11,0,0,5,0,0.34,0.15,0.49,0.34,0.49,Matches,2003-2004
+235,Marco Kurz,de GER,DF,1860 Munich,34,1969,16,11,885,9.8,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+236,Tomasz Kłos,pl POL,DF,Köln,30,1973,6,5,469,5.2,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+237,Pekka Lagerblom,fi FIN,"DF,MF",Werder Bremen,20,1982,7,3,298,3.3,0,1,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches,2003-2004
+238,Philipp Lahm,de GER,"DF,MF",Stuttgart,19,1983,31,28,"2,473",27.5,1,2,1,0,0,2,0,0.04,0.07,0.11,0.04,0.11,Matches,2003-2004
+239,Altin Lala,al ALB,MF,Hannover 96,27,1975,12,12,989,11.0,0,1,0,0,0,0,0,0.00,0.09,0.09,0.00,0.09,Matches,2003-2004
+240,Fabian Lamotte,de GER,DF,Schalke 04,20,1983,7,5,487,5.4,1,0,1,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches,2003-2004
+241,Marcus Lantz,se SWE,MF,Hansa Rostock,27,1975,33,33,"2,944",32.7,1,3,1,0,0,9,0,0.03,0.09,0.12,0.03,0.12,Matches,2003-2004
+242,Denis Lapaczinski,de GER,DF,Hertha BSC,21,1981,6,3,319,3.5,1,1,1,0,0,1,1,0.28,0.28,0.56,0.28,0.56,Matches,2003-2004
+243,Benjamin Lauth,de GER,FW,1860 Munich,21,1981,28,26,"2,151",23.9,9,2,6,3,3,3,1,0.38,0.08,0.46,0.25,0.33,Matches,2003-2004
+244,Leandro,br BRA,MF,Dortmund,26,1977,6,2,257,2.9,1,0,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,2003-2004
+245,Matthias Lehmann,de GER,MF,1860 Munich,20,1983,17,16,"1,288",14.3,1,0,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches,2003-2004
+246,Michael Lehmann,de GER,MF,Kaiserslautern,18,1984,12,7,657,7.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+247,Michael Lejan,be BEL,MF,Köln,20,1983,2,0,28,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+248,Christian Lell,de GER,DF,Bayern Munich,18,1984,3,0,76,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+249,Arie van Lent,de GER,FW,M'Gladbach,32,1970,34,28,"2,594",28.8,9,5,8,1,2,2,0,0.31,0.17,0.49,0.28,0.45,Matches,2003-2004
+250,André Lenz,de GER,GK,1860 Munich,29,1973,3,2,209,2.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+251,Christophe Lepoint,be BEL,"DF,MF",1860 Munich,18,1984,1,0,18,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+252,Stefan Lexa,at AUT,MF,Eint Frankfurt,26,1976,29,9,"1,232",13.7,0,2,0,0,0,4,0,0.00,0.15,0.15,0.00,0.15,Matches,2003-2004
+253,Lincoln,br BRA,MF,Kaiserslautern,24,1979,6,6,536,6.0,2,1,2,0,0,1,0,0.34,0.17,0.50,0.34,0.50,Matches,2003-2004
+254,Thomas Linke,de GER,DF,Bayern Munich,33,1969,21,21,"1,622",18.0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+255,Krisztián Lisztes,hu HUN,MF,Werder Bremen,27,1976,30,30,"2,495",27.7,3,5,2,1,1,3,0,0.11,0.18,0.29,0.07,0.25,Matches,2003-2004
+256,Bixente Lizarazu,fr FRA,DF,Bayern Munich,33,1969,26,26,"2,256",25.1,1,1,0,1,1,5,0,0.04,0.04,0.08,0.00,0.04,Matches,2003-2004
+257,Vratislav Lokvenc,cz CZE,FW,Kaiserslautern,29,1973,25,24,"2,092",23.2,8,2,8,0,0,3,0,0.34,0.09,0.43,0.34,0.43,Matches,2003-2004
+258,Dirk Lottner,de GER,"DF,MF",Köln,31,1972,25,19,"1,800",20.0,4,3,4,0,1,4,0,0.20,0.15,0.35,0.20,0.35,Matches,2003-2004
+260,Teddy Lučić,se SWE,DF,Leverkusen,30,1973,11,4,556,6.2,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+261,Lúcio,br BRA,DF,Leverkusen,25,1978,27,27,"2,377",26.4,3,1,3,0,0,2,0,0.11,0.04,0.15,0.11,0.15,Matches,2003-2004
+262,Alexander Ludwig,de GER,MF,Hertha BSC,19,1984,4,1,149,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+263,Luizão,br BRA,FW,Hertha BSC,27,1975,7,6,494,5.5,2,0,2,0,0,2,0,0.36,0.00,0.36,0.36,0.36,Matches,2003-2004
+264,Alexander Madlung,de GER,DF,Hertha BSC,21,1982,25,17,"1,639",18.2,3,0,3,0,0,3,0,0.16,0.00,0.16,0.16,0.16,Matches,2003-2004
+265,Kim Madsen,dk DEN,DF,Hansa Rostock,25,1978,13,5,612,6.8,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+266,Peter Madsen,dk DEN,FW,Bochum,25,1978,32,32,"2,682",29.8,13,4,13,0,0,4,0,0.44,0.13,0.57,0.44,0.57,Matches,2003-2004
+267,Ludovic Magnin,ch SUI,DF,Werder Bremen,24,1979,4,2,112,1.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+268,Mehdi Mahdavikia,ir IRN,"DF,MF",Hamburger SV,26,1977,32,30,"2,676",29.7,4,8,2,2,2,1,0,0.13,0.27,0.40,0.07,0.34,Matches,2003-2004
+269,Roy Makaay,nl NED,FW,Bayern Munich,28,1975,32,31,"2,789",31.0,23,7,21,2,2,1,0,0.74,0.23,0.97,0.68,0.90,Matches,2003-2004
+270,Marcel Maltritz,de GER,"DF,MF",Hamburger SV,24,1978,18,18,"1,515",16.8,1,2,1,0,0,2,0,0.06,0.12,0.18,0.06,0.18,Matches,2003-2004
+271,Stefan Malz,de GER,"DF,MF",Kaiserslautern,31,1972,16,14,"1,167",13.0,1,0,1,0,0,6,1,0.08,0.00,0.08,0.08,0.08,Matches,2003-2004
+272,Tomislav Marić,hr CRO,FW,M'Gladbach,30,1973,7,2,234,2.6,1,0,0,1,1,3,0,0.38,0.00,0.38,0.00,0.00,Matches,2003-2004
+273,Thorben Marx,de GER,MF,Hertha BSC,22,1981,5,2,186,2.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+274,Ioannis Masmanidis,de GER,MF,Leverkusen,20,1983,1,0,21,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+275,Aníbal Matellán,ar ARG,DF,Schalke 04,26,1977,9,8,646,7.2,1,0,1,0,0,2,2,0.14,0.00,0.14,0.14,0.14,Matches,2003-2004
+276,Clint Mathis,us USA,"FW,MF",Hannover 96,26,1976,16,15,"1,275",14.2,4,2,4,0,0,3,0,0.28,0.14,0.42,0.28,0.42,Matches,2003-2004
+277,Ronald Maul,de GER,MF,Hansa Rostock,30,1973,24,23,"1,912",21.2,0,2,0,0,0,7,0,0.00,0.09,0.09,0.00,0.09,Matches,2003-2004
+278,Martin Max,de GER,FW,Hansa Rostock,34,1968,33,33,"2,884",32.0,20,5,19,1,3,8,0,0.62,0.16,0.78,0.59,0.75,Matches,2003-2004
+279,Thomas Meggle,de GER,MF,Hansa Rostock,28,1975,10,2,282,3.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+280,Martin Meichelbeck,de GER,DF,Bochum,26,1976,12,5,638,7.1,4,0,4,0,0,4,0,0.56,0.00,0.56,0.56,0.56,Matches,2003-2004
+281,Alexander Meier,de GER,"FW,MF",Hamburger SV,20,1983,4,1,98,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+282,Fernando Meira,pt POR,"DF,MF",Stuttgart,25,1978,32,32,"2,857",31.7,1,1,0,1,1,4,1,0.03,0.03,0.06,0.00,0.03,Matches,2003-2004
+283,Silvio Meißner,de GER,MF,Stuttgart,30,1973,26,16,"1,558",17.3,4,1,4,0,0,6,0,0.23,0.06,0.29,0.23,0.29,Matches,2003-2004
+284,Michael Melka,de GER,GK,M'Gladbach,25,1978,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+286,Gabriel Melkam,ng NGA,"DF,MF",Hansa Rostock,23,1980,18,11,"1,072",11.9,1,0,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,2003-2004
+287,Per Mertesacker,de GER,DF,Hannover 96,18,1984,13,13,"1,116",12.4,0,1,0,0,0,0,0,0.00,0.08,0.08,0.00,0.08,Matches,2003-2004
+288,Lucien Mettomo,cm CMR,DF,Kaiserslautern,26,1977,16,11,"1,010",11.2,1,0,1,0,0,4,1,0.09,0.00,0.09,0.09,0.09,Matches,2003-2004
+289,Malte Metzelder,de GER,DF,Dortmund,21,1982,8,6,529,5.9,0,1,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17,Matches,2003-2004
+290,Rémo Meyer,ch SUI,DF,1860 Munich,22,1980,14,9,848,9.4,0,1,0,0,0,2,1,0.00,0.11,0.11,0.00,0.11,Matches,2003-2004
+291,Johan Micoud,fr FRA,MF,Werder Bremen,30,1973,32,32,"2,815",31.3,10,6,10,0,0,4,1,0.32,0.19,0.51,0.32,0.51,Matches,2003-2004
+292,Zvjezdan Misimović,ba BIH,MF,Bayern Munich,21,1982,2,0,3,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+293,Aleksandar Mladenov,bg BUL,MF,Hertha BSC,21,1982,8,5,408,4.5,0,1,0,0,0,3,0,0.00,0.22,0.22,0.00,0.22,Matches,2003-2004
+294,Uwe Möhrle,de GER,DF,Hansa Rostock,23,1979,25,25,"2,250",25.0,1,1,1,0,0,3,0,0.04,0.04,0.08,0.04,0.08,Matches,2003-2004
+295,Andreas Möller,de GER,MF,Eint Frankfurt,35,1967,11,9,606,6.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+296,Fabian Montabell,de GER,FW,Hannover 96,18,1985,1,0,13,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+297,David Montero,es ESP,MF,Eint Frankfurt,29,1974,1,1,77,0.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+298,Stefan Müller,de GER,DF,Freiburg,29,1974,28,14,"1,440",16.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+299,Sven Müller,de GER,"DF,MF",Wolfsburg,23,1980,9,2,313,3.5,1,1,1,0,0,1,0,0.29,0.29,0.58,0.29,0.58,Matches,2003-2004
+300,Dorinel Munteanu,ro ROU,MF,Wolfsburg,35,1968,3,1,80,0.9,0,1,0,0,0,0,0,0.00,1.13,1.13,0.00,1.13,Matches,2003-2004
+301,Vivaldo Nascimento,br BRA,DF,Eint Frankfurt,23,1980,2,0,63,0.7,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+302,Andreas Neuendorf,de GER,MF,Hertha BSC,28,1975,23,16,"1,338",14.9,4,4,4,0,0,3,0,0.27,0.27,0.54,0.27,0.54,Matches,2003-2004
+303,Oliver Neuville,de GER,FW,Leverkusen,30,1973,32,14,"1,448",16.1,5,3,5,0,0,3,0,0.31,0.19,0.50,0.31,0.50,Matches,2003-2004
+304,Michael Niedrig,de GER,MF,Köln,23,1980,1,0,44,0.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+305,Oka Nikolov,mk MKD,GK,Eint Frankfurt,29,1974,31,31,"2,790",31.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+306,Jens Nowotny,de GER,DF,Leverkusen,29,1974,22,22,"1,840",20.4,1,1,1,0,0,4,1,0.05,0.05,0.10,0.05,0.10,Matches,2003-2004
+307,Mika Nurmela,fi FIN,MF,Kaiserslautern,31,1971,21,14,"1,241",13.8,0,2,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,2003-2004
+308,Milan Obradović,rs SRB,DF,M'Gladbach,25,1977,8,5,484,5.4,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+309,David Odonkor,de GER,"FW,MF",Dortmund,19,1984,25,5,725,8.1,1,1,1,0,0,0,0,0.12,0.12,0.25,0.12,0.25,Matches,2003-2004
+310,Pascal Ojigwe,ng NGA,"DF,MF",M'Gladbach,26,1976,7,7,500,5.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+312,Seyi Olajengbesi,ng NGA,DF,Freiburg,22,1980,3,1,69,0.8,0,,0,0,,1,0,0.00,,,0.00,,Matches,2003-2004
+313,Sunday Oliseh,ng NGA,"DF,MF",Bochum,28,1974,21,21,"1,829",20.3,1,8,1,0,0,5,0,0.05,0.39,0.44,0.05,0.44,Matches,2003-2004
+314,Niels Oude Kamphuis,nl NED,"DF,MF",Schalke 04,25,1977,14,12,"1,091",12.1,2,1,2,0,0,3,0,0.16,0.08,0.25,0.16,0.25,Matches,2003-2004
+315,Marcelinho Paraíba,br BRA,"FW,MF",Hertha BSC,28,1975,25,25,"2,129",23.7,8,7,6,2,2,3,1,0.34,0.30,0.63,0.25,0.55,Matches,2003-2004
+316,Joakim Persson,se SWE,"DF,MF",Hansa Rostock,28,1975,28,27,"2,323",25.8,1,2,1,0,0,3,0,0.04,0.08,0.12,0.04,0.12,Matches,2003-2004
+317,Martin Petrov,bg BUL,"FW,MF",Wolfsburg,24,1979,28,24,"2,139",23.8,8,6,7,1,1,6,0,0.34,0.25,0.59,0.29,0.55,Matches,2003-2004
+318,Martin Pieckenhagen,de GER,GK,Hamburger SV,31,1971,9,9,810,9.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+319,Roberto Pinto,pt POR,MF,Hertha BSC,24,1978,19,11,"1,044",11.6,2,0,2,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches,2003-2004
+320,Sérgio Pinto,pt POR,"FW,MF",Schalke 04,22,1980,13,6,638,7.1,0,2,0,0,0,2,0,0.00,0.28,0.28,0.00,0.28,Matches,2003-2004
+321,Claudio Pizarro,pe PER,FW,Bayern Munich,24,1978,31,18,"1,752",19.5,11,4,11,0,0,2,0,0.57,0.21,0.77,0.57,0.77,Matches,2003-2004
+322,Diego Placente,ar ARG,DF,Leverkusen,26,1977,27,26,"2,222",24.7,1,1,1,0,0,5,2,0.04,0.04,0.08,0.04,0.08,Matches,2003-2004
+323,Gernot Plassnegger,at AUT,DF,Hansa Rostock,25,1978,20,12,"1,031",11.5,1,3,1,0,0,3,2,0.09,0.26,0.35,0.09,0.35,Matches,2003-2004
+324,Marcelo Pletsch,br BRA,DF,M'Gladbach,27,1976,16,14,"1,227",13.6,0,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,2003-2004
+325,Lukas Podolski,de GER,"FW,MF",Köln,18,1985,19,18,"1,551",17.2,10,0,9,1,1,2,0,0.58,0.00,0.58,0.52,0.52,Matches,2003-2004
+326,Marcel Podszus,de GER,FW,M'Gladbach,26,1976,4,0,25,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+327,Waldo Ponce,cl CHI,DF,Wolfsburg,20,1982,5,0,44,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+328,Robson Ponte,br BRA,"FW,MF",Leverkusen,26,1976,20,18,"1,514",16.8,2,8,2,0,0,4,0,0.12,0.48,0.59,0.12,0.59,Matches,2003-2004
+329,Gerhard Poschner,de GER,MF,1860 Munich,33,1969,4,4,303,3.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+330,Christian Poulsen,dk DEN,MF,Schalke 04,23,1980,27,24,"2,111",23.5,0,2,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches,2003-2004
+331,Roy Präger,de GER,FW,Wolfsburg,31,1971,2,1,67,0.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+332,Christoph Preuß,de GER,"DF,MF",Eint Frankfurt,22,1981,29,28,"2,534",28.2,3,3,3,0,0,3,0,0.11,0.11,0.21,0.11,0.21,Matches,2003-2004
+333,Rade Prica,se SWE,FW,Hansa Rostock,23,1980,27,9,"1,110",12.3,3,6,3,0,0,3,0,0.24,0.49,0.73,0.24,0.73,Matches,2003-2004
+334,Markus Pröll,de GER,GK,Eint Frankfurt,23,1979,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+335,Jurica Puljiz,hr CRO,DF,Eint Frankfurt,23,1979,14,12,979,10.9,1,0,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,2003-2004
+336,Marcus Pürk,at AUT,"FW,MF",1860 Munich,28,1974,9,7,550,6.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+338,Pablo Quatrocchi,ar ARG,DF,Wolfsburg,29,1974,5,4,342,3.8,1,0,1,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches,2003-2004
+339,Nando Rafael,ao ANG,FW,Hertha BSC,19,1984,23,8,916,10.2,5,1,5,0,0,5,1,0.49,0.10,0.59,0.49,0.59,Matches,2003-2004
+340,Christian Rahn,de GER,"DF,MF",Hamburger SV,24,1979,21,13,"1,234",13.7,7,4,7,0,0,4,0,0.51,0.29,0.80,0.51,0.80,Matches,2003-2004
+341,Carsten Ramelow,de GER,"DF,MF",Leverkusen,29,1974,31,31,"2,691",29.9,2,0,2,0,0,10,0,0.07,0.00,0.07,0.07,0.07,Matches,2003-2004
+342,Sead Ramović,ba BIH,GK,Wolfsburg,24,1979,8,8,720,8.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+343,Hany Ramzy,eg EGY,DF,Kaiserslautern,34,1969,1,1,43,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+344,Thomas Rasmussen,dk DEN,"DF,MF",Hansa Rostock,26,1977,28,27,"2,231",24.8,3,6,3,0,0,6,1,0.12,0.24,0.36,0.12,0.36,Matches,2003-2004
+345,Tobias Rau,de GER,DF,Bayern Munich,21,1981,8,5,412,4.6,0,1,0,0,0,2,0,0.00,0.22,0.22,0.00,0.22,Matches,2003-2004
+346,Ahmed Reda Madouni,dz ALG,DF,Dortmund,22,1980,13,10,939,10.4,1,0,1,0,0,1,0,0.10,0.00,0.10,0.10,0.10,Matches,2003-2004
+347,Marko Rehmer,de GER,DF,Hertha BSC,31,1972,24,18,"1,671",18.6,0,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches,2003-2004
+348,Marco Reich,de GER,"FW,MF",Werder Bremen,25,1977,2,0,16,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+349,Giuseppe Reina,de GER,FW,Hertha BSC,31,1972,7,7,618,6.9,2,0,2,0,0,2,0,0.29,0.00,0.29,0.29,0.29,Matches,2003-2004
+350,Giuseppe Reina,de GER,FW,Dortmund,31,1972,8,2,250,2.8,1,0,1,0,0,1,0,0.36,0.00,0.36,0.36,0.36,Matches,2003-2004
+351,Julian Reinard,de GER,GK,Freiburg,20,1983,9,9,810,9.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+352,Bastian Reinhardt,de GER,DF,Hamburger SV,27,1975,26,19,"1,816",20.2,3,0,3,0,0,6,0,0.15,0.00,0.15,0.15,0.15,Matches,2003-2004
+353,Andreas Reinke,de GER,GK,Werder Bremen,34,1969,34,34,"3,060",34.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+354,Claus Reitmaier,de GER,GK,M'Gladbach,39,1964,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+355,Michael Rensing,de GER,GK,Bayern Munich,19,1984,2,1,119,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+356,Timo Reus,de GER,GK,Freiburg,29,1974,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+357,Stefan Reuter,de GER,"DF,MF",Dortmund,36,1966,31,30,"2,523",28.0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+358,Torsten Reuter,de GER,"DF,MF",Kaiserslautern,20,1982,7,5,492,5.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+359,Lars Ricken,de GER,"FW,MF",Dortmund,27,1976,23,12,"1,178",13.1,2,5,2,0,0,5,0,0.15,0.38,0.53,0.15,0.53,Matches,2003-2004
+360,Thomas Riedl,de GER,"DF,MF",Kaiserslautern,27,1976,21,18,"1,578",17.5,0,1,0,0,0,11,0,0.00,0.06,0.06,0.00,0.06,Matches,2003-2004
+361,Sascha Riether,de GER,"DF,MF",Freiburg,20,1983,33,33,"2,909",32.3,3,2,3,0,0,5,0,0.09,0.06,0.15,0.09,0.15,Matches,2003-2004
+362,Christian Ritter,de GER,FW,Wolfsburg,18,1984,1,0,1,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+364,Zé Roberto,br BRA,"DF,MF",Bayern Munich,29,1974,30,27,"2,321",25.8,2,9,2,0,0,3,1,0.08,0.35,0.43,0.08,0.43,Matches,2003-2004
+365,Darío Rodríguez,uy URU,DF,Schalke 04,28,1974,22,15,"1,397",15.5,4,0,4,0,0,4,0,0.26,0.00,0.26,0.26,0.26,Matches,2003-2004
+366,Bernardo Romeo,ar ARG,FW,Hamburger SV,25,1977,29,20,"1,887",21.0,11,1,11,0,0,3,0,0.52,0.05,0.57,0.52,0.57,Matches,2003-2004
+367,Tomáš Rosický,cz CZE,MF,Dortmund,22,1980,19,18,"1,536",17.1,2,0,2,0,0,4,0,0.12,0.00,0.12,0.12,0.12,Matches,2003-2004
+368,Frank Rost,de GER,GK,Schalke 04,30,1973,27,27,"2,430",27.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+369,Rubén,es ESP,DF,M'Gladbach,21,1982,3,2,186,2.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+370,René Rydlewicz,de GER,"FW,MF",Hansa Rostock,30,1973,28,24,"2,136",23.7,7,4,5,2,2,8,1,0.29,0.17,0.46,0.21,0.38,Matches,2003-2004
+371,Thomas Rytter,dk DEN,DF,Wolfsburg,29,1974,20,20,"1,669",18.5,0,1,0,0,0,3,0,0.00,0.05,0.05,0.00,0.05,Matches,2003-2004
+372,Janne Saarinen,fi FIN,"DF,MF",1860 Munich,26,1977,17,16,"1,354",15.0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+373,Willy Sagnol,fr FRA,DF,Bayern Munich,26,1977,21,17,"1,473",16.4,1,4,1,0,0,4,0,0.06,0.24,0.31,0.06,0.31,Matches,2003-2004
+374,Kenan Şahin,tr TUR,FW,Leverkusen,18,1984,5,0,56,0.6,0,,0,0,,0,0,0.00,,,0.00,,Matches,2003-2004
+375,Hasan Salihamidžić,ba BIH,"DF,MF",Bayern Munich,26,1977,32,26,"2,555",28.4,4,2,4,0,0,5,1,0.14,0.07,0.21,0.14,0.21,Matches,2003-2004
+376,Ebbe Sand,dk DEN,FW,Schalke 04,31,1972,30,25,"2,224",24.7,9,4,9,0,0,4,0,0.36,0.16,0.53,0.36,0.53,Matches,2003-2004
+377,Wilfried Sanou,bf BFA,"FW,MF",Freiburg,19,1984,24,19,"1,533",17.0,3,1,3,0,0,2,0,0.18,0.06,0.23,0.18,0.23,Matches,2003-2004
+378,Roque Santa Cruz,py PAR,FW,Bayern Munich,21,1981,28,13,"1,823",20.3,5,2,5,0,0,0,0,0.25,0.10,0.35,0.25,0.35,Matches,2003-2004
+379,Fernando Santos,br BRA,DF,1860 Munich,23,1980,10,7,669,7.4,0,,0,0,0,2,1,0.00,,,0.00,,Matches,2003-2004
+380,Hans Sarpei,gh GHA,DF,Wolfsburg,27,1976,30,22,"2,018",22.4,1,1,1,0,0,4,0,0.04,0.04,0.09,0.04,0.09,Matches,2003-2004
+381,Marcel Schäfer,de GER,"DF,MF",1860 Munich,19,1984,1,0,1,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+382,Matthias Scherz,de GER,FW,Köln,31,1971,29,22,"1,988",22.1,4,4,4,0,0,2,0,0.18,0.18,0.36,0.18,0.36,Matches,2003-2004
+383,Sebastian Schindzielorz,de GER,MF,Köln,24,1979,3,2,181,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+384,Björn Schlicke,de GER,DF,Hamburger SV,22,1981,19,16,"1,331",14.8,1,0,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,2003-2004
+385,Andreas Schmidt,de GER,"DF,MF",Hertha BSC,29,1973,12,12,909,10.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+386,Bernd Schneider,de GER,"DF,MF",Leverkusen,29,1973,33,32,"2,809",31.2,10,7,10,0,0,5,0,0.32,0.22,0.54,0.32,0.54,Matches,2003-2004
+387,Thomas Schneider,de GER,DF,Hannover 96,30,1972,3,1,60,0.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+388,Stefan Schnoor,de GER,DF,Wolfsburg,32,1971,31,31,"2,750",30.6,2,1,1,1,1,12,1,0.07,0.03,0.10,0.03,0.07,Matches,2003-2004
+390,Mathias Schober,de GER,GK,Hansa Rostock,27,1976,33,33,"2,967",33.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+391,Mehmet Scholl,de GER,MF,Bayern Munich,32,1970,5,1,150,1.7,0,1,0,0,0,0,0,0.00,0.60,0.60,0.00,0.60,Matches,2003-2004
+392,Oliver Schröder,de GER,"DF,MF",Köln,23,1980,28,25,"2,313",25.7,1,3,1,0,0,1,0,0.04,0.12,0.16,0.04,0.16,Matches,2003-2004
+393,Silvio Schröter,de GER,MF,Hannover 96,24,1979,12,7,692,7.7,0,1,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches,2003-2004
+394,Markus Schroth,de GER,FW,1860 Munich,28,1975,29,25,"2,333",25.9,6,5,6,0,0,1,0,0.23,0.19,0.42,0.23,0.42,Matches,2003-2004
+395,Markus Schuler,de GER,DF,Hannover 96,25,1977,19,10,954,10.6,0,1,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09,Matches,2003-2004
+396,Christian Schulz,de GER,"DF,MF",Werder Bremen,20,1983,17,11,955,10.6,0,1,0,0,0,5,1,0.00,0.09,0.09,0.00,0.09,Matches,2003-2004
+397,Stephan Schulz-Winge,de GER,"DF,MF",M'Gladbach,28,1974,2,0,2,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+398,Daniel Schumann,de GER,DF,Freiburg,26,1977,5,3,314,3.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+399,Alexander Schur,de GER,MF,Eint Frankfurt,32,1971,31,31,"2,721",30.2,4,2,4,0,0,11,0,0.13,0.07,0.20,0.13,0.20,Matches,2003-2004
+400,Danny Schwarz,de GER,MF,1860 Munich,28,1975,18,18,"1,465",16.3,3,0,3,0,0,4,0,0.18,0.00,0.18,0.18,0.18,Matches,2003-2004
+401,Bastian Schweinsteiger,de GER,"DF,MF",Bayern Munich,18,1984,26,19,"1,584",17.6,4,3,4,0,0,4,0,0.23,0.17,0.40,0.23,0.40,Matches,2003-2004
+402,Jochen Seitz,de GER,"DF,MF",Schalke 04,26,1976,18,11,991,11.0,2,2,2,0,0,2,1,0.18,0.18,0.36,0.18,0.36,Matches,2003-2004
+403,Eren Şen,de GER,"FW,MF",Hamburger SV,18,1984,1,0,14,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+404,Sahr Senesie,de GER,"FW,MF",Dortmund,18,1985,11,3,387,4.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+405,Moses Sichone,zm ZAM,DF,Köln,26,1977,23,21,"1,852",20.6,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+406,Jan Šimák,cz CZE,MF,Hannover 96,24,1978,6,6,476,5.3,2,1,2,0,0,2,0,0.38,0.19,0.57,0.38,0.57,Matches,2003-2004
+407,Josip Šimunić,hr CRO,DF,Hertha BSC,25,1978,28,27,"2,430",27.0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+408,Andrew Sinkala,zm ZAM,MF,Köln,24,1979,13,11,960,10.7,1,0,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,2003-2004
+409,Lukas Sinkiewicz,de GER,"DF,MF",Köln,17,1985,4,4,360,4.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+410,Ervin Skela,al ALB,"FW,MF",Eint Frankfurt,26,1976,30,30,"2,682",29.8,8,7,4,4,6,3,1,0.27,0.23,0.50,0.13,0.37,Matches,2003-2004
+411,Morten Skoubo,dk DEN,FW,M'Gladbach,23,1980,7,4,352,3.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+412,Viktor Skrypnyk,ua UKR,"DF,MF",Werder Bremen,33,1969,6,0,93,1.0,1,0,0,1,1,1,0,0.97,0.00,0.97,0.00,0.00,Matches,2003-2004
+413,Zvonimir Soldo,hr CRO,"DF,MF",Stuttgart,35,1967,33,33,"2,682",29.8,3,0,3,0,0,9,0,0.10,0.00,0.10,0.10,0.10,Matches,2003-2004
+414,Christian Springer,de GER,MF,Köln,32,1971,28,27,"2,333",25.9,3,2,3,0,0,5,0,0.12,0.08,0.19,0.12,0.19,Matches,2003-2004
+416,Jiří Štajner,cz CZE,"FW,MF",Hannover 96,27,1976,16,11,945,10.5,3,2,3,0,0,2,0,0.29,0.19,0.48,0.29,0.48,Matches,2003-2004
+417,Paul Stalteri,ca CAN,"DF,MF",Werder Bremen,25,1977,33,33,"2,909",32.3,2,1,2,0,0,5,0,0.06,0.03,0.09,0.06,0.09,Matches,2003-2004
+418,Tom Starke,de GER,GK,Hamburger SV,22,1981,2,1,128,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+419,Danijel Štefulj,hr CRO,"DF,MF",Hannover 96,30,1973,9,3,234,2.6,0,1,0,0,0,0,0,0.00,0.38,0.38,0.00,0.38,Matches,2003-2004
+420,Daniel Stendel,de GER,FW,Hannover 96,29,1974,28,13,"1,355",15.1,4,2,4,0,0,2,0,0.27,0.13,0.40,0.27,0.40,Matches,2003-2004
+421,Miroslav Stević,rs SRB,MF,Bochum,33,1970,21,11,"1,118",12.4,1,0,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches,2003-2004
+422,Jörg Stiel,ch SUI,GK,M'Gladbach,35,1968,28,28,"2,511",27.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+423,Martin Stranzl,at AUT,"DF,MF",1860 Munich,23,1980,23,22,"1,816",20.2,0,1,0,0,0,7,1,0.00,0.05,0.05,0.00,0.05,Matches,2003-2004
+424,Jeff Strasser,lu LUX,DF,M'Gladbach,28,1974,31,31,"2,744",30.5,1,1,1,0,0,10,0,0.03,0.03,0.07,0.03,0.07,Matches,2003-2004
+425,Albert Streit,de GER,MF,Köln,23,1980,15,11,998,11.1,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+426,Albert Streit,de GER,MF,Wolfsburg,23,1980,5,1,152,1.7,1,0,1,0,0,0,0,0.59,0.00,0.59,0.59,0.59,Matches,2003-2004
+427,Marco Streller,ch SUI,FW,Stuttgart,22,1981,13,6,604,6.7,3,0,3,0,0,0,0,0.45,0.00,0.45,0.45,0.45,Matches,2003-2004
+428,Václav Svěrkoš,cz CZE,FW,M'Gladbach,19,1983,31,19,"1,755",19.5,9,2,7,2,2,4,0,0.46,0.10,0.56,0.36,0.46,Matches,2003-2004
+429,Stanko Svitlica,rs SRB,FW,Hannover 96,27,1976,3,3,115,1.3,1,0,1,0,0,0,0,0.78,0.00,0.78,0.78,0.78,Matches,2003-2004
+430,Imre Szabics,hu HUN,FW,Stuttgart,22,1981,26,19,"1,682",18.7,9,3,9,0,0,3,0,0.48,0.16,0.64,0.48,0.64,Matches,2003-2004
+431,Naohiro Takahara,jp JPN,FW,Hamburger SV,24,1979,29,15,"1,644",18.3,2,2,2,0,0,3,0,0.11,0.11,0.22,0.11,0.22,Matches,2003-2004
+432,Ibrahim Tanko,gh GHA,FW,Freiburg,26,1977,16,14,690,7.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+433,Filip Tapalović,hr CRO,MF,Bochum,26,1976,12,3,418,4.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+434,Bill Tchato,cm CMR,DF,Kaiserslautern,28,1975,23,19,"1,692",18.8,1,1,1,0,0,6,1,0.05,0.05,0.11,0.05,0.11,Matches,2003-2004
+435,Pablo Thiam,gn GUI,"DF,MF",Wolfsburg,29,1974,28,25,"2,227",24.7,1,1,1,0,0,5,1,0.04,0.04,0.08,0.04,0.08,Matches,2003-2004
+436,Christian Tiffert,de GER,MF,Stuttgart,21,1982,27,10,"1,316",14.6,2,0,2,0,0,5,0,0.14,0.00,0.14,0.14,0.14,Matches,2003-2004
+437,Christian Timm,de GER,FW,Kaiserslautern,24,1979,6,3,288,3.2,1,1,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62,Matches,2003-2004
+438,Razundara Tjikuzu,na NAM,"DF,MF",Hansa Rostock,23,1979,34,33,"2,881",32.0,4,4,4,0,0,3,0,0.12,0.12,0.25,0.12,0.25,Matches,2003-2004
+439,Marko Topić,ba BIH,FW,Wolfsburg,27,1976,25,15,"1,453",16.1,3,3,3,0,0,4,0,0.19,0.19,0.37,0.19,0.37,Matches,2003-2004
+440,Gerhard Tremmel,de GER,GK,Hannover 96,24,1978,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+442,Piotr Trochowski,de GER,MF,Bayern Munich,19,1984,10,0,153,1.7,1,0,1,0,0,0,0,0.59,0.00,0.59,0.59,0.59,Matches,2003-2004
+443,Filip Trojan,cz CZE,MF,Schalke 04,20,1983,8,2,205,2.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+444,Levan Tskitishvili,ge GEO,MF,Freiburg,26,1976,29,26,"2,304",25.6,4,1,0,4,4,6,0,0.16,0.04,0.20,0.00,0.04,Matches,2003-2004
+445,Jean-Clotaire Tsoumou-Madza,cg CGO,DF,Eint Frankfurt,28,1975,8,7,711,7.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+446,Roman Týce,cz CZE,"DF,MF",1860 Munich,26,1977,29,23,"2,190",24.3,0,0,0,0,0,10,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+447,Tomáš Ujfaluši,cz CZE,DF,Hamburger SV,25,1978,26,26,"2,332",25.9,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+448,Ivo Ulich,cz CZE,MF,M'Gladbach,28,1974,34,30,"2,594",28.8,4,3,4,0,0,3,1,0.14,0.10,0.24,0.14,0.24,Matches,2003-2004
+449,Volkan Ünlü,tr TUR,GK,Schalke 04,20,1983,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+450,Nelson Valdez,py PAR,FW,Werder Bremen,19,1983,21,2,477,5.3,5,3,5,0,0,3,0,0.94,0.57,1.51,0.94,1.51,Matches,2003-2004
+451,Peter Van Houdt,be BEL,FW,M'Gladbach,26,1976,2,0,37,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+452,Joris Van Hout,be BEL,"FW,MF",M'Gladbach,26,1977,23,11,"1,157",12.9,3,1,3,0,0,2,0,0.23,0.08,0.31,0.23,0.31,Matches,2003-2004
+453,Nico Van Kerckhoven,be BEL,"DF,FW",Schalke 04,32,1970,28,26,"2,367",26.3,1,1,1,0,0,1,0,0.04,0.04,0.08,0.04,0.08,Matches,2003-2004
+454,Gustavo Varela,uy URU,MF,Schalke 04,25,1978,1,0,18,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+455,Sven Vermant,be BEL,MF,Schalke 04,30,1973,25,23,"2,065",22.9,2,7,0,2,2,3,0,0.09,0.31,0.39,0.00,0.31,Matches,2003-2004
+456,Alexander Voigt,de GER,DF,Köln,25,1978,25,22,"1,938",21.5,0,2,0,0,0,6,1,0.00,0.09,0.09,0.00,0.09,Matches,2003-2004
+457,Marco Vorbeck,de GER,FW,Hansa Rostock,22,1981,5,1,165,1.8,1,0,1,0,0,0,0,0.55,0.00,0.55,0.55,0.55,Matches,2003-2004
+458,Andriy Voronin,ua UKR,"FW,MF",Köln,24,1979,19,19,"1,672",18.6,4,2,4,0,0,2,0,0.22,0.11,0.32,0.22,0.32,Matches,2003-2004
+459,Jurica Vranješ,hr CRO,MF,Stuttgart,23,1980,22,16,"1,433",15.9,0,1,0,0,0,4,0,0.00,0.06,0.06,0.00,0.06,Matches,2003-2004
+460,Stijn Vreven,be BEL,DF,Kaiserslautern,30,1973,8,6,573,6.4,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+461,Anton Vriesde,nl NED,DF,Bochum,34,1968,10,4,522,5.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+462,Stefan Wächter,de GER,GK,Hamburger SV,25,1978,24,24,"2,122",23.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+463,Guillaume Warmuz,fr FRA,GK,Dortmund,33,1970,17,17,"1,530",17.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+464,Tomasz Wałdoch,pl POL,DF,Schalke 04,32,1971,20,19,"1,636",18.2,2,1,2,0,0,2,0,0.11,0.06,0.17,0.11,0.17,Matches,2003-2004
+465,Holger Wehlage,de GER,MF,Werder Bremen,27,1976,4,0,106,1.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+466,Roman Weidenfeller,de GER,GK,Dortmund,22,1980,17,17,"1,530",17.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+468,Lars Weißenfeldt,de GER,DF,Eint Frankfurt,23,1980,1,0,31,0.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+469,Patrick Weiser,de GER,"DF,MF",Wolfsburg,31,1971,30,29,"2,499",27.8,0,3,0,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches,2003-2004
+470,Markus Weissenberger,at AUT,MF,1860 Munich,28,1975,21,18,"1,485",16.5,3,5,3,0,0,2,0,0.18,0.30,0.48,0.18,0.48,Matches,2003-2004
+471,Timo Wenzel,de GER,DF,Kaiserslautern,25,1977,17,17,"1,530",17.0,0,,0,0,,3,0,0.00,,,0.00,,Matches,2003-2004
+472,Timo Wenzel,de GER,DF,Stuttgart,25,1977,8,7,674,7.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+473,Stefan Wessels,de GER,GK,Köln,24,1979,32,32,"2,840",31.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+474,Artur Wichniarek,pl POL,FW,Hertha BSC,26,1977,18,13,"1,048",11.6,2,2,2,0,0,2,1,0.17,0.17,0.34,0.17,0.34,Matches,2003-2004
+475,Raphaël Wicky,ch SUI,"DF,MF",Hamburger SV,26,1977,30,28,"2,368",26.3,0,2,0,0,0,6,0,0.00,0.08,0.08,0.00,0.08,Matches,2003-2004
+476,Andree Wiedener,de GER,DF,Eint Frankfurt,33,1970,17,17,"1,462",16.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+477,Tim Wiese,de GER,GK,Kaiserslautern,21,1981,30,30,"2,598",28.9,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+478,Michael Wiesinger,de GER,MF,1860 Munich,30,1972,2,1,70,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+479,Tobias Willi,de GER,MF,Freiburg,23,1979,10,4,525,5.8,0,1,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,2003-2004
+480,Gerd Wimmer,at AUT,"DF,MF",Hansa Rostock,26,1977,4,1,128,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+481,Patrick Wittich,de GER,MF,Kaiserslautern,21,1982,1,0,6,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+482,Denis Wolf,ph PHI,"FW,MF",Hannover 96,20,1983,4,0,45,0.5,1,0,1,0,0,0,0,2.00,0.00,2.00,2.00,2.00,Matches,2003-2004
+483,Christian Wörns,de GER,DF,Dortmund,31,1972,31,31,"2,771",30.8,1,3,1,0,0,6,0,0.03,0.10,0.13,0.03,0.13,Matches,2003-2004
+484,Dariusz Wosz,de GER,MF,Bochum,34,1969,33,32,"2,437",27.1,4,9,4,0,0,5,0,0.15,0.33,0.48,0.15,0.48,Matches,2003-2004
+485,Abel Xavier,pt POR,DF,Hannover 96,30,1972,5,5,415,4.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+486,Hakan Yakin,ch SUI,"FW,MF",Stuttgart,26,1977,8,2,351,3.9,0,2,0,0,0,0,0,0.00,0.51,0.51,0.00,0.51,Matches,2003-2004
+487,Tomasz Zdebel,pl POL,MF,Bochum,30,1973,34,34,"2,845",31.6,2,1,2,0,0,4,0,0.06,0.03,0.09,0.06,0.09,Matches,2003-2004
+488,Andreas Zeyer,de GER,MF,Freiburg,35,1968,23,17,"1,257",14.0,2,1,2,0,0,2,1,0.14,0.07,0.21,0.14,0.21,Matches,2003-2004
+489,Marc Ziegler,de GER,GK,Hannover 96,27,1976,30,30,"2,655",29.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2003-2004
+490,Boris Živković,hr CRO,DF,Stuttgart,27,1975,12,10,873,9.7,0,,0,0,,0,1,0.00,,,0.00,,Matches,2003-2004
+491,Dariusz Żuraw,pl POL,DF,Hannover 96,30,1972,24,17,"1,644",18.3,1,0,1,0,0,4,0,0.05,0.00,0.05,0.05,0.05,Matches,2003-2004

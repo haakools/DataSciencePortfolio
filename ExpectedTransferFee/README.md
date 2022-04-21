@@ -23,15 +23,15 @@
 # Method
 
 ## Workflow
-### Data will be aquired by downloading the transfer dataset from https://github.com/ewenme/transfers, along with player data from footystats.org [https://footystats.org/download-stats-csv]. 
+### Data will be aquired by downloading the transfer dataset from https://github.com/ewenme/transfers, along with player data from webscraped from fbref.com [https://fbref.com/en/]. The player data is very good for seasons 2017-2018 and onwards. Before this most playerdata is only reduced to yellow/red cards, goals, assist, shots on/off target and penalty kicks (i.e. only helpful for predicting attacking players' quality)
 
-### This data will then be fed into a MySQL database. From there the data will be accessed into a python script/ jupyter notebook where analysis and deconstruction of the key factors will be presented. The final aim is then to compile the findings into a Tableu interactive chart for others to explore with. 
+The final aim is then to compile the findings into a Tableu interactive chart for others to explore with. 
 
 ## Cleaning of data
 
-### The transferdata contains alot of "loans" and therefore it may needs to be webscraped again. 
-
 ### The data will also not be uniform for the players, as some players will have much more datapoints as some players have played for more years. Additionally, some players have played in a non-top 5 league and will therefore not have any datapoints. A way to circumvent this is by doing an average of the last X games of players, or just look at the last completed season.
+
+### The data for the player quality is dependant on position of player. A rolling, weighted average should be used to assess the players skill level. 
 
 ### The project which inspired me was a reddit post where a user tried to adjust signings from the 1992 to 2021 transfer window to show what the adjusted prices were. As the football sector have shown significant growth (and will continue to), prices have increased, most noteably by the Neymar transfer to Paris Saint Germain. The reddit post adjusted for inflation, 2.0% y/y, and a regression of the median transfer fee for each year of the dataset. This method will be incorporated here as to correctly give a clear picture of the transfer fees.
 
@@ -41,7 +41,7 @@
 ## Caveats
 ### How to proceed? To first know the skill level, one would have to have some "raw" data of the skill level to model it. The hypothesised model is a multiplicative one, instead of additive. It can therefore be made linear by doing a logarithmic transformation, which yields
 
-$log(TK) = log(SK)+log(T-t)+log(CV)-age*\tau$
+$log(TK) = log(SK)+log(T-t)-(age-25)\tau$
 
 ### I personally need to study this more as the time decay of the contract will annihilate the model approaching minus infinity. However if working with one year is equal to 1, one could circumvent this by assuming that if a contract is not signed for the last window that the contract will not be signed. That is if T-t reaches 0.5 expected TK = 0. But this assumption needs domain knowledge of how many contracts are renewed last 6 months. Another fix is just to use days or maybe months. Sounds much better.
 

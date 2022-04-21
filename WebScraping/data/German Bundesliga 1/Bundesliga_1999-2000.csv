@@ -1,0 +1,448 @@
+,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+0,Otto Addo,gh GHA,MF,Dortmund,24,1975,22,19,"1,572",17.5,2,4,2,0,0,7,0,0.11,0.23,0.34,0.11,0.34,Matches,1999-2000
+1,Victor Agali,ng NGA,FW,Hansa Rostock,20,1978,22,18,"1,620",18.0,7,5,7,0,0,6,1,0.39,0.28,0.67,0.39,0.67,Matches,1999-2000
+2,Jan Åge Fjørtoft,no NOR,FW,Eint Frankfurt,32,1967,21,14,"1,176",13.1,5,3,4,1,1,6,0,0.38,0.23,0.61,0.31,0.54,Matches,1999-2000
+3,Paul Agostino,au AUS,FW,1860 Munich,24,1975,18,9,"1,002",11.1,4,1,4,0,0,0,0,0.36,0.09,0.45,0.36,0.45,Matches,1999-2000
+4,Abdelaziz Ahanfouf,ma MAR,FW,Hansa Rostock,21,1978,13,2,466,5.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+5,Charles Akonnor,gh GHA,MF,Wolfsburg,25,1974,25,17,"1,659",18.4,1,2,0,1,1,4,0,0.05,0.11,0.16,0.00,0.11,Matches,1999-2000
+6,Jonathan Akpoborie,ng NGA,FW,Wolfsburg,30,1968,19,17,"1,535",17.1,12,3,12,0,0,6,1,0.70,0.18,0.88,0.70,0.88,Matches,1999-2000
+7,Christian Alder,de GER,DF,Arminia,20,1978,1,1,90,1.0,0,0,0,0,,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+8,Ünal Alpuğan,de GER,MF,Schalke 04,25,1973,26,17,"1,534",17.0,0,2,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,1999-2000
+9,Alex Alves,br BRA,FW,Hertha BSC,24,1974,15,14,"1,093",12.1,4,1,4,0,0,0,0,0.33,0.08,0.41,0.33,0.41,Matches,1999-2000
+10,Ingo Anderbrügge,de GER,MF,Schalke 04,35,1964,2,0,30,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+11,Patrik Andersson,se SWE,DF,Bayern Munich,27,1971,16,11,"1,030",11.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+12,Ilija Aračić,hr CRO,FW,Hertha BSC,28,1970,12,4,472,5.2,1,1,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38,Matches,1999-2000
+13,Magnus Arvidsson,se SWE,FW,Hansa Rostock,26,1973,33,26,"2,152",23.9,9,3,9,0,0,1,0,0.38,0.13,0.50,0.38,0.50,Matches,1999-2000
+14,Gerald Asamoah,de GER,"FW,MF",Schalke 04,20,1978,33,22,"1,990",22.1,4,2,4,0,0,4,0,0.18,0.09,0.27,0.18,0.27,Matches,1999-2000
+15,Christof Babatz,de GER,MF,Hamburger SV,24,1974,5,2,175,1.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+16,Markus Babbel,de GER,DF,Bayern Munich,26,1972,26,23,"2,060",22.9,1,2,1,0,0,4,1,0.04,0.09,0.13,0.04,0.13,Matches,1999-2000
+17,Karim Bagheri,ir IRN,MF,Arminia,25,1974,11,2,374,4.2,1,0,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,1999-2000
+18,Krasimir Balakov,bg BUL,MF,Stuttgart,33,1966,30,28,"2,316",25.7,6,6,4,2,3,1,0,0.23,0.23,0.47,0.16,0.39,Matches,1999-2000
+19,Michael Ballack,de GER,MF,Leverkusen,22,1976,23,22,"1,893",21.0,3,2,3,0,1,7,0,0.14,0.10,0.24,0.14,0.24,Matches,1999-2000
+20,Holger Ballwanz,de GER,"DF,MF",Wolfsburg,31,1967,15,9,776,8.6,1,0,1,0,0,5,0,0.12,0.00,0.12,0.12,0.12,Matches,1999-2000
+21,Jean-Kasongo Banza,cd COD,FW,Wolfsburg,25,1974,12,1,388,4.3,2,0,2,0,0,3,0,0.46,0.00,0.46,0.46,0.46,Matches,1999-2000
+22,Sergej Barbarez,ba BIH,"FW,MF",Dortmund,27,1971,14,6,635,7.1,2,2,2,0,0,2,0,0.28,0.28,0.57,0.28,0.57,Matches,1999-2000
+23,Karsten Bäron,de GER,FW,Hamburger SV,26,1973,7,2,228,2.5,0,1,0,0,0,0,0,0.00,0.39,0.39,0.00,0.39,Matches,1999-2000
+24,Mike Barten,de GER,DF,Werder Bremen,25,1973,16,15,"1,229",13.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+26,Mario Basler,de GER,"FW,MF",Kaiserslautern,30,1968,18,16,"1,478",16.4,1,8,1,0,0,4,1,0.06,0.49,0.55,0.06,0.55,Matches,1999-2000
+27,Frank Baumann,de GER,"DF,MF",Werder Bremen,23,1975,32,32,"2,880",32.0,5,2,5,0,0,6,0,0.16,0.06,0.22,0.16,0.22,Matches,1999-2000
+28,Karsten Baumann,de GER,DF,Dortmund,29,1969,11,7,678,7.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+29,Steffen Baumgart,de GER,FW,Hansa Rostock,27,1972,26,19,"1,784",19.8,4,3,4,0,0,3,0,0.20,0.15,0.35,0.20,0.35,Matches,1999-2000
+30,Steffen Baumgart,de GER,FW,Wolfsburg,27,1972,1,0,16,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+31,Zoubeir Baya,tn TUN,MF,Freiburg,28,1971,25,23,"2,108",23.4,4,7,4,0,0,0,1,0.17,0.30,0.47,0.17,0.47,Matches,1999-2000
+32,Wolfgang de Beer,de GER,GK,Dortmund,35,1964,4,3,274,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+33,Markus Beierle,de GER,FW,MSV Duisburg,27,1972,31,27,"2,489",27.7,7,5,7,0,0,0,0,0.25,0.18,0.43,0.25,0.43,Matches,1999-2000
+34,Stefan Beinlich,de GER,MF,Leverkusen,27,1972,29,26,"2,412",26.8,11,7,10,1,1,5,0,0.41,0.26,0.67,0.37,0.63,Matches,1999-2000
+35,Mehdi Ben Slimane,tn TUN,FW,Freiburg,25,1974,22,10,"1,019",11.3,4,1,4,0,0,0,1,0.35,0.09,0.44,0.35,0.44,Matches,1999-2000
+36,Sven Benken,de GER,"DF,MF",Hansa Rostock,29,1970,24,23,"1,940",21.6,1,1,1,0,0,8,1,0.05,0.05,0.09,0.05,0.09,Matches,1999-2000
+37,Jörg Bergen,de GER,DF,Unterhaching,33,1966,19,17,"1,525",16.9,0,2,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,1999-2000
+38,Thomas Berthold,de GER,DF,Stuttgart,34,1964,23,22,"1,994",22.2,0,0,0,0,0,9,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+39,Marino Biliškov,hr CRO,DF,Wolfsburg,23,1976,20,19,"1,689",18.8,2,1,2,0,0,2,0,0.11,0.05,0.16,0.11,0.16,Matches,1999-2000
+40,Uwe Bindewald,de GER,DF,Eint Frankfurt,30,1968,20,13,"1,157",12.9,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+41,Erik Bo Andersen,dk DEN,FW,MSV Duisburg,28,1970,1,0,17,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+42,Fredi Bobic,de GER,FW,Dortmund,27,1971,29,22,"2,101",23.3,7,2,7,0,0,7,0,0.30,0.09,0.39,0.30,0.39,Matches,1999-2000
+43,Jörg Bode,de GER,MF,Arminia,29,1969,24,17,"1,689",18.8,3,3,3,0,0,1,0,0.16,0.16,0.32,0.16,0.32,Matches,1999-2000
+44,Marco Bode,de GER,"FW,MF",Werder Bremen,30,1969,27,27,"2,358",26.2,13,3,13,0,0,0,0,0.50,0.11,0.61,0.50,0.61,Matches,1999-2000
+45,Tamás Bódog,hu HUN,DF,Ulm,28,1970,23,22,"1,734",19.3,2,1,2,0,0,7,0,0.10,0.05,0.16,0.10,0.16,Matches,1999-2000
+46,Rade Bogdanović,rs SRB,FW,Werder Bremen,29,1970,22,10,"1,130",12.6,4,2,4,0,0,0,0,0.32,0.16,0.48,0.32,0.48,Matches,1999-2000
+47,Jörg Böhme,de GER,MF,Arminia,25,1974,25,16,"1,609",17.9,1,2,1,0,0,8,0,0.06,0.11,0.17,0.06,0.17,Matches,1999-2000
+48,Marcelo Bordon,br BRA,DF,Stuttgart,23,1976,23,22,"1,864",20.7,2,0,2,0,0,5,1,0.10,0.00,0.10,0.10,0.10,Matches,1999-2000
+49,Márcio Borges,br BRA,DF,Arminia,26,1973,2,2,180,2.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+50,Daniel Borimirov,bg BUL,MF,1860 Munich,29,1970,20,9,941,10.5,2,1,2,0,0,2,0,0.19,0.10,0.29,0.19,0.29,Matches,1999-2000
+52,Andreas Bornemann,de GER,MF,Freiburg,27,1971,3,0,27,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+53,Christian Brand,de GER,MF,Hansa Rostock,27,1972,24,16,"1,578",17.5,3,2,3,0,0,5,1,0.17,0.11,0.29,0.17,0.29,Matches,1999-2000
+54,Christian Brand,de GER,MF,Wolfsburg,27,1972,1,0,35,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+55,Perry Bräutigam,dd GDR,GK,Hansa Rostock,36,1963,15,14,"1,286",14.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+56,Thomas Brdarić,de GER,FW,Leverkusen,24,1975,24,4,693,7.7,6,1,6,0,0,3,0,0.78,0.13,0.91,0.78,0.91,Matches,1999-2000
+57,André Breitenreiter,de GER,"FW,MF",Wolfsburg,25,1973,1,0,12,0.1,0,0,0,0,,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+58,André Breitenreiter,de GER,"FW,MF",Unterhaching,25,1973,19,9,984,10.9,7,0,6,1,1,2,0,0.64,0.00,0.64,0.55,0.55,Matches,1999-2000
+59,Matthias Breitkreutz,de GER,MF,Hansa Rostock,28,1971,21,15,"1,239",13.8,1,1,1,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches,1999-2000
+60,Florian Bruns,de GER,MF,Freiburg,19,1979,22,11,"1,133",12.6,1,1,1,0,0,0,0,0.08,0.08,0.16,0.08,0.16,Matches,1999-2000
+61,Ralf Bucher,de GER,DF,Unterhaching,27,1972,21,14,"1,328",14.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+62,Andreas Buck,de GER,MF,Kaiserslautern,31,1967,26,19,"1,674",18.6,2,1,2,0,0,2,1,0.11,0.05,0.16,0.11,0.16,Matches,1999-2000
+63,Alexander Bugera,de GER,DF,MSV Duisburg,20,1978,12,3,391,4.3,1,0,1,0,0,2,0,0.23,0.00,0.23,0.23,0.23,Matches,1999-2000
+64,Francis Bugri,de GER,MF,Dortmund,18,1980,3,3,221,2.5,0,1,0,0,0,0,0,0.00,0.41,0.41,0.00,0.41,Matches,1999-2000
+65,Erol Bulut,tr TUR,"DF,MF",Eint Frankfurt,24,1975,5,4,334,3.7,0,2,0,0,0,1,0,0.00,0.54,0.54,0.00,0.54,Matches,1999-2000
+66,Dick van Burik,nl NED,DF,Hertha BSC,25,1973,25,22,"1,826",20.3,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+67,Mike Büskens,de GER,MF,MSV Duisburg,31,1968,21,14,"1,473",16.4,1,0,1,0,0,0,0,0.06,0.00,0.06,0.06,0.06,Matches,1999-2000
+68,Vladimir But,ru RUS,MF,Dortmund,21,1977,19,9,913,10.1,1,3,1,0,0,0,0,0.10,0.30,0.39,0.10,0.39,Matches,1999-2000
+69,Hans-Jörg Butt,de GER,GK,Hamburger SV,25,1974,34,34,"3,060",34.0,9,1,0,9,9,1,0,0.26,0.03,0.29,0.00,0.03,Matches,1999-2000
+70,Rodolfo Cardoso,ar ARG,MF,Hamburger SV,30,1968,28,28,"2,385",26.5,8,7,8,0,0,4,0,0.30,0.26,0.57,0.30,0.57,Matches,1999-2000
+71,Bradley Carnell,za RSA,"DF,MF",Stuttgart,22,1977,24,13,"1,344",14.9,1,0,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,1999-2000
+72,Giuseppe Catizone,de GER,MF,Stuttgart,21,1977,5,1,126,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+73,Harald Cerny,at AUT,MF,1860 Munich,25,1973,33,30,"2,542",28.2,2,5,2,0,0,6,0,0.07,0.18,0.25,0.07,0.25,Matches,1999-2000
+74,Júlio César,br BRA,DF,Werder Bremen,36,1963,12,12,964,10.7,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+75,Martin Čížek,cz CZE,MF,1860 Munich,25,1974,18,12,"1,002",11.1,0,2,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches,1999-2000
+76,Ante Čović,hr CRO,MF,Hertha BSC,23,1975,6,5,362,4.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+78,Nico Däbritz,de GER,MF,Wolfsburg,27,1971,11,4,288,3.2,0,1,0,0,0,1,0,0.00,0.31,0.31,0.00,0.31,Matches,1999-2000
+79,Christoph Dabrowski,de GER,MF,Werder Bremen,20,1978,28,10,"1,284",14.3,2,0,2,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,1999-2000
+80,Ali Daei,ir IRN,FW,Hertha BSC,30,1969,28,15,"1,550",17.2,3,1,3,0,0,3,0,0.17,0.06,0.23,0.17,0.23,Matches,1999-2000
+81,Detlev Dammeier,de GER,MF,Wolfsburg,30,1968,16,8,843,9.4,0,2,0,0,0,3,0,0.00,0.21,0.21,0.00,0.21,Matches,1999-2000
+82,Pál Dárdai,hu HUN,MF,Hertha BSC,23,1976,15,10,994,11.0,1,0,1,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches,1999-2000
+83,Dedê,br BRA,DF,Dortmund,21,1978,24,24,"2,111",23.5,1,3,1,0,0,7,2,0.04,0.13,0.17,0.04,0.17,Matches,1999-2000
+84,Sebastian Deisler,de GER,MF,Hertha BSC,19,1980,20,15,"1,381",15.3,2,3,2,0,0,2,0,0.13,0.20,0.33,0.13,0.33,Matches,1999-2000
+85,Jacek Dembiński,pl POL,FW,Hamburger SV,29,1969,7,2,229,2.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+86,Ünal Demirkıran,de GER,MF,Ulm,20,1979,2,0,22,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+87,Dirk van der Ven,de GER,FW,Arminia,29,1970,23,22,"1,575",17.5,2,1,2,0,0,1,1,0.11,0.06,0.17,0.11,0.17,Matches,1999-2000
+88,Boubacar Diarra,ml MLI,DF,Freiburg,20,1979,27,26,"2,277",25.3,1,0,1,0,0,0,1,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+89,Didi,br BRA,"FW,MF",Stuttgart,23,1976,2,0,40,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+90,Youri Djorkaeff,fr FRA,"FW,MF",Kaiserslautern,31,1968,25,24,"2,033",22.6,11,5,8,3,5,4,0,0.49,0.22,0.71,0.35,0.58,Matches,1999-2000
+91,Thomas Doll,de GER,"FW,MF",Hamburger SV,33,1966,21,5,590,6.6,0,2,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,1999-2000
+92,Tibor Dombi,hu HUN,MF,Eint Frankfurt,25,1973,15,6,876,9.7,0,2,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,1999-2000
+93,Bernd Dreher,de GER,GK,Bayern Munich,32,1966,6,5,457,5.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+94,Björn Dreyer,de GER,MF,Freiburg,22,1977,6,4,294,3.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+95,Pavel Drsek,cz CZE,DF,MSV Duisburg,22,1976,12,9,771,8.6,1,1,1,0,0,0,0,0.12,0.12,0.23,0.12,0.23,Matches,1999-2000
+96,Sean Dundee,de GER,FW,Stuttgart,26,1972,28,20,"1,808",20.1,8,4,8,0,0,0,0,0.40,0.20,0.60,0.40,0.60,Matches,1999-2000
+97,Stefan Effenberg,de GER,MF,Bayern Munich,30,1968,27,26,"2,168",24.1,2,12,2,0,0,9,0,0.08,0.50,0.58,0.08,0.58,Matches,1999-2000
+98,Uwe Ehlers,de GER,DF,Hansa Rostock,24,1975,21,14,"1,339",14.9,0,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,1999-2000
+99,Yves Eigenrauch,de GER,DF,Schalke 04,28,1971,23,21,"1,858",20.6,1,1,1,0,0,1,0,0.05,0.05,0.10,0.05,0.10,Matches,1999-2000
+100,Dieter Eilts,de GER,MF,Werder Bremen,34,1964,29,28,"2,225",24.7,1,2,1,0,0,4,1,0.04,0.08,0.12,0.04,0.12,Matches,1999-2000
+101,Giovane Élber,br BRA,FW,Bayern Munich,27,1972,26,16,"1,483",16.5,14,3,14,0,0,6,1,0.85,0.18,1.03,0.85,1.03,Matches,1999-2000
+102,Mohamed Emara,eg EGY,"DF,MF",Hansa Rostock,25,1974,22,20,"1,677",18.6,0,2,0,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches,1999-2000
+104,Emerson,br BRA,MF,Leverkusen,23,1976,29,29,"2,542",28.2,5,9,5,0,0,7,0,0.18,0.32,0.50,0.18,0.50,Matches,1999-2000
+105,Stefan Emmerling,de GER,"DF,MF",MSV Duisburg,33,1966,18,17,"1,449",16.1,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+106,Jochen Endreß,de GER,DF,Stuttgart,26,1972,20,5,792,8.8,1,0,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches,1999-2000
+107,Fabian Ernst,de GER,MF,Hamburger SV,20,1979,20,8,944,10.5,0,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches,1999-2000
+108,Evanílson,br BRA,"DF,FW",Dortmund,23,1975,25,23,"1,940",21.6,0,5,0,0,0,5,0,0.00,0.23,0.23,0.00,0.23,Matches,1999-2000
+109,Eyjólfur,is ISL,"DF,MF",Hertha BSC,30,1968,28,27,"2,359",26.2,1,6,1,0,0,11,0,0.04,0.23,0.27,0.04,0.27,Matches,1999-2000
+110,Patrick Falk,de GER,MF,Eint Frankfurt,19,1980,13,5,558,6.2,0,1,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches,1999-2000
+111,Wolfgang Feiersinger,at AUT,DF,Dortmund,34,1965,9,6,584,6.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+112,Markus Feldhoff,de GER,FW,Wolfsburg,24,1974,18,9,815,9.1,2,0,2,0,0,2,0,0.22,0.00,0.22,0.22,0.22,Matches,1999-2000
+113,Marcell Fensch,de GER,DF,Arminia,23,1975,1,0,9,0.1,0,0,0,0,,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+114,Christian Fiedler,de GER,GK,Hertha BSC,24,1975,7,7,630,7.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+115,Thorsten Fink,de GER,MF,Bayern Munich,31,1967,26,19,"1,844",20.5,0,2,0,0,0,5,0,0.00,0.10,0.10,0.00,0.10,Matches,1999-2000
+116,Andreas Fischer,de GER,"DF,MF",Hamburger SV,34,1964,17,9,"1,011",11.2,1,1,1,0,0,2,0,0.09,0.09,0.18,0.09,0.18,Matches,1999-2000
+117,Dirk Flock,de GER,MF,Werder Bremen,27,1972,12,3,433,4.8,1,2,1,0,0,0,0,0.21,0.42,0.62,0.21,0.62,Matches,1999-2000
+118,Leandro Fonseca,br BRA,FW,Ulm,24,1975,25,22,"2,022",22.5,3,10,3,0,0,2,0,0.13,0.45,0.58,0.13,0.58,Matches,1999-2000
+119,Dieter Frey,de GER,"DF,MF",Werder Bremen,26,1972,3,0,37,0.4,0,,0,0,,1,0,0.00,,,0.00,,Matches,1999-2000
+120,Torsten Frings,de GER,MF,Werder Bremen,22,1976,33,31,"2,640",29.3,3,4,3,0,0,7,0,0.10,0.14,0.24,0.10,0.24,Matches,1999-2000
+121,Bashiru Gambo,gh GHA,"FW,MF",Dortmund,20,1978,2,0,34,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+122,Ionel Ganea,ro ROU,FW,Stuttgart,25,1973,29,26,"2,063",22.9,7,2,7,0,0,9,1,0.31,0.09,0.39,0.31,0.39,Matches,1999-2000
+123,Thomas Gansauge,de GER,DF,Arminia,29,1970,10,9,741,8.2,0,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,1999-2000
+124,Alfonso Garcia,es ESP,FW,Unterhaching,29,1969,15,3,395,4.4,1,0,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,1999-2000
+125,Marco Gebhardt,de GER,"DF,MF",Eint Frankfurt,26,1972,30,26,"2,245",24.9,3,7,3,0,0,0,0,0.12,0.28,0.40,0.12,0.40,Matches,1999-2000
+126,Heiko Gerber,de GER,"DF,MF",Stuttgart,27,1972,29,28,"2,453",27.3,4,4,4,0,0,3,0,0.15,0.15,0.29,0.15,0.29,Matches,1999-2000
+127,Berkant Göktan,tr TUR,FW,Arminia,18,1980,14,3,505,5.6,1,1,1,0,0,2,0,0.18,0.18,0.36,0.18,0.36,Matches,1999-2000
+128,Richard Golz,de GER,GK,Freiburg,31,1968,33,33,"2,970",33.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+130,Aílton Gonçalves,br BRA,FW,Werder Bremen,26,1973,29,24,"2,123",23.6,12,9,11,1,1,7,0,0.51,0.38,0.89,0.47,0.85,Matches,1999-2000
+131,Michaël Goossens,be BEL,FW,Schalke 04,25,1973,15,8,712,7.9,0,1,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches,1999-2000
+132,Janusz Góra,pl POL,DF,Ulm,36,1963,25,23,"2,067",23.0,3,4,2,1,1,5,0,0.13,0.17,0.30,0.09,0.26,Matches,1999-2000
+133,Frederik Gößling,de GER,GK,Arminia,21,1977,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+134,Uwe Gospodarek,de GER,GK,Kaiserslautern,25,1973,8,7,645,7.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+135,Dimitrios Grammozis,gr GRE,MF,Hamburger SV,21,1978,17,13,"1,297",14.4,1,0,1,0,0,2,0,0.07,0.00,0.07,0.07,0.07,Matches,1999-2000
+136,Dennis Grassow,de GER,DF,Unterhaching,27,1971,26,26,"2,276",25.3,1,1,1,0,0,6,1,0.04,0.04,0.08,0.04,0.08,Matches,1999-2000
+137,Uwe Grauer,de GER,DF,Ulm,29,1970,16,11,"1,013",11.3,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+138,Thomas Gravesen,dk DEN,MF,Hamburger SV,23,1976,26,23,"2,029",22.5,1,3,1,0,0,5,1,0.04,0.13,0.18,0.04,0.18,Matches,1999-2000
+139,Holger Greilich,de GER,DF,1860 Munich,28,1971,20,15,"1,320",14.7,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+140,Frank Greiner,de GER,"DF,MF",Wolfsburg,33,1966,29,28,"2,361",26.2,0,8,0,0,1,9,0,0.00,0.30,0.30,0.00,0.30,Matches,1999-2000
+141,Vratislav Greško,sk SVK,DF,Leverkusen,22,1977,9,5,445,4.9,0,2,0,0,0,2,0,0.00,0.40,0.40,0.00,0.40,Matches,1999-2000
+142,Martin Groth,de GER,MF,Hamburger SV,29,1969,15,14,"1,090",12.1,2,2,2,0,0,2,0,0.17,0.17,0.33,0.17,0.33,Matches,1999-2000
+143,Vanja Grubač,me MNE,FW,Hamburger SV,28,1971,4,0,94,1.0,1,0,1,0,0,0,0,0.96,0.00,0.96,0.96,0.96,Matches,1999-2000
+144,Rolf-Christel Guié-Mien,cg CGO,MF,Eint Frankfurt,21,1977,29,24,"2,114",23.5,6,2,6,0,0,2,0,0.26,0.09,0.34,0.26,0.34,Matches,1999-2000
+145,Ali Güneş,tr TUR,"DF,FW",Freiburg,20,1978,14,9,723,8.0,2,0,2,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,1999-2000
+146,Sercan Güvenışık,tr TUR,FW,MSV Duisburg,19,1980,6,0,133,1.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+147,Hans van de Haar,nl NED,FW,Ulm,24,1975,25,22,"1,874",20.8,10,2,9,1,1,4,1,0.48,0.10,0.58,0.43,0.53,Matches,1999-2000
+148,Marco Haber,de GER,MF,Unterhaching,27,1971,28,26,"2,252",25.0,2,3,2,0,0,4,0,0.08,0.12,0.20,0.08,0.20,Matches,1999-2000
+149,Tamás Hajnal,hu HUN,MF,Schalke 04,18,1981,8,0,114,1.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+150,Tomasz Hajto,pl POL,DF,MSV Duisburg,26,1972,26,21,"1,900",21.1,1,2,1,0,0,11,1,0.05,0.09,0.14,0.05,0.14,Matches,1999-2000
+151,Stefan Hampl,de GER,FW,Freiburg,24,1974,2,0,22,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+152,Markus Happe,de GER,DF,Schalke 04,27,1972,15,15,"1,302",14.5,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+153,Markus Happe,de GER,DF,Leverkusen,27,1972,7,7,542,6.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+154,Michael Hartmann,de GER,"DF,MF",Hertha BSC,25,1974,16,15,"1,244",13.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+156,Vahid Hashemian,ir IRN,"FW,MF",Hamburger SV,23,1976,11,2,292,3.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+157,Thomas Häßler,de GER,MF,1860 Munich,33,1966,33,33,"2,835",31.5,8,11,4,4,5,5,0,0.25,0.35,0.60,0.13,0.48,Matches,1999-2000
+158,Dirk Heinen,de GER,GK,Leverkusen,28,1970,2,1,121,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+159,Dirk Heinen,de GER,GK,Eint Frankfurt,28,1970,17,17,"1,530",17.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+160,Frankie Hejduk,us USA,"DF,MF",Leverkusen,24,1974,6,0,115,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+161,Oliver Held,de GER,"DF,MF",Schalke 04,26,1972,18,3,459,5.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+162,Horst Heldt,de GER,MF,Eint Frankfurt,29,1969,30,23,"2,056",22.8,4,7,1,3,3,1,0,0.18,0.31,0.48,0.04,0.35,Matches,1999-2000
+163,Thomas Helmer,de GER,"DF,MF",Hertha BSC,34,1965,5,4,393,4.4,1,1,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46,Matches,1999-2000
+164,Rowan Hendricks,za RSA,MF,Eint Frankfurt,19,1979,1,0,6,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+165,Thomas Hengen,de GER,DF,Wolfsburg,24,1974,8,8,630,7.0,1,0,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,1999-2000
+166,Lars Hermel,de GER,DF,Freiburg,28,1970,26,25,"2,169",24.1,1,0,1,0,0,0,0,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+167,Heiko Herrlich,de GER,FW,Dortmund,27,1971,22,14,"1,372",15.2,6,0,6,0,0,5,0,0.39,0.00,0.39,0.39,0.39,Matches,1999-2000
+168,Björn Hertl,de GER,"DF,MF",Unterhaching,22,1976,18,2,399,4.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+169,Ingo Hertzsch,de GER,DF,Hamburger SV,22,1977,30,30,"2,631",29.2,0,2,0,0,0,6,1,0.00,0.07,0.07,0.00,0.07,Matches,1999-2000
+170,Andreas Herzog,at AUT,MF,Werder Bremen,30,1968,27,24,"2,069",23.0,7,12,4,3,3,8,0,0.30,0.52,0.83,0.17,0.70,Matches,1999-2000
+171,Hendrik Herzog,de GER,DF,Hertha BSC,30,1969,20,15,"1,414",15.7,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+172,Timo Hildebrand,de GER,GK,Stuttgart,20,1979,6,6,540,6.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+173,Dietmar Hirsch,de GER,"DF,MF",MSV Duisburg,27,1971,25,24,"2,113",23.5,3,1,3,0,0,9,2,0.13,0.04,0.17,0.13,0.17,Matches,1999-2000
+174,Thomas Hoersen,de GER,"DF,MF",MSV Duisburg,27,1972,22,13,"1,315",14.6,0,2,0,0,0,2,0,0.00,0.14,0.14,0.00,0.14,Matches,1999-2000
+175,Daniel Hoffmann,de GER,GK,1860 Munich,27,1971,33,33,"2,950",32.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+176,Torben Hoffmann,de GER,DF,Leverkusen,24,1974,13,5,533,5.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+177,Michael Hofmann,de GER,GK,1860 Munich,26,1972,2,1,160,1.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+178,André Hofschneider,de GER,DF,Arminia,29,1970,22,22,"1,829",20.3,0,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches,1999-2000
+179,Olaf Holetschek,de GER,"DF,FW",Hansa Rostock,31,1968,17,16,"1,381",15.3,1,0,1,0,0,7,0,0.07,0.00,0.07,0.07,0.07,Matches,1999-2000
+180,Bernd Hollerbach,de GER,"DF,MF",Hamburger SV,29,1969,21,20,"1,588",17.6,1,4,1,0,0,9,1,0.06,0.23,0.28,0.06,0.28,Matches,1999-2000
+182,Achim Hollerieth,de GER,GK,Stuttgart,25,1973,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+183,Marco van Hoogdalem,nl NED,DF,Schalke 04,27,1972,4,2,201,2.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+184,Nico-Jan Hoogma,nl NED,DF,Hamburger SV,30,1968,31,31,"2,701",30.0,3,0,3,0,0,6,0,0.10,0.00,0.10,0.10,0.10,Matches,1999-2000
+185,Marian Hristov,bg BUL,MF,Kaiserslautern,26,1973,22,21,"1,716",19.1,3,2,3,0,0,6,1,0.16,0.10,0.26,0.16,0.26,Matches,1999-2000
+186,János Hrutka,hu HUN,DF,Kaiserslautern,24,1974,2,1,57,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+187,Petar Hubchev,bg BUL,DF,Eint Frankfurt,35,1964,18,18,"1,620",18.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+188,Aleksandre Iashvili,ge GEO,"FW,MF",Freiburg,21,1977,22,20,"1,670",18.6,1,3,1,0,1,0,0,0.05,0.16,0.22,0.05,0.22,Matches,1999-2000
+189,Victor Ikpeba,ng NGA,FW,Dortmund,26,1973,21,12,"1,128",12.5,2,0,2,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches,1999-2000
+190,Josef Ivanović,de GER,FW,Arminia,25,1973,1,0,8,0.1,0,0,0,0,,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+191,Carsten Jancker,de GER,FW,Bayern Munich,24,1974,23,20,"1,754",19.5,9,5,9,0,0,4,0,0.46,0.26,0.72,0.46,0.72,Matches,1999-2000
+192,Olaf Janßen,de GER,MF,Eint Frankfurt,32,1966,16,16,"1,355",15.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+193,Jens Jeremies,de GER,MF,Bayern Munich,25,1974,30,28,"2,553",28.4,3,1,3,0,0,9,0,0.11,0.04,0.14,0.11,0.14,Matches,1999-2000
+194,Frank Juric,au AUS,GK,Leverkusen,25,1973,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+195,Andrzej Juskowiak,pl POL,FW,Wolfsburg,28,1970,32,30,"2,509",27.9,11,3,11,0,0,1,0,0.39,0.11,0.50,0.39,0.50,Matches,1999-2000
+196,Oliver Kahn,de GER,GK,Bayern Munich,30,1969,27,27,"2,395",26.6,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+197,Sead Kapetanović,ba BIH,"DF,MF",Dortmund,27,1972,4,3,240,2.7,0,1,0,0,0,1,1,0.00,0.37,0.37,0.00,0.37,Matches,1999-2000
+198,Rüdiger Kauf,de GER,MF,Stuttgart,24,1975,2,1,76,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+199,Ralf Keidel,de GER,MF,MSV Duisburg,22,1977,3,1,130,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+200,Jens Keller,de GER,DF,Stuttgart,28,1970,24,21,"1,916",21.3,0,0,0,0,0,9,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+201,Rasoul Khatibi,ir IRN,FW,Hamburger SV,20,1978,4,0,93,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+202,Thomas Kies,de GER,DF,Stuttgart,23,1975,6,1,209,2.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+203,Frank Kinkel,de GER,DF,Ulm,25,1973,11,10,807,9.0,0,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches,1999-2000
+204,Gábor Király,hu HUN,GK,Hertha BSC,23,1976,27,27,"2,430",27.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+205,Ulf Kirsten,de GER,FW,Leverkusen,33,1965,27,27,"2,226",24.7,17,2,15,2,2,8,0,0.69,0.08,0.77,0.61,0.69,Matches,1999-2000
+206,Alexander Klitzpera,de GER,DF,Arminia,21,1977,31,31,"2,770",30.8,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+208,Miroslav Klose,de GER,FW,Kaiserslautern,21,1978,2,0,18,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+209,Sven Kmetsch,de GER,MF,Schalke 04,28,1970,24,21,"1,856",20.6,0,2,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches,1999-2000
+210,Levan Kobiashvili,ge GEO,"DF,MF",Freiburg,22,1977,33,33,"2,955",32.8,6,3,6,0,0,0,0,0.18,0.09,0.27,0.18,0.27,Matches,1999-2000
+211,Georg Koch,de GER,GK,Kaiserslautern,27,1972,9,9,751,8.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+212,Georg Koch,de GER,GK,Arminia,27,1972,16,16,"1,440",16.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+213,Harry Koch,de GER,DF,Kaiserslautern,29,1969,30,29,"2,499",27.8,6,0,6,0,0,4,0,0.22,0.00,0.22,0.22,0.22,Matches,1999-2000
+214,Johan de Kock,nl NED,DF,Schalke 04,34,1964,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+215,Ludwig Kögl,de GER,"FW,MF",Unterhaching,33,1966,16,9,771,8.6,1,0,1,0,0,1,1,0.12,0.00,0.12,0.12,0.12,Matches,1999-2000
+216,Ralf Kohl,de GER,"DF,MF",Freiburg,33,1965,19,8,942,10.5,1,0,1,0,0,0,0,0.10,0.00,0.10,0.10,0.10,Matches,1999-2000
+217,Jürgen Kohler,de GER,DF,Dortmund,33,1965,30,29,"2,613",29.0,2,2,2,0,0,5,0,0.07,0.07,0.14,0.07,0.14,Matches,1999-2000
+218,Slobodan Komljenović,rs SRB,DF,Kaiserslautern,28,1971,23,19,"1,632",18.1,2,0,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,1999-2000
+219,Oumar Kondé,cg CGO,DF,Freiburg,19,1979,25,19,"1,803",20.0,1,0,1,0,0,0,1,0.05,0.00,0.05,0.05,0.05,Matches,1999-2000
+220,Marco Konrad,de GER,MF,Ulm,24,1974,4,2,182,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+221,Kostas Konstantinidis,gr GRE,DF,Hertha BSC,26,1972,20,18,"1,574",17.5,1,0,1,0,0,6,1,0.06,0.00,0.06,0.06,0.06,Matches,1999-2000
+222,Steffen Korell,de GER,DF,Freiburg,27,1971,12,5,530,5.9,1,0,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,1999-2000
+223,Niko Kovač,hr CRO,MF,Hamburger SV,27,1971,30,30,"2,638",29.3,8,2,7,1,1,4,0,0.27,0.07,0.34,0.24,0.31,Matches,1999-2000
+224,Robert Kovač,hr CRO,DF,Leverkusen,25,1974,27,27,"2,371",26.3,1,1,1,0,0,13,0,0.04,0.04,0.08,0.04,0.08,Matches,1999-2000
+225,Kreso Kovacec,de GER,FW,Hansa Rostock,30,1969,17,5,417,4.6,2,0,2,0,0,2,0,0.43,0.00,0.43,0.43,0.43,Matches,1999-2000
+226,Marijan Kovačević,de GER,"DF,MF",MSV Duisburg,25,1973,19,16,"1,546",17.2,3,1,1,2,2,5,0,0.17,0.06,0.23,0.06,0.12,Matches,1999-2000
+227,Torsten Kracht,de GER,DF,Eint Frankfurt,31,1967,32,32,"2,850",31.7,1,2,1,0,0,8,0,0.03,0.06,0.09,0.03,0.09,Matches,1999-2000
+228,Carsten Krämer,de GER,GK,MSV Duisburg,25,1974,1,0,28,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+229,Waldemar Kryger,pl POL,DF,Wolfsburg,30,1968,31,31,"2,698",30.0,1,3,1,0,0,5,0,0.03,0.10,0.13,0.03,0.13,Matches,1999-2000
+230,Samuel Kuffour,gh GHA,DF,Bayern Munich,22,1976,18,16,"1,446",16.1,2,0,2,0,0,6,2,0.12,0.00,0.12,0.12,0.12,Matches,1999-2000
+231,Pavel Kuka,cz CZE,FW,Stuttgart,31,1968,20,10,"1,003",11.1,1,0,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,1999-2000
+232,Marco Kurz,de GER,DF,1860 Munich,30,1969,26,26,"2,268",25.2,1,0,1,0,0,9,0,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+234,Alexander Kutschera,de GER,DF,Eint Frankfurt,31,1968,29,27,"2,334",25.9,1,0,1,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+235,Bruno Labbadia,de GER,FW,Arminia,33,1966,34,34,"3,050",33.9,11,1,11,0,1,5,0,0.32,0.03,0.35,0.32,0.35,Matches,1999-2000
+236,Timo Lange,de GER,MF,Hansa Rostock,31,1968,27,26,"2,064",22.9,3,2,1,2,2,8,0,0.13,0.09,0.22,0.04,0.13,Matches,1999-2000
+237,Marcus Lantz,se SWE,MF,Hansa Rostock,23,1975,18,18,"1,620",18.0,2,1,2,0,0,3,0,0.11,0.06,0.17,0.11,0.17,Matches,1999-2000
+238,Radoslav Látal,cz CZE,MF,Schalke 04,29,1970,24,17,"1,502",16.7,1,5,1,0,0,8,0,0.06,0.30,0.36,0.06,0.36,Matches,1999-2000
+239,Philipp Laux,de GER,GK,Ulm,26,1973,34,34,"3,060",34.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+240,Thorsten Legat,de GER,MF,Schalke 04,30,1968,4,2,228,2.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+241,Jens Lehmann,de GER,GK,Dortmund,29,1969,31,31,"2,785",30.9,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+242,Thomas Linke,de GER,DF,Bayern Munich,29,1969,27,26,"2,277",25.3,1,1,1,0,0,1,0,0.04,0.04,0.08,0.04,0.08,Matches,1999-2000
+243,Krisztián Lisztes,hu HUN,MF,Stuttgart,23,1976,29,23,"2,008",22.3,4,5,4,0,0,5,0,0.18,0.22,0.40,0.18,0.40,Matches,1999-2000
+244,Bixente Lizarazu,fr FRA,DF,Bayern Munich,29,1969,22,20,"1,768",19.6,1,2,1,0,0,4,0,0.05,0.10,0.15,0.05,0.15,Matches,1999-2000
+245,Roger Lutz,de GER,DF,Kaiserslautern,35,1964,5,1,150,1.7,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+246,Mehdi Mahdavikia,ir IRN,"DF,MF",Hamburger SV,22,1977,29,28,"2,373",26.4,5,7,5,0,0,1,0,0.19,0.27,0.46,0.19,0.46,Matches,1999-2000
+247,Bernd Maier,de GER,MF,Ulm,24,1974,24,23,"1,957",21.7,1,1,1,0,0,2,0,0.05,0.05,0.09,0.05,0.09,Matches,1999-2000
+248,Sławomir Majak,pl POL,"FW,MF",Hansa Rostock,30,1969,20,9,862,9.6,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+249,Yuriy Maksymov,ua UKR,MF,Werder Bremen,30,1968,28,15,"1,582",17.6,3,1,2,1,1,7,1,0.17,0.06,0.23,0.11,0.17,Matches,1999-2000
+250,Marcel Maltritz,de GER,"DF,MF",Wolfsburg,20,1978,23,11,"1,332",14.8,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+251,Zoran Mamić,hr CRO,"DF,MF",Leverkusen,27,1971,7,2,203,2.3,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+252,Sergei Mandreko,xc CIS,MF,Hertha BSC,27,1971,4,3,270,3.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+253,Rui Marques,ao ANG,DF,Ulm,21,1977,32,31,"2,802",31.1,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+254,Olaf Marschall,de GER,FW,Kaiserslautern,33,1966,25,18,"1,709",19.0,4,3,4,0,0,4,0,0.21,0.16,0.37,0.21,0.37,Matches,1999-2000
+255,Lothar Matthäus,de GER,"DF,MF",Bayern Munich,38,1961,15,15,"1,160",12.9,1,2,1,0,0,5,0,0.08,0.16,0.23,0.08,0.23,Matches,1999-2000
+256,Adam Matysek,pl POL,GK,Leverkusen,31,1968,29,29,"2,577",28.6,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+257,Ronald Maul,de GER,MF,Arminia,26,1973,28,26,"2,095",23.3,1,2,1,0,0,4,0,0.04,0.09,0.13,0.04,0.13,Matches,1999-2000
+258,Martin Max,de GER,FW,1860 Munich,30,1968,32,29,"2,573",28.6,19,2,18,1,1,1,1,0.66,0.07,0.73,0.63,0.70,Matches,1999-2000
+260,Michél Mazingu-Dinzey,cd COD,MF,1860 Munich,26,1972,1,0,6,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+261,Silvio Meißner,de GER,MF,Arminia,26,1973,27,27,"2,337",26.0,5,0,4,1,1,8,0,0.19,0.00,0.19,0.15,0.15,Matches,1999-2000
+262,Alberto Méndez,es ESP,MF,Unterhaching,24,1974,6,0,140,1.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+263,Andreas Menger,de GER,GK,MSV Duisburg,26,1972,10,9,817,9.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+264,Kai Michalke,de GER,FW,Hertha BSC,23,1976,18,14,"1,259",14.0,1,2,1,0,0,2,0,0.07,0.14,0.21,0.07,0.21,Matches,1999-2000
+265,Zdenko Miletić,ba BIH,GK,Arminia,31,1968,13,13,"1,125",12.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+266,Andreas Möller,de GER,MF,Dortmund,31,1967,18,15,"1,279",14.2,3,4,1,2,2,3,0,0.21,0.28,0.49,0.07,0.35,Matches,1999-2000
+267,Émile Mpenza,be BEL,FW,Schalke 04,21,1978,15,15,"1,301",14.5,6,2,6,0,0,0,0,0.42,0.14,0.55,0.42,0.55,Matches,1999-2000
+268,Youri Mulder,nl NED,FW,Schalke 04,30,1969,3,0,63,0.7,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+269,Andreas Müller,de GER,MF,Schalke 04,36,1962,6,3,336,3.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+270,Stefan Müller,de GER,DF,Freiburg,25,1974,25,18,"1,842",20.5,2,0,2,0,0,0,0,0.10,0.00,0.10,0.10,0.10,Matches,1999-2000
+271,Dorinel Munteanu,ro ROU,MF,Wolfsburg,31,1968,22,22,"1,652",18.4,3,8,3,0,0,5,0,0.16,0.44,0.60,0.16,0.60,Matches,1999-2000
+272,Michael Mutzel,de GER,MF,Eint Frankfurt,19,1979,4,2,181,2.0,1,0,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,1999-2000
+273,Vitus Nagorny,de GER,FW,Wolfsburg,21,1978,1,0,14,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+274,Jiří Němec,cz CZE,MF,Schalke 04,33,1966,29,29,"2,373",26.4,1,0,1,0,0,12,1,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+275,Christian Nerlinger,de GER,MF,Dortmund,26,1973,16,14,"1,154",12.8,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+276,Andreas Neuendorf,de GER,MF,Hertha BSC,24,1975,15,12,"1,003",11.1,0,2,0,0,0,5,0,0.00,0.18,0.18,0.00,0.18,Matches,1999-2000
+277,Jörg Neun,de GER,"DF,MF",MSV Duisburg,33,1966,4,4,312,3.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+278,Oliver Neuville,de GER,FW,Leverkusen,26,1973,33,31,"2,627",29.2,4,10,4,0,0,0,0,0.14,0.34,0.48,0.14,0.48,Matches,1999-2000
+279,Alfred Nijhuis,nl NED,DF,Dortmund,33,1966,20,15,"1,405",15.6,2,0,2,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches,1999-2000
+280,Oka Nikolov,mk MKD,GK,Eint Frankfurt,25,1974,17,17,"1,530",17.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+281,Krzysztof Nowak,pl POL,MF,Wolfsburg,23,1975,33,32,"2,878",32.0,3,5,3,0,0,3,0,0.09,0.16,0.25,0.09,0.25,Matches,1999-2000
+282,Jens Nowotny,de GER,DF,Leverkusen,25,1974,33,33,"2,948",32.8,1,2,1,0,0,4,1,0.03,0.06,0.09,0.03,0.09,Matches,1999-2000
+283,Brian O'Neil,sct SCO,MF,Wolfsburg,26,1972,16,15,"1,305",14.5,1,0,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,1999-2000
+284,Markus Oberleitner,de GER,MF,Unterhaching,25,1973,33,30,"2,329",25.9,3,1,3,0,0,4,0,0.12,0.04,0.15,0.12,0.15,Matches,1999-2000
+286,Markus Osthoff,de GER,MF,MSV Duisburg,30,1968,25,24,"1,942",21.6,3,1,3,0,0,11,0,0.14,0.05,0.19,0.14,0.19,Matches,1999-2000
+287,Kai Oswald,de GER,DF,Hansa Rostock,21,1977,19,16,"1,415",15.7,2,0,2,0,0,1,1,0.13,0.00,0.13,0.13,0.13,Matches,1999-2000
+288,Oliver Otto,de GER,MF,Ulm,26,1972,33,33,"2,823",31.4,2,3,2,0,0,5,1,0.06,0.10,0.16,0.06,0.16,Matches,1999-2000
+289,Niels Oude Kamphuis,nl NED,"DF,MF",Schalke 04,21,1977,26,24,"2,070",23.0,2,3,2,0,0,6,0,0.09,0.13,0.22,0.09,0.22,Matches,1999-2000
+290,Andrej Panadić,yu YUG,DF,Hamburger SV,30,1969,29,29,"2,420",26.9,1,1,1,0,0,3,0,0.04,0.04,0.07,0.04,0.07,Matches,1999-2000
+291,Stephan Paßlack,de GER,DF,1860 Munich,28,1970,24,17,"1,427",15.9,1,0,1,0,0,7,1,0.06,0.00,0.06,0.06,0.06,Matches,1999-2000
+292,Miran Pavlin,si SVN,MF,Freiburg,27,1971,1,0,18,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+293,Jacky Peeters,be BEL,DF,Arminia,29,1969,29,25,"2,293",25.5,1,0,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+294,Jörgen Pettersson,se SWE,FW,Kaiserslautern,23,1975,25,16,"1,516",16.8,9,2,9,0,0,4,0,0.53,0.12,0.65,0.53,0.65,Matches,1999-2000
+295,Martin Pieckenhagen,de GER,GK,Hansa Rostock,27,1971,20,20,"1,774",19.7,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+296,Roberto Pinto,pt POR,MF,Stuttgart,20,1978,27,23,"1,925",21.4,2,2,2,0,0,2,0,0.09,0.09,0.19,0.09,0.19,Matches,1999-2000
+297,Sérgio Pinto,pt POR,"FW,MF",Schalke 04,18,1980,2,0,17,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+298,Claudio Pizarro,pe PER,FW,Werder Bremen,20,1978,25,24,"2,150",23.9,10,3,10,0,0,5,0,0.42,0.13,0.54,0.42,0.54,Matches,1999-2000
+299,Markus Pleuler,de GER,MF,Ulm,29,1970,19,9,821,9.1,1,2,1,0,0,4,0,0.11,0.22,0.33,0.11,0.33,Matches,1999-2000
+300,Robson Ponte,br BRA,"FW,MF",Leverkusen,22,1976,24,11,"1,006",11.2,2,2,2,0,0,5,0,0.18,0.18,0.36,0.18,0.36,Matches,1999-2000
+301,Roy Präger,de GER,FW,Hamburger SV,27,1971,32,32,"2,757",30.6,9,4,9,0,0,12,0,0.29,0.13,0.42,0.29,0.42,Matches,1999-2000
+302,Michael Preetz,de GER,FW,Hertha BSC,31,1967,32,30,"2,707",30.1,12,3,12,0,1,1,0,0.40,0.10,0.50,0.40,0.50,Matches,1999-2000
+303,Christian Prosenik,at AUT,MF,1860 Munich,31,1968,19,9,"1,054",11.7,1,1,1,0,0,3,0,0.09,0.09,0.17,0.09,0.17,Matches,1999-2000
+304,Marcus Pürk,at AUT,"FW,MF",1860 Munich,24,1974,10,6,611,6.8,0,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,1999-2000
+305,Janos Radoki,hu HUN,DF,Ulm,27,1972,25,24,"2,120",23.6,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+306,Yasser Radwan,eg EGY,"DF,MF",Hansa Rostock,27,1972,21,19,"1,590",17.7,0,2,0,0,0,3,1,0.00,0.11,0.11,0.00,0.11,Matches,1999-2000
+307,Abder Ramdane,fr FRA,"FW,MF",Freiburg,25,1974,19,10,984,10.9,2,3,2,0,0,0,0,0.18,0.27,0.46,0.18,0.46,Matches,1999-2000
+308,Carsten Ramelow,de GER,"DF,MF",Leverkusen,25,1974,26,24,"2,068",23.0,0,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04,Matches,1999-2000
+309,Hany Ramzy,eg EGY,DF,Kaiserslautern,30,1969,25,25,"2,094",23.3,2,1,2,0,0,4,0,0.09,0.04,0.13,0.09,0.13,Matches,1999-2000
+310,Jens Rasiejewski,de GER,DF,Eint Frankfurt,24,1975,21,17,"1,432",15.9,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+312,Ratinho,br BRA,MF,Kaiserslautern,28,1971,27,22,"1,895",21.1,0,3,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,1999-2000
+313,Oliver Reck,de GER,GK,Schalke 04,34,1965,25,25,"2,216",24.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+314,Jörg Reeb,de GER,"DF,MF",Leverkusen,27,1972,13,10,953,10.6,0,1,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09,Matches,1999-2000
+315,Marko Rehmer,de GER,DF,Hertha BSC,27,1972,19,19,"1,581",17.6,2,2,2,0,0,3,0,0.11,0.11,0.23,0.11,0.23,Matches,1999-2000
+316,Marco Reich,de GER,"FW,MF",Kaiserslautern,21,1977,26,7,"1,280",14.2,2,4,2,0,0,1,0,0.14,0.28,0.42,0.14,0.42,Matches,1999-2000
+317,Thomas Reichenberger,de GER,FW,Leverkusen,24,1974,4,0,72,0.8,1,0,1,0,0,0,0,1.25,0.00,1.25,1.25,1.25,Matches,1999-2000
+318,Thomas Reichenberger,de GER,FW,Eint Frankfurt,24,1974,15,12,966,10.7,1,0,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,1999-2000
+319,Giuseppe Reina,de GER,FW,Dortmund,27,1972,26,16,"1,606",17.8,5,3,5,0,0,1,0,0.28,0.17,0.45,0.28,0.45,Matches,1999-2000
+320,Andreas Reinke,de GER,GK,Kaiserslautern,30,1969,18,18,"1,620",18.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+321,Piotr Reiss,pl POL,FW,MSV Duisburg,27,1972,22,20,"1,618",18.0,5,1,5,0,0,0,0,0.28,0.06,0.33,0.28,0.33,Matches,1999-2000
+322,Claus Reitmaier,de GER,GK,Wolfsburg,35,1964,34,34,"3,060",34.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+323,Kjetil Rekdal,no NOR,"DF,MF",Hertha BSC,30,1968,14,13,"1,120",12.4,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+324,Timo Reus,de GER,GK,Freiburg,25,1974,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+325,Stefan Reuter,de GER,"DF,MF",Dortmund,32,1966,26,26,"2,257",25.1,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+326,Lars Ricken,de GER,"FW,MF",Dortmund,23,1976,29,25,"2,171",24.1,4,2,4,0,0,7,0,0.17,0.08,0.25,0.17,0.25,Matches,1999-2000
+327,Thomas Riedl,de GER,"DF,MF",1860 Munich,23,1976,22,18,"1,491",16.6,1,1,1,0,0,6,0,0.06,0.06,0.12,0.06,0.12,Matches,1999-2000
+328,Paulo Rink,de GER,"FW,MF",Leverkusen,26,1973,16,13,"1,141",12.7,10,3,9,1,1,4,0,0.79,0.24,1.03,0.71,0.95,Matches,1999-2000
+329,Jürgen Rische,de GER,FW,Wolfsburg,28,1970,11,7,628,7.0,4,1,4,0,0,0,0,0.57,0.14,0.72,0.57,0.72,Matches,1999-2000
+330,Sreto Ristić,rs SRB,"FW,MF",Stuttgart,23,1976,3,1,124,1.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+331,Zé Roberto,br BRA,"DF,MF",Leverkusen,25,1974,27,26,"2,215",24.6,7,7,7,0,0,5,0,0.28,0.28,0.57,0.28,0.57,Matches,1999-2000
+332,Lodewijk Roembiak,nl NED,MF,Werder Bremen,30,1969,2,1,61,0.7,0,,0,0,,1,0,0.00,,,0.00,,Matches,1999-2000
+333,Axel Roos,de GER,"DF,FW",Kaiserslautern,34,1964,16,9,928,10.3,0,2,0,0,0,5,0,0.00,0.19,0.19,0.00,0.19,Matches,1999-2000
+334,Sascha Rösler,de GER,"FW,MF",Ulm,21,1977,26,10,"1,195",13.3,0,1,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,1999-2000
+335,Frank Rost,de GER,GK,Werder Bremen,26,1973,34,34,"3,060",34.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+336,Bryan Roy,nl NED,"FW,MF",Hertha BSC,29,1970,12,4,545,6.1,1,0,1,0,0,4,0,0.17,0.00,0.17,0.17,0.17,Matches,1999-2000
+338,Altin Rraklli,al ALB,FW,Unterhaching,29,1970,32,26,"2,083",23.1,6,3,2,4,6,2,0,0.26,0.13,0.39,0.09,0.22,Matches,1999-2000
+339,René Rydlewicz,de GER,"FW,MF",Arminia,26,1973,29,17,"1,457",16.2,0,2,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,1999-2000
+340,Ahmed Salah Hosny,eg EGY,FW,Stuttgart,20,1979,16,1,365,4.1,2,0,2,0,0,0,0,0.49,0.00,0.49,0.49,0.49,Matches,1999-2000
+341,Hasan Salihamidžić,ba BIH,"DF,MF",Bayern Munich,22,1977,30,27,"2,392",26.6,4,2,3,1,1,7,0,0.15,0.08,0.23,0.11,0.19,Matches,1999-2000
+342,Bachirou Salou,tg TOG,FW,Eint Frankfurt,28,1970,32,25,"2,204",24.5,8,2,8,0,0,3,0,0.33,0.08,0.41,0.33,0.41,Matches,1999-2000
+343,Ebbe Sand,dk DEN,FW,Schalke 04,27,1972,32,31,"2,734",30.4,15,3,15,0,0,5,0,0.49,0.10,0.59,0.49,0.59,Matches,1999-2000
+344,Tony Sanneh,us USA,"DF,MF",Hertha BSC,28,1971,15,6,666,7.4,1,1,1,0,0,1,0,0.14,0.14,0.27,0.14,0.27,Matches,1999-2000
+345,Roque Santa Cruz,py PAR,FW,Bayern Munich,17,1981,28,14,"1,280",14.2,5,1,5,0,0,0,0,0.35,0.07,0.42,0.35,0.42,Matches,1999-2000
+346,Rainer Scharinger,de GER,MF,Ulm,32,1967,29,18,"1,742",19.4,4,1,4,0,0,4,0,0.21,0.05,0.26,0.21,0.26,Matches,1999-2000
+347,Michael Schjønberg,dk DEN,"DF,MF",Kaiserslautern,32,1967,32,32,"2,880",32.0,2,0,0,2,2,5,0,0.06,0.00,0.06,0.00,0.00,Matches,1999-2000
+348,Andreas Schmidt,de GER,"DF,MF",Hertha BSC,25,1973,32,27,"2,507",27.9,0,3,0,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches,1999-2000
+349,Bernd Schneider,de GER,"DF,MF",Leverkusen,25,1973,32,20,"1,951",21.7,3,3,3,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches,1999-2000
+350,Martin Schneider,de GER,MF,MSV Duisburg,30,1968,23,20,"1,864",20.7,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+351,René Schneider,de GER,DF,Hansa Rostock,26,1973,9,7,578,6.4,1,0,1,0,0,2,1,0.16,0.00,0.16,0.16,0.16,Matches,1999-2000
+352,Thomas Schneider,de GER,DF,Stuttgart,26,1972,22,20,"1,665",18.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+353,Uwe Schneider,de GER,DF,Eint Frankfurt,27,1971,7,1,308,3.4,0,1,0,0,0,4,0,0.00,0.29,0.29,0.00,0.29,Matches,1999-2000
+354,Mathias Schober,de GER,GK,Schalke 04,23,1976,10,9,844,9.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+355,Mehmet Scholl,de GER,MF,Bayern Munich,28,1970,25,18,"1,636",18.2,6,4,5,1,1,5,0,0.33,0.22,0.55,0.28,0.50,Matches,1999-2000
+356,Gerald Schröder,de GER,,Wolfsburg,23,1976,1,0,11,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+357,Markus Schroth,de GER,FW,1860 Munich,24,1975,22,13,"1,316",14.6,3,1,3,0,0,2,0,0.21,0.07,0.27,0.21,0.27,Matches,1999-2000
+358,Daniel Schumann,de GER,DF,Freiburg,22,1977,11,8,611,6.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+359,Alexander Schur,de GER,MF,Eint Frankfurt,28,1971,26,25,"2,054",22.8,2,0,2,0,0,11,2,0.09,0.00,0.09,0.09,0.09,Matches,1999-2000
+360,Danny Schwarz,de GER,MF,Unterhaching,24,1975,34,34,"2,889",32.1,2,1,2,0,0,4,0,0.06,0.03,0.09,0.06,0.09,Matches,1999-2000
+361,Zoltán Sebescen,de GER,"DF,MF",Wolfsburg,23,1975,17,13,"1,220",13.6,6,0,6,0,0,2,0,0.44,0.00,0.44,0.44,0.44,Matches,1999-2000
+362,Sören Seidel,de GER,"FW,MF",Werder Bremen,26,1972,6,3,300,3.3,1,0,1,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches,1999-2000
+364,Jan Seifert,de GER,DF,Unterhaching,30,1968,31,24,"2,339",26.0,2,1,2,0,0,2,0,0.08,0.04,0.12,0.08,0.12,Matches,1999-2000
+365,Jochen Seitz,de GER,"DF,MF",Unterhaching,22,1976,34,31,"2,768",30.8,6,9,6,0,0,5,0,0.20,0.29,0.49,0.20,0.49,Matches,1999-2000
+366,Adel Sellimi,tn TUN,FW,Freiburg,26,1972,27,26,"2,150",23.9,11,5,7,4,7,0,0,0.46,0.21,0.67,0.29,0.50,Matches,1999-2000
+367,Paulo Sérgio,br BRA,"FW,MF",Bayern Munich,30,1969,28,25,"2,201",24.5,13,6,10,3,4,1,0,0.53,0.25,0.78,0.41,0.65,Matches,1999-2000
+368,Ciriaco Sforza,ch SUI,"DF,MF",Kaiserslautern,29,1970,27,27,"2,272",25.2,1,2,1,0,0,4,0,0.04,0.08,0.12,0.04,0.12,Matches,1999-2000
+369,Josip Šimunić,hr CRO,DF,Hamburger SV,21,1978,6,0,101,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+370,Andrew Sinkala,zm ZAM,MF,Bayern Munich,20,1979,1,0,12,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+371,Viktor Skrypnyk,ua UKR,"DF,MF",Werder Bremen,29,1969,5,1,201,2.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+372,Thomas Sobotzik,de GER,MF,Eint Frankfurt,24,1974,12,11,952,10.6,3,1,3,0,0,3,0,0.28,0.09,0.38,0.28,0.38,Matches,1999-2000
+373,Zvonimir Soldo,hr CRO,"DF,MF",Stuttgart,31,1967,31,31,"2,661",29.6,2,3,2,0,0,4,1,0.07,0.10,0.17,0.07,0.17,Matches,1999-2000
+374,Uwe Spies,de GER,FW,MSV Duisburg,32,1967,22,15,"1,281",14.2,2,1,2,0,0,0,0,0.14,0.07,0.21,0.14,0.21,Matches,1999-2000
+375,Harald Spörl,de GER,MF,Hamburger SV,32,1966,4,0,140,1.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+376,Joachim Stadler,de GER,DF,Ulm,29,1970,31,30,"2,623",29.1,1,2,1,0,0,2,0,0.03,0.07,0.10,0.03,0.10,Matches,1999-2000
+377,Gintaras Staučė,lt LTU,GK,MSV Duisburg,29,1969,25,25,"2,215",24.6,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+378,Horst Steffen,de GER,"DF,MF",MSV Duisburg,30,1969,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+379,Michael Sternkopf,de GER,"FW,MF",Arminia,29,1970,7,0,57,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+380,Miroslav Stević,rs SRB,MF,Dortmund,29,1970,30,28,"2,437",27.1,0,2,0,0,0,9,0,0.00,0.07,0.07,0.00,0.07,Matches,1999-2000
+381,Roberto Straal,nl NED,DF,Arminia,32,1966,7,4,416,4.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+382,Martin Stranzl,at AUT,"DF,MF",1860 Munich,19,1980,22,17,"1,596",17.7,0,1,0,0,0,5,0,0.00,0.06,0.06,0.00,0.06,Matches,1999-2000
+383,Jeff Strasser,lu LUX,DF,Kaiserslautern,24,1974,27,27,"2,134",23.7,2,3,2,0,0,1,0,0.08,0.13,0.21,0.08,0.21,Matches,1999-2000
+384,Thomas Stratos,de GER,"DF,MF",Arminia,32,1966,31,31,"2,732",30.4,4,2,1,3,3,4,0,0.13,0.07,0.20,0.03,0.10,Matches,1999-2000
+385,Oliver Straube,de GER,MF,Unterhaching,27,1971,30,29,"2,501",27.8,3,1,3,0,0,6,1,0.11,0.04,0.14,0.11,0.14,Matches,1999-2000
+386,Alexander Strehmel,de GER,"DF,MF",Unterhaching,31,1968,25,25,"2,231",24.8,3,0,3,0,0,6,1,0.12,0.00,0.12,0.12,0.12,Matches,1999-2000
+387,Thomas Strunz,de GER,MF,Bayern Munich,31,1968,9,6,594,6.6,0,2,0,0,0,2,0,0.00,0.30,0.30,0.00,0.30,Matches,1999-2000
+388,Krisztián Szollár,hu HUN,DF,Schalke 04,18,1980,1,0,17,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+390,Arne Tammen,de GER,"DF,MF",Unterhaching,27,1972,1,0,15,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+391,Ibrahim Tanko,gh GHA,FW,Dortmund,22,1977,3,0,30,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+392,Filip Tapalović,hr CRO,MF,1860 Munich,22,1976,22,15,"1,399",15.5,2,1,2,0,0,4,0,0.13,0.06,0.19,0.13,0.19,Matches,1999-2000
+393,Igli Tare,al ALB,FW,Kaiserslautern,26,1973,22,8,887,9.9,4,1,4,0,0,4,0,0.41,0.10,0.51,0.41,0.51,Matches,1999-2000
+394,Michael Tarnat,de GER,"DF,MF",Bayern Munich,29,1969,26,19,"1,812",20.1,1,6,1,0,0,4,0,0.05,0.30,0.35,0.05,0.35,Matches,1999-2000
+395,Pablo Thiam,gn GUI,"DF,MF",Stuttgart,25,1974,33,33,"2,907",32.3,3,4,3,0,0,8,0,0.09,0.12,0.22,0.09,0.22,Matches,1999-2000
+396,Ronny Thielemann,de GER,MF,Hansa Rostock,25,1973,7,2,245,2.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+397,Andreas Thom,de GER,FW,Hertha BSC,33,1965,10,5,571,6.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+398,Claus Thomsen,dk DEN,DF,Wolfsburg,29,1970,24,24,"2,078",23.1,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+399,Olaf Thon,de GER,"DF,MF",Schalke 04,33,1966,23,23,"1,913",21.3,1,3,1,0,0,9,0,0.05,0.14,0.19,0.05,0.19,Matches,1999-2000
+400,Razundara Tjikuzu,na NAM,"DF,MF",Werder Bremen,19,1979,25,24,"2,084",23.2,0,2,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches,1999-2000
+401,Jens Todt,de GER,"DF,MF",Stuttgart,29,1970,6,6,483,5.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+402,Bernhard Trares,de GER,"DF,MF",Werder Bremen,33,1965,20,18,"1,473",16.4,3,4,3,0,0,4,0,0.18,0.24,0.43,0.18,0.43,Matches,1999-2000
+403,Gerhard Tremmel,de GER,GK,Unterhaching,20,1978,7,7,630,7.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+404,René Tretschok,de GER,MF,Hertha BSC,30,1968,3,3,270,3.0,1,0,1,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches,1999-2000
+405,Dragan Trkulja,rs SRB,FW,Ulm,34,1964,20,7,624,6.9,1,0,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches,1999-2000
+406,Levan Tskitishvili,ge GEO,MF,Freiburg,22,1976,3,1,91,1.0,1,0,1,0,0,0,0,0.99,0.00,0.99,0.99,0.99,Matches,1999-2000
+407,Roman Týce,cz CZE,"DF,MF",1860 Munich,22,1977,25,23,"1,908",21.2,1,4,1,0,0,6,0,0.05,0.19,0.24,0.05,0.24,Matches,1999-2000
+408,Stig Tøfting,dk DEN,MF,MSV Duisburg,29,1969,29,27,"2,287",25.4,2,5,2,0,0,7,0,0.08,0.20,0.28,0.08,0.28,Matches,1999-2000
+409,Oliver Unsöld,de GER,DF,Ulm,25,1973,33,26,"2,397",26.6,1,0,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches,1999-2000
+410,Soner Uysal,de GER,FW,Hamburger SV,21,1977,8,7,564,6.3,1,0,1,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches,1999-2000
+411,Nico Van Kerckhoven,be BEL,"DF,FW",Schalke 04,28,1970,16,16,"1,425",15.8,1,2,1,0,0,5,0,0.06,0.13,0.19,0.06,0.19,Matches,1999-2000
+412,Gerald Vanenburg,nl NED,"DF,MF",1860 Munich,35,1964,16,16,"1,424",15.8,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+413,Sixten Veit,de GER,MF,Hertha BSC,29,1970,16,8,765,8.5,1,0,1,0,0,6,0,0.12,0.00,0.12,0.12,0.12,Matches,1999-2000
+414,Andreas Voss,de GER,MF,MSV Duisburg,20,1979,13,9,863,9.6,1,0,1,0,0,1,0,0.10,0.00,0.10,0.10,0.10,Matches,1999-2000
+416,Tomáš Votava,cz CZE,DF,1860 Munich,25,1974,2,2,141,1.6,0,,0,0,,1,0,0.00,,,0.00,,Matches,1999-2000
+417,Jurica Vranješ,hr CRO,MF,Leverkusen,19,1980,2,0,16,0.2,0,0,0,0,,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+418,Martin Wagner,de GER,"DF,MF",Kaiserslautern,31,1968,20,19,"1,449",16.1,1,3,1,0,0,7,1,0.06,0.19,0.25,0.06,0.25,Matches,1999-2000
+419,Thijs Waterink,nl NED,FW,Arminia,30,1968,21,12,"1,250",13.9,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+420,Tomasz Wałdoch,pl POL,DF,Schalke 04,28,1971,31,31,"2,776",30.8,1,0,1,0,0,4,1,0.03,0.00,0.03,0.03,0.03,Matches,1999-2000
+421,Ralf Weber,de GER,MF,Eint Frankfurt,30,1969,18,18,"1,614",17.9,2,0,2,0,0,7,0,0.11,0.00,0.11,0.11,0.11,Matches,1999-2000
+422,Marcus Wedau,de GER,MF,MSV Duisburg,23,1975,16,5,572,6.4,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+423,Hilmar Weilandt,de GER,"DF,MF",Hansa Rostock,32,1966,31,28,"2,586",28.7,0,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,1999-2000
+424,Patrick Weiser,de GER,"DF,MF",Wolfsburg,27,1971,33,33,"2,776",30.8,1,6,1,0,0,0,0,0.03,0.19,0.23,0.03,0.23,Matches,1999-2000
+425,Marco Weißhaupt,de GER,MF,Freiburg,27,1972,30,23,"2,090",23.2,2,3,2,0,0,0,0,0.09,0.13,0.22,0.09,0.22,Matches,1999-2000
+426,Markus Weissenberger,at AUT,MF,Arminia,24,1975,33,32,"2,679",29.8,9,10,9,0,0,5,0,0.30,0.34,0.64,0.30,0.64,Matches,1999-2000
+427,Stefan Wessels,de GER,GK,Bayern Munich,20,1979,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+428,Christoph Westerthaler,at AUT,"FW,MF",Eint Frankfurt,34,1965,4,0,66,0.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+429,Peter Wibrån,se SWE,MF,Hansa Rostock,29,1969,34,34,"3,060",34.0,6,3,4,2,2,3,0,0.18,0.09,0.26,0.12,0.21,Matches,1999-2000
+430,Artur Wichniarek,pl POL,FW,Arminia,22,1977,17,7,791,8.8,0,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches,1999-2000
+431,Raphaël Wicky,ch SUI,"DF,MF",Werder Bremen,22,1977,15,15,"1,267",14.1,0,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,1999-2000
+432,Andree Wiedener,de GER,DF,Werder Bremen,29,1970,25,23,"2,009",22.3,0,4,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches,1999-2000
+433,Michael Wiesinger,de GER,MF,Bayern Munich,26,1972,13,4,352,3.9,1,2,1,0,0,0,0,0.26,0.51,0.77,0.26,0.77,Matches,1999-2000
+434,Tobias Willi,de GER,MF,Freiburg,19,1979,29,28,"2,153",23.9,0,4,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17,Matches,1999-2000
+435,Marc Wilmots,be BEL,"FW,MF",Schalke 04,30,1969,32,32,"2,862",31.8,7,5,4,3,5,3,0,0.22,0.16,0.38,0.13,0.28,Matches,1999-2000
+436,Bernhard Winkler,de GER,FW,1860 Munich,33,1966,22,18,"1,574",17.5,3,0,3,0,0,3,0,0.17,0.00,0.17,0.17,0.17,Matches,1999-2000
+437,Evans Wise,tt TRI,"DF,FW",Ulm,25,1973,9,4,422,4.7,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+438,Jürgen Wittmann,de GER,GK,Unterhaching,32,1966,27,27,"2,430",27.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+439,Torsten Wohlert,de GER,DF,MSV Duisburg,33,1965,29,29,"2,515",27.9,1,1,1,0,0,11,1,0.04,0.04,0.07,0.04,0.07,Matches,1999-2000
+440,Franz Wohlfahrt,at AUT,GK,Stuttgart,35,1964,27,27,"2,430",27.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+442,Sławomir Wojciechowski,pl POL,MF,Bayern Munich,25,1973,3,1,64,0.7,1,0,1,0,0,0,0,1.41,0.00,1.41,1.41,1.41,Matches,1999-2000
+443,Paweł Wojtala,pl POL,DF,Werder Bremen,26,1972,2,0,41,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+444,Carsten Wolters,de GER,"DF,MF",MSV Duisburg,30,1969,21,18,"1,423",15.8,3,1,3,0,0,0,0,0.19,0.06,0.25,0.19,0.25,Matches,1999-2000
+445,Christian Wörns,de GER,DF,Dortmund,27,1972,26,24,"2,052",22.8,2,1,2,0,0,6,0,0.09,0.04,0.13,0.09,0.13,Matches,1999-2000
+446,Dariusz Wosz,de GER,MF,Hertha BSC,30,1969,32,32,"2,637",29.3,5,4,5,0,0,2,0,0.17,0.14,0.31,0.17,0.31,Matches,1999-2000
+447,Christian Wück,de GER,MF,Wolfsburg,26,1973,14,2,434,4.8,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+448,Chen Yang,cn CHN,MF,Eint Frankfurt,22,1977,27,13,"1,511",16.8,4,4,4,0,0,3,0,0.24,0.24,0.48,0.24,0.48,Matches,1999-2000
+449,Tony Yeboah,gh GHA,FW,Hamburger SV,33,1966,24,24,"2,019",22.4,9,4,9,0,0,1,0,0.40,0.18,0.58,0.40,0.58,Matches,1999-2000
+450,Mahmut Yılmaz,de GER,FW,Hamburger SV,19,1979,2,1,88,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches,1999-2000
+451,Marco Zallmann,de GER,DF,Hansa Rostock,31,1967,8,6,605,6.7,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+452,Thomas Zampach,de GER,DF,Eint Frankfurt,29,1969,11,8,548,6.1,1,0,1,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches,1999-2000
+453,David Zdrilic,au AUS,FW,Ulm,25,1974,22,13,"1,221",13.6,6,1,6,0,0,2,0,0.44,0.07,0.52,0.44,0.52,Matches,1999-2000
+454,Peter Zeiler,de GER,MF,Unterhaching,28,1970,5,1,144,1.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+455,Ned Zelić,au AUS,"DF,MF",1860 Munich,28,1971,23,23,"2,027",22.5,2,0,2,0,0,6,1,0.09,0.00,0.09,0.09,0.09,Matches,1999-2000
+456,Andreas Zeyer,de GER,MF,Freiburg,31,1968,33,33,"2,851",31.7,4,1,3,1,1,0,0,0.13,0.03,0.16,0.09,0.13,Matches,1999-2000
+457,Michael Zeyer,de GER,MF,MSV Duisburg,31,1968,32,25,"2,166",24.1,3,2,0,3,3,3,1,0.12,0.08,0.21,0.00,0.08,Matches,1999-2000
+458,Alexander Zickler,de GER,FW,Bayern Munich,25,1974,14,6,583,6.5,7,2,7,0,0,4,0,1.08,0.31,1.39,1.08,1.39,Matches,1999-2000
+459,Marc Ziegler,de GER,GK,Arminia,23,1976,5,4,405,4.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+460,Mark Zimmermann,de GER,FW,Unterhaching,25,1974,9,0,157,1.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
+461,Matthias Zimmermann,de GER,MF,Unterhaching,28,1970,34,34,"2,989",33.2,3,1,3,0,0,2,0,0.09,0.03,0.12,0.09,0.12,Matches,1999-2000
+462,Boris Živković,hr CRO,DF,Leverkusen,23,1975,23,18,"1,496",16.6,3,2,3,0,0,5,1,0.18,0.12,0.30,0.18,0.30,Matches,1999-2000
+463,Kristijan Đorđević,rs SRB,MF,Stuttgart,23,1976,9,4,375,4.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1999-2000
