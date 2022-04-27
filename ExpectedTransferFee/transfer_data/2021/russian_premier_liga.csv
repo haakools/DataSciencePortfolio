@@ -1,0 +1,662 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Zenit St. Petersburg,Claudinho,24,Attacking Midfield,RB Bragantino,€12.00m,in,Summer,12,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Dmitri Chistyakov,27,Centre-Back,Rostov,€3.25m,in,Summer,3.25,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Stanislav Kritsyuk,30,Goalkeeper,Gil Vicente,€2.00m,in,Summer,2,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Kirill Kravtsov,19,Defensive Midfield,Zenit 2 S-Pb,-,in,Summer,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Danila Prokhin,20,Centre-Back,Sochi,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Sebastián Driussi,25,Left Winger,Austin,€6.36m,out,Summer,6.36,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Danila Prokhin,20,Centre-Back,Rostov,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Andrey Lunev,29,Goalkeeper,Bay. Leverkusen,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Yuri Zhirkov,37,Left-Back,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Daniil Shamkin,19,Attacking Midfield,Baltika,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Dmitri Chistyakov,27,Centre-Back,Rostov,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Victor Moses,30,Right Midfield,Chelsea,€5.00m,in,Summer,5,Premier Liga,2021,2021/2022
+Spartak Moscow,Maximiliano Caufriez,24,Centre-Back,Sint-Truiden,€2.50m,in,Summer,2.5,Premier Liga,2021,2021/2022
+Spartak Moscow,Mikhail Ignatov,21,Attacking Midfield,Spartak 2,-,in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Ruslan Litvinov,20,Defensive Midfield,Spartak 2,-,in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Oston Urunov,20,Attacking Midfield,Ufa,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Georgi Melkadze,24,Second Striker,Akhmat Grozny,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Guus Til,23,Attacking Midfield,SC Freiburg,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Nikolay Rasskazov,23,Right-Back,Arsenal Tula,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Aleksandr Lomovitskiy,23,Right Winger,Arsenal Tula,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Reziuan Mirzov,28,Left Winger,Khimki,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Maksim Glushenkov,21,Right Winger,Khimki,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Artem Timofeev,27,Defensive Midfield,Akhmat Grozny,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Alex Kral,23,Defensive Midfield,West Ham,Loan fee:€5.20m,out,Summer,5.2,Premier Liga,2021,2021/2022
+Spartak Moscow,Guus Til,23,Attacking Midfield,Feyenoord,Loan fee:€1.00m,out,Summer,1,Premier Liga,2021,2021/2022
+Spartak Moscow,Artem Timofeev,27,Defensive Midfield,Akhmat Grozny,€800Th.,out,Summer,0.8,Premier Liga,2021,2021/2022
+Spartak Moscow,Pedro Rocha,26,Left Winger,Athletico-PR,Loan fee:€700Th.,out,Summer,0.7,Premier Liga,2021,2021/2022
+Spartak Moscow,Aleksandr Tashaev,27,Right Winger,Rotor Volgograd,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Ayaz Guliev,24,Central Midfield,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Maksim Glushenkov,22,Right Winger,KS Samara,Loan fee:€33Th.,out,Summer,0.033,Premier Liga,2021,2021/2022
+Spartak Moscow,Reziuan Mirzov,28,Left Winger,Khimki,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Oston Urunov,20,Attacking Midfield,Ufa,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Victor Moses,30,Right Midfield,Chelsea,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Konstantin Maradishvili,21,Defensive Midfield,CSKA Moscow,€7.00m,in,Summer,7,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Gyrano Kerk,25,Right Winger,FC Utrecht,€6.00m,in,Summer,6,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Alexis Beka Beka,20,Defensive Midfield,SM Caen,€6.00m,in,Summer,6,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Nair Tiknizyan,22,Left-Back,CSKA Moscow,€5.00m,in,Summer,5,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Tin Jedvaj,25,Centre-Back,Bay. Leverkusen,€4.00m,in,Summer,4,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Maksim Nenakhov,22,Right-Back,Akhmat Grozny,€2.00m,in,Summer,2,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Kirill Zinovich,18,Attacking Midfield,FK Minsk,€180Th.,in,Summer,0.18,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Tino Anjorin,19,Attacking Midfield,Chelsea U23,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Sergey Babkin,18,Central Midfield,Loko-Kazanka M.,-,in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Maksim Petrov,20,Central Midfield,Loko-Kazanka M.,-,in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Daniil Khudyakov,17,Goalkeeper,Loko-Kazanka M.,-,in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Aleksandr Silyanov,20,Right-Back,Loko-Kazanka M.,-,in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Andrey Nikitin,20,Left Winger,Fakel Voronezh,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Luka Djordjevic,26,Centre-Forward,Arsenal Tula,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Solomon Kvirkvelia,29,Centre-Back,Rotor Volgograd,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Bryan Idowu,29,Left-Back,Khimki,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Grzegorz Krychowiak,31,Defensive Midfield,Krasnodar,€4.00m,out,Summer,4,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Maksim Mukhin,19,Defensive Midfield,CSKA Moscow,€170Th.,out,Summer,0.17,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Bryan Idowu,29,Left-Back,Khimki,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Vladislav Ignatjev,34,Right-Back,Rubin Kazan,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Anton Kochenkov,34,Goalkeeper,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Solomon Kvirkvelia,29,Centre-Back,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Luka Djordjevic,26,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Éder,33,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Vedran Corluka,35,Centre-Back,Retired,-,out,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Mikhail Lysov,23,Left-Back,Retired,-,out,Summer,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Vitaliy Lystsov,25,Centre-Back,Akhmat Grozny,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Andrey Nikitin,20,Left Winger,Fakel Voronezh,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Anders Dreyer,23,Right Winger,FC Midtjylland,€7.00m,in,Summer,7,Premier Liga,2021,2021/2022
+Rubin Kazan,Sead Haksabanovic,22,Left Winger,Norrköping,€6.50m,in,Summer,6.5,Premier Liga,2021,2021/2022
+Rubin Kazan,Montassar Talbi,23,Centre-Back,Benevento,€900Th.,in,Summer,0.9,Premier Liga,2021,2021/2022
+Rubin Kazan,Konstantin Nizhegorodov,19,Centre-Back,H. Rostock U19,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Vladislav Ignatjev,34,Right-Back,Loko Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,German Onugkha,25,Centre-Forward,Vejle BK,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Kosarev,20,Centre-Forward,Hrv Dragovoljac,"End of loanAug 16, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Kamil Zakirov,22,Central Midfield,Noah Jurmala,"End of loanJul 31, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Ivan Konovalov,26,Goalkeeper,Ural,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Klimov,20,Centre-Forward,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Kosarev,19,Centre-Forward,Tom Tomsk,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Aleksey Gorodovoy,27,Goalkeeper,SKA Khabarovsk,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Igor Konovalov,24,Central Midfield,Arsenal Tula,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Zuriko Davitashvili,20,Left Winger,Rotor Volgograd,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Danil Stepanov,21,Left-Back,Rotor Volgograd,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Denis Makarov,23,Right Midfield,Dynamo Moscow,€7.50m,out,Summer,7.5,Premier Liga,2021,2021/2022
+Rubin Kazan,Carl Starfelt,26,Centre-Back,Celtic,€5.00m,out,Summer,5,Premier Liga,2021,2021/2022
+Rubin Kazan,Kamil Zakirov,22,Central Midfield,DinSPb,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Mikhail Merkulov,27,Left-Back,HNK Rijeka,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Zuriko Davitashvili,20,Left Winger,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Darko Jevtic,28,Attacking Midfield,AEK Athens,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Silvije Begic,28,Centre-Back,KS Samara,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Aleksey Gritsaenko,26,Centre-Back,Kuban,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Kosarev,20,Centre-Forward,Nizhny Novgorod,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Kosarev,19,Centre-Forward,Hrv Dragovoljac,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Igor Konovalov,25,Central Midfield,Akhmat Grozny,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Klimov,20,Centre-Forward,Kuban,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Danil Stepanov,21,Left-Back,Arsenal Tula,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Victorien Angban,24,Central Midfield,FC Metz,€4.10m,in,Summer,4.1,Premier Liga,2021,2021/2022
+FC Sochi,Mateo Cassierra,24,Centre-Forward,Belenenses SAD,€1.20m,in,Summer,1.2,Premier Liga,2021,2021/2022
+FC Sochi,Sergey Terekhov,31,Left-Back,Orenburg,€335Th.,in,Summer,0.335,Premier Liga,2021,2021/2022
+FC Sochi,Rodrigão,25,Centre-Back,Gil Vicente,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Mateo Barac,26,Centre-Back,Rapid Vienna,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Danila Prokhin,20,Centre-Back,Rostov,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Dmitri Vorobyev,23,Centre-Forward,Orenburg,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Nikita Koldunov,21,Central Midfield,Zenit 2 S-Pb,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FC Sochi,Igor Yurganov,27,Centre-Back,Baltika,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FC Sochi,Pavel Shakuro,23,Left-Back,Irtysh Omsk,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FC Sochi,Danil Prutsev,21,Central Midfield,KS Samara,€600Th.,out,Summer,0.6,Premier Liga,2021,2021/2022
+FC Sochi,Miha Mevlja,31,Centre-Back,Alanyaspor,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Nikita Koldunov,21,Central Midfield,Zenit 2 S-Pb,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Elmir Nabiullin,26,Left-Back,Khimki,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Ivan Novoseltsev,29,Centre-Back,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Aleksey Pomerko,31,Central Midfield,Torpedo Moscow,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Anton Zabolotnyi,30,Centre-Forward,CSKA Moscow,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Erik Vardanyan,23,Attacking Midfield,Pyunik Yerevan,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Ivan Miladinovic,26,Centre-Back,Nizhny Novgorod,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FC Sochi,Aleksandr Rudenko,22,Left Winger,Spartak 2,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FC Sochi,Danila Prokhin,20,Centre-Back,Zenit S-Pb,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FC Sochi,Sergey Terekhov,31,Left-Back,Orenburg,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Maksim Mukhin,19,Defensive Midfield,Loko Moscow,€170Th.,in,Summer,0.17,Premier Liga,2021,2021/2022
+CSKA Moscow,Anton Zabolotnyi,30,Centre-Forward,Sochi,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Vladislav Yakovlev,19,Centre-Forward,CSKA Moscow II,-,in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Cédric Gogoua,26,Centre-Back,Rotor Volgograd,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Nikita Kotin,18,Centre-Back,Irtysh Omsk,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Lassana N'Diaye,20,Centre-Forward,Veles Moscow,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Vitali Zhironkin,21,Centre-Forward,KamAZ,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Adolfo Gaich,22,Centre-Forward,Benevento,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Kristijan Bistrovic,23,Central Midfield,Kasimpasa,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Jaka Bijol,22,Centre-Back,Hannover 96,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Gocha Gogrichiani,21,Centre-Forward,Akron Togliatti,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Nikola Vlasic,23,Attacking Midfield,West Ham,€30.00m,out,Summer,30,Premier Liga,2021,2021/2022
+CSKA Moscow,Konstantin Maradishvili,21,Defensive Midfield,Loko Moscow,€7.00m,out,Summer,7,Premier Liga,2021,2021/2022
+CSKA Moscow,Nair Tiknizyan,22,Left-Back,Loko Moscow,€5.00m,out,Summer,5,Premier Liga,2021,2021/2022
+CSKA Moscow,Arnór Sigurdsson,22,Attacking Midfield,Venezia,Loan fee:€800Th.,out,Summer,0.8,Premier Liga,2021,2021/2022
+CSKA Moscow,Nikita Kotin,18,Centre-Back,Rostov,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Adolfo Gaich,22,Centre-Forward,SD Huesca,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Gocha Gogrichiani,21,Centre-Forward,Tekstilshchik,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Vadim Karpov,19,Centre-Back,Tekstilshchik,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Lassana N'Diaye,20,Centre-Forward,Tekstilshchik,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Ilya Shkurin,21,Centre-Forward,Dynamo Kyiv,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Vitali Zhironkin,21,Centre-Forward,Volgar,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Ilya Pomazun,24,Goalkeeper,Ural,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Salomón Rondón,31,Centre-Forward,DL Pro,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Denis Makarov,23,Right Midfield,Rubin Kazan,€7.50m,in,Summer,7.5,Premier Liga,2021,2021/2022
+Dynamo Moscow,Diego Laxalt,28,Left-Back,AC Milan,€3.50m,in,Summer,3.5,Premier Liga,2021,2021/2022
+Dynamo Moscow,Luka Gagnidze,18,Central Midfield,Dinamo Tbilisi,€1.50m,in,Summer,1.5,Premier Liga,2021,2021/2022
+Dynamo Moscow,Guillermo Varela,28,Right-Back,FC Copenhagen,€1.00m,in,Summer,1,Premier Liga,2021,2021/2022
+Dynamo Moscow,Fabián Balbuena,29,Centre-Back,West Ham,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Igor Kalinin,25,Left-Back,Ural,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Anton Terekhov,23,Right Winger,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Vladislav Karapuzov,21,Right Winger,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Grigori Morozov,27,Left-Back,Ufa,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Maximilian Philipp,27,Second Striker,VfL Wolfsburg,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Miguel Cardoso,27,Right Winger,Belenenses SAD,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Maximilian Philipp,27,Second Striker,VfL Wolfsburg,€7.50m,out,Summer,7.5,Premier Liga,2021,2021/2022
+Dynamo Moscow,Igor Kalinin,25,Left-Back,Ural,€350Th.,out,Summer,0.35,Premier Liga,2021,2021/2022
+Dynamo Moscow,Danil Lipovoy,21,Left Midfield,KS Samara,€230Th.,out,Summer,0.23,Premier Liga,2021,2021/2022
+Dynamo Moscow,Miguel Cardoso,27,Right Winger,Kayserispor,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Roman Neustädter,33,Defensive Midfield,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Charles Kaboré,33,Defensive Midfield,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Igor Shkolik,20,Central Midfield,Rotor Volgograd,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Vladislav Karapuzov,21,Right Winger,Akhmat Grozny,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Luka Gagnidze,18,Central Midfield,Ural,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Vladimir Moskvichev,21,Defensive Midfield,Neftekhimik,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Nikolay Komlichenko,26,Centre-Forward,Rostov,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Guillermo Varela,28,Right-Back,FC Copenhagen,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Kemal Ademi,25,Centre-Forward,Fenerbahce,€800Th.,in,Summer,0.8,Premier Liga,2021,2021/2022
+FK Khimki,Aleksandr Dolgov,22,Centre-Forward,Rostov,€115Th.,in,Summer,0.115,Premier Liga,2021,2021/2022
+FK Khimki,Besard Sabovic,23,Central Midfield,Kayserispor,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Ilya Kamyshev,23,Defensive Midfield,Chertanovo,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Ilya Sadygov,20,Centre-Forward,Dolgoprudnyi,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Vitaliy Sychev,21,Goalkeeper,Tambov,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Bryan Idowu,29,Left-Back,Loko Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,David Davidyan,23,Right Winger,Alashkert FC,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Elmir Nabiullin,26,Left-Back,Sochi,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bolshakov,21,Centre-Back,SKA Khabarovsk,€40Th.,in,Summer,0.04,Premier Liga,2021,2021/2022
+FK Khimki,Artem Sokolov,18,Attacking Midfield,Chertanovo,€40Th.,in,Summer,0.04,Premier Liga,2021,2021/2022
+FK Khimki,Reziuan Mirzov,28,Left Winger,Spartak Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Maksim Karpov,26,Centre-Back,KS Samara,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bozhenov,20,Right-Back,Rostov,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Dusan Stojinovic,20,Centre-Back,NK Celje,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Nikita Balakhontsev,18,Left Winger,Novosibirsk,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Senin Sebai,27,Centre-Forward,Akhmat Grozny,€230Th.,out,Summer,0.23,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bozhenov,20,Right-Back,Rostov,€100Th.,out,Summer,0.1,Premier Liga,2021,2021/2022
+FK Khimki,Pavel Mogilevets,28,Central Midfield,Nizhny Novgorod,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Andrey Murnin,36,Central Midfield,Khimik Dzer.,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Dmitri Khomich,36,Goalkeeper,SKA Khabarovsk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Mohamed Konaté,23,Centre-Forward,Akhmat Grozny,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Vladimir Dyadyun,32,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Arshak Koryan,26,Right Winger,Orenburg,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kamran Aliev,22,Second Striker,SKA Khabarovsk,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Nikita Balakhontsev,18,Left Winger,Dolgoprudnyi,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bolshakov,21,Centre-Back,Dolgoprudnyi,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Khimki,Maksim Glushenkov,21,Right Winger,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Ilya Kamyshev,23,Defensive Midfield,Chertanovo,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Aleksandr Dolgov,22,Centre-Forward,Rostov,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Arseni Logashov,29,Right-Back,Rostov,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Reziuan Mirzov,28,Left Winger,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Khimki,Bryan Idowu,29,Left-Back,Loko Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Ali Sowe,27,Centre-Forward,CSKA-Sofia,€3.00m,in,Summer,3,Premier Liga,2021,2021/2022
+FK Rostov,Igor Kalinin,25,Left-Back,Ural,€600Th.,in,Summer,0.6,Premier Liga,2021,2021/2022
+FK Rostov,Kirill Bozhenov,20,Right-Back,Khimki,€100Th.,in,Summer,0.1,Premier Liga,2021,2021/2022
+FK Rostov,Nikita Kotin,18,Centre-Back,CSKA Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Danila Prokhin,20,Centre-Back,Zenit S-Pb,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Danila Sukhomlinov,18,Attacking Midfield,Rostov II,-,in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Andrey Langovich,18,Right-Back,Rostov II,-,in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Viktor Melekhin,17,Centre-Back,Rostov II,-,in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Nikolay Komlichenko,26,Centre-Forward,Dynamo Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Bastos,30,Centre-Back,Al-Ain,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Smirnov,25,Left-Back,Orenburg,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Pontus Almqvist,22,Left Winger,FC Utrecht,"End of loanJun 30, 2022",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Maksim Rudakov,25,Goalkeeper,Rotor Volgograd,"End of loanAug 10, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Egor Baburin,27,Goalkeeper,Krasnodar,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,David Tosevski,19,Centre-Forward,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Konstantin Kovalev,21,Right-Back,Baltika,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Danila Proshlyakov,21,Centre-Forward,Veles Moscow,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Dolgov,22,Centre-Forward,Khimki,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Arseni Logashov,29,Right-Back,Khimki,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Dmitri Chistyakov,27,Centre-Back,Zenit S-Pb,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Dmitri Chistyakov,27,Centre-Back,Zenit S-Pb,€3.25m,out,Summer,3.25,Premier Liga,2021,2021/2022
+FK Rostov,Mathias Normann,25,Defensive Midfield,Norwich,Loan fee:€2.00m,out,Summer,2,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Dolgov,22,Centre-Forward,Khimki,€115Th.,out,Summer,0.115,Premier Liga,2021,2021/2022
+FK Rostov,Arseni Logashov,29,Right-Back,Kuban,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Aleksey Kozlov,34,Right-Back,Nizhny Novgorod,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Georgi Makhatadze,23,Central Midfield,Rotor Volgograd,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Haitam Aleesami,30,Left-Back,Apol. Limassol,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Vladimir Obukhov,29,Centre-Forward,Ban,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Rostov,Danila Prokhin,20,Centre-Back,Sochi,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Tomas Rukas,24,Centre-Back,Enisey,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,David Tosevski,20,Centre-Forward,Górnik Zabrze,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Smirnov,25,Left-Back,SKA Khabarovsk,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Maksim Rudakov,25,Goalkeeper,Rotor Volgograd,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Saplinov,23,Attacking Midfield,Ufa,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Pavlovets,24,Centre-Back,Kolos Kovalivka,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Kirill Bozhenov,20,Right-Back,Khimki,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Rostov,Ali Sowe,27,Centre-Forward,CSKA-Sofia,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Jhon Córdoba,28,Centre-Forward,Hertha BSC,€20.00m,in,Summer,20,Premier Liga,2021,2021/2022
+FK Krasnodar,Grzegorz Krychowiak,31,Defensive Midfield,Loko Moscow,€4.00m,in,Summer,4,Premier Liga,2021,2021/2022
+FK Krasnodar,Vladimir Iljin,29,Centre-Forward,Akhmat Grozny,€3.00m,in,Summer,3,Premier Liga,2021,2021/2022
+FK Krasnodar,Nikita Krivtsov,18,Attacking Midfield,Torpedo Vlad.,€90Th.,in,Summer,0.09,Premier Liga,2021,2021/2022
+FK Krasnodar,Eduard Spertsyan,21,Attacking Midfield,Krasnodar 2,-,in,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Aleksandr Chernikov,21,Defensive Midfield,Krasnodar 2,-,in,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Ilya Zhigulev,25,Central Midfield,Rotor Volgograd,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,German Onugkha,24,Centre-Forward,Vejle BK,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Leo Goglichidze,24,Left-Back,Nizhny Novgorod,"End of loanAug 31, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Uros Spajic,28,Centre-Back,Feyenoord,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Kristoffer Olsson,26,Central Midfield,RSC Anderlecht,€4.00m,out,Summer,4,Premier Liga,2021,2021/2022
+FK Krasnodar,German Onugkha,24,Centre-Forward,Vejle BK,€600Th.,out,Summer,0.6,Premier Liga,2021,2021/2022
+FK Krasnodar,Ilya Zhigulev,25,Central Midfield,Zaglebie Lubin,€300Th.,out,Summer,0.3,Premier Liga,2021,2021/2022
+FK Krasnodar,Marcus Berg,34,Centre-Forward,IFK Göteborg,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Ruslan Kambolov,31,Defensive Midfield,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Evgeniy Markov,26,Centre-Forward,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Igor Smolnikov,32,Right-Back,Arsenal Tula,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Shapi Suleymanov,21,Right Winger,Giresunspor,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Ari,35,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Leo Goglichidze,24,Left-Back,Ural,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Daniil Utkin,21,Central Midfield,Akhmat Grozny,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Egor Baburin,27,Goalkeeper,Rostov,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Artem Timofeev,27,Defensive Midfield,Spartak Moscow,€800Th.,in,Summer,0.8,Premier Liga,2021,2021/2022
+Akhmat Grozny,Senin Sebai,27,Centre-Forward,Khimki,€230Th.,in,Summer,0.23,Premier Liga,2021,2021/2022
+Akhmat Grozny,Mohamed Konaté,23,Centre-Forward,Khimki,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Islam Alsultanov,19,Centre-Forward,Akhmat II,-,in,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Artem Arkhipov,24,Centre-Forward,Kuban,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Vladislav Karapuzov,21,Right Winger,Dynamo Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Darko Todorovic,24,Right-Back,RB Salzburg,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Igor Konovalov,25,Central Midfield,Rubin Kazan,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Vitaliy Lystsov,25,Centre-Back,Loko Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Daniil Utkin,21,Central Midfield,Krasnodar,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Magomed Mitrishev,28,Right Winger,Chaika Pes.,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Odise Roshi,30,Right Winger,Diósgyőr,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Andrés Ponce,24,Centre-Forward,Rotor Volgograd,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Idris Umaev,22,Centre-Forward,Chaika Pes.,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Konrad Michalak,23,Right Winger,C. Rizespor,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Vladimir Iljin,29,Centre-Forward,Krasnodar,€3.00m,out,Summer,3,Premier Liga,2021,2021/2022
+Akhmat Grozny,Maksim Nenakhov,22,Right-Back,Loko Moscow,€2.00m,out,Summer,2,Premier Liga,2021,2021/2022
+Akhmat Grozny,Pavel Kaloshin,23,Centre-Back,Irtysh Omsk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Odise Roshi,30,Right Winger,Boluspor,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Ismael Silva,26,Central Midfield,Faisaly,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Andrés Ponce,24,Centre-Forward,Vejle BK,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Wilker Ángel,28,Centre-Back,Göztepe,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Konrad Michalak,23,Right Winger,Konyaspor,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Magomed Mitrishev,28,Right Winger,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Idris Umaev,22,Centre-Forward,Shakhter K.,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Nikita Karmaev,20,Centre-Back,Kuban,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Ladislav Almasi,22,Centre-Forward,Ruzomberok,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Georgi Melkadze,24,Second Striker,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Artem Timofeev,27,Defensive Midfield,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Igor Kalinin,25,Left-Back,Dynamo Moscow,€350Th.,in,Summer,0.35,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Kirill Kolesnichenko,21,Left Winger,Kairat Almaty,€140Th.,in,Summer,0.14,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Mikhail Ageev,21,Centre-Forward,Loko-Kazanka M.,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Yuri Zheleznov,18,Left Midfield,Saturn,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Chingiz Magomadov,22,Right-Back,Ural 2,-,in,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Ivan Kuzmichev,20,Centre-Back,Ural 2,-,in,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Luka Gagnidze,18,Central Midfield,Dynamo Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Leo Goglichidze,24,Left-Back,Krasnodar,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Ilya Pomazun,24,Goalkeeper,CSKA Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Artem Mamin,24,Centre-Back,Tom Tomsk,"End of loanSep 3, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,David Karaev,26,Centre-Forward,Kaspiy Aktau,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Yuri Bavin,27,Central Midfield,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Artem Mamin,23,Centre-Back,Orenburg,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Igor Kalinin,25,Left-Back,Rostov,€600Th.,out,Summer,0.6,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,David Karaev,26,Centre-Forward,SKA Khabarovsk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Stefan Strandberg,30,Centre-Back,Salernitana,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Othman El Kabir,29,Left Midfield,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Pavel Pogrebnyak,37,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Artem Mamin,23,Centre-Back,Tom Tomsk,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Artem Mamin,23,Centre-Back,Chaika Pes.,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Yuri Bavin,27,Central Midfield,Rotor Volgograd,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Islamzhan Nasyrov,23,Left-Back,Tyumen,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Chingiz Magomadov,22,Right-Back,KamAZ,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Oleg Baklov,26,Goalkeeper,KamAZ,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Igor Kalinin,25,Left-Back,Dynamo Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Ivan Konovalov,26,Goalkeeper,Rubin Kazan,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Erving Botaka,22,Centre-Back,Veles Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Egas Cacintura,23,Right Midfield,Unknown,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Moritz Bauer,29,Right-Back,Stoke City,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Aleksey Kuznetsov,24,Goalkeeper,Dinamo Bryansk,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Ruslan Fishchenko,21,Defensive Midfield,Veles Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Yuri Zhuravlev,25,Centre-Back,Volgar,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Azer Aliev,27,Right Midfield,Tambov,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Aleksandr Saplinov,23,Attacking Midfield,Rostov,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Oston Urunov,20,Attacking Midfield,Spartak Moscow,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Danila Emeljanov,21,Central Midfield,Volgar,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Gamid Agalarov,20,Centre-Forward,Volgar,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Nikolay Giorgobiani,23,Attacking Midfield,Alania Vl.,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Igor Bezdenezhnykh,24,Central Midfield,Chaika Pes.,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Nikolay Giorgobiani,23,Attacking Midfield,Alania Vl.,€215Th.,out,Summer,0.215,Premier Liga,2021,2021/2022
+FK Ufa,Aleksey Chernov,23,Goalkeeper,Vejle BK,€150Th.,out,Summer,0.15,Premier Liga,2021,2021/2022
+FK Ufa,Parfait Bizoza,22,Defensive Midfield,Vendsyssel FF,€100Th.,out,Summer,0.1,Premier Liga,2021,2021/2022
+FK Ufa,Dmitri Sysuev,33,Left Winger,FK Saransk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Pavel Alikin,37,Centre-Back,Rodina Moscow,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Igor Bezdenezhnykh,24,Central Midfield,Kuban,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Yuri Shafinskiy,27,Goalkeeper,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Danila Emeljanov,21,Central Midfield,Neftekhimik,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Ufa,Oston Urunov,20,Attacking Midfield,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Moritz Bauer,29,Right-Back,Stoke City,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Grigori Morozov,27,Left-Back,Dynamo Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Ufa,Komnen Andric,25,Centre-Forward,Dinamo Zagreb,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Axel Björnström,25,Left-Back,Sirius,€200Th.,in,Summer,0.2,Premier Liga,2021,2021/2022
+Arsenal Tula,Uros Radakovic,27,Centre-Back,Sparta Prague,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Zuriko Davitashvili,20,Left Winger,Rubin Kazan,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Ruslan Kambolov,31,Defensive Midfield,Krasnodar,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Ayaz Guliev,24,Central Midfield,Spartak Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Evgeniy Markov,26,Centre-Forward,Krasnodar,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Igor Smolnikov,32,Right-Back,Krasnodar,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Anton Kochenkov,34,Goalkeeper,Loko Moscow,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Ivan Novoseltsev,29,Centre-Back,Sochi,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Danil Stepanov,21,Left-Back,Rubin Kazan,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Alexandru Tudorie,25,Centre-Forward,Univ. Craiova,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Roman Minaev,23,Centre-Forward,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Aleksandr Denisov,32,Centre-Back,Tambov,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Lameck Banda,20,Right Winger,Maccabi Netanya,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Roman Minaev,23,Centre-Forward,Rotor Volgograd,€60Th.,out,Summer,0.06,Premier Liga,2021,2021/2022
+Arsenal Tula,Yuri Kovalev,28,Right Midfield,Orenburg,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Artur Nigmatullin,30,Goalkeeper,Nizhny Novgorod,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Kirill Kombarov,34,Right-Back,Retired,-,out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Gia Grigalava,31,Centre-Back,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Robert Bauer,26,Centre-Back,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Anri Khagush,34,Right-Back,Retired,-,out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Valeriy Gromyko,24,Attacking Midfield,BATE Borisov,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Lameck Banda,20,Right Winger,M. Petah Tikva,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Igor Konovalov,24,Central Midfield,Rubin Kazan,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Luka Djordjevic,26,Centre-Forward,Loko Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Aleksandr Lomovitskiy,23,Right Winger,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Nikolay Rasskazov,23,Right-Back,Spartak Moscow,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Danil Prutsev,21,Central Midfield,Sochi,€600Th.,in,Summer,0.6,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Sergey Pinyaev,16,Left Winger,Chertanovo,€500Th.,in,Summer,0.5,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Danil Lipovoy,21,Left Midfield,Dynamo Moscow,€230Th.,in,Summer,0.23,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Glenn Bijl,26,Right-Back,FC Emmen,€200Th.,in,Summer,0.2,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmytro Ivanisenya,27,Defensive Midfield,Zorya Lugansk,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Maksim Glushenkov,22,Right Winger,Spartak Moscow,Loan fee:€33Th.,in,Summer,0.033,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,German Onugkha,25,Centre-Forward,Vejle BK,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Silvije Begic,28,Centre-Back,Rubin Kazan,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Molchanov,20,Centre-Forward,Chertanovo,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Gennadi Kiselev,22,Defensive Midfield,Irtysh Omsk,"End of loanJun 30, 2021",in,Summer,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Egor Golenkov,22,Centre-Forward,Sigma Olomouc,€115Th.,out,Summer,0.115,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Ricardo Alves,28,Attacking Midfield,Kairat Almaty,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Efremov,26,Right Midfield,Akron Togliatti,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Vladimir Poluyakhtov,31,Right-Back,Orenburg,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Gennadi Kiselev,22,Defensive Midfield,Torpedo Moscow,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Safaa Hadi,22,Defensive Midfield,Al-Quwa Al-Jaw.,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Kombarov,34,Left-Back,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Sergey Kornilenko,38,Centre-Forward,Retired,-,out,Summer,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Maksim Karpov,26,Centre-Back,Khimki,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Molchanov,20,Centre-Forward,Dinamo Bryansk,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Vladislav Tyurin,21,Left Midfield,Tyumen,loan transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,German Onugkha,25,Centre-Forward,Vejle BK,"End of loanAug 31, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Ibrokhimkhalil Yuldoshev,20,Left-Back,Pakhtakor,€250Th.,in,Summer,0.25,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Timur Suleymanov,21,Centre-Forward,Loko-Kazanka M.,€172Th.,in,Summer,0.172,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Daniil Penchikov,23,Right-Back,Tom Tomsk,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Artur Nigmatullin,30,Goalkeeper,Arsenal Tula,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Ákos Kecskés,25,Centre-Back,FC Lugano,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Denis Tkachuk,31,Left Midfield,Orenburg,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Aleksey Kozlov,34,Right-Back,Rostov,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Andrey Sinitsyn,33,Goalkeeper,Akron Togliatti,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Pavel Mogilevets,28,Central Midfield,Khimki,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Lucas Masoero,26,Centre-Back,Lok. Plovdiv,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Bekim Balaj,30,Centre-Forward,Sturm Graz,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Petrus Boumal,28,Defensive Midfield,BB Erzurumspor,free transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Ivan Miladinovic,26,Centre-Back,Sochi,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Richlord Ennin,22,Centre-Forward,Spartaks,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Kirill Kosarev,20,Centre-Forward,Rubin Kazan,loan transfer,in,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Dmitri Yugaldin,18,Central Midfield,Irtysh Omsk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Sergey Zuykov,27,Right-Back,Tom Tomsk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Ivan Temnikov,32,Right-Back,Torpedo Moscow,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Ismail Ediev,33,Centre-Back,Kuban,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Mikhail Gashchenkov,29,Central Midfield,Akzhayik,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Beka Kavtaradze,22,Centre-Forward,Rotor Volgograd,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Artem Popov,28,Right Winger,Baltika,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Aleksandr Stavpets,32,Right Winger,Tom Tomsk,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Oleg Smirnov,30,Goalkeeper,Volgar,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Aleksey Shumskikh,31,Centre-Back,Torpedo Moscow,free transfer,out,Summer,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Mukhammad Sultonov,28,Right Winger,Torpedo Moscow,€25Th.,out,Summer,0.025,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Nikolay Sysuev,22,Goalkeeper,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Kirill Malyarov,24,Right-Back,Without Club,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Pavel Komolov,32,Central Midfield,Retired,-,out,Summer,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Momo Yansane,23,Centre-Forward,Black Stars,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Leo Goglichidze,24,Left-Back,Krasnodar,"End of loanAug 31, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Timur Suleymanov,21,Centre-Forward,Loko-Kazanka M.,"End of loanJun 30, 2021",out,Summer,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Yuri Alberto,20,Centre-Forward,Internacional,€25.00m,in,Winter,25,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Arsen Adamov,22,Right-Back,Ural,€5.00m,in,Winter,5,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Ivan Sergeev,26,Centre-Forward,KS Samara,€2.15m,in,Winter,2.15,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Daniil Odoevskiy,18,Goalkeeper,Zenit 2 S-Pb,-,in,Winter,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Nuraly Alip,22,Centre-Back,Kairat Almaty,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Emanuel Mammana,25,Centre-Back,Sochi,"End of loanJan 6, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Sardar Azmoun,27,Centre-Forward,Bay. Leverkusen,€2.50m,out,Winter,2.5,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Emanuel Mammana,25,Centre-Back,River Plate,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Yaroslav Rakitskyi,32,Centre-Back,Without Club,-,out,Winter,0,Premier Liga,2021,2021/2022
+Zenit St. Petersburg,Kirill Kravtsov,19,Defensive Midfield,Nizhny Novgorod,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Shamar Nicholson,24,Centre-Forward,RSC Charleroi,€8.00m,in,Winter,8,Premier Liga,2021,2021/2022
+Spartak Moscow,Daniil Khlusevich,20,Right Midfield,Arsenal Tula,€3.00m,in,Winter,3,Premier Liga,2021,2021/2022
+Spartak Moscow,Danil Prutsev,21,Central Midfield,KS Samara,€1.50m,in,Winter,1.5,Premier Liga,2021,2021/2022
+Spartak Moscow,Leon Klassen,21,Left-Back,WSG Tirol,€900Th.,in,Winter,0.9,Premier Liga,2021,2021/2022
+Spartak Moscow,Christopher Martins Pereira,24,Defensive Midfield,BSC Young Boys,Loan fee:€500Th.,in,Winter,0.5,Premier Liga,2021,2021/2022
+Spartak Moscow,Ilya Svinov,21,Goalkeeper,Fakel Voronezh,€250Th.,in,Winter,0.25,Premier Liga,2021,2021/2022
+Spartak Moscow,Nikita Chernov,26,Centre-Back,KS Samara,€110Th.,in,Winter,0.11,Premier Liga,2021,2021/2022
+Spartak Moscow,Samuel Gigot,28,Centre-Back,Marseille,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Aleksandr Lomovitskiy,23,Right Winger,Rubin Kazan,€1.50m,out,Winter,1.5,Premier Liga,2021,2021/2022
+Spartak Moscow,Samuel Gigot,28,Centre-Back,Marseille,€500Th.,out,Winter,0.5,Premier Liga,2021,2021/2022
+Spartak Moscow,Georgi Melkadze,24,Second Striker,Sochi,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Jorrit Hendrix,26,Defensive Midfield,Feyenoord,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Artem Rebrov,37,Goalkeeper,Retired,-,out,Winter,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Andrey Eshchenko,37,Right-Back,Retired,-,out,Winter,0,Premier Liga,2021,2021/2022
+Spartak Moscow,Ezequiel Ponce,24,Centre-Forward,Elche CF,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Ilya Gaponov,24,Centre-Back,KS Samara,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Ayrton Lucas,24,Left-Back,Flamengo,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Spartak Moscow,Jordan Larsson,24,Centre-Forward,AIK,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Jan Kuchta,25,Centre-Forward,Slavia Prague,€5.00m,in,Winter,5,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Wilson Isidor,21,Centre-Forward,Monaco,€3.50m,in,Winter,3.5,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Mark Mampassi,18,Centre-Back,Shakhtar U19,€3.00m,in,Winter,3,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Artur Chernyi,21,Centre-Back,Loko-Kazanka M.,-,in,Winter,0,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Pablo,30,Centre-Back,Flamengo,€2.80m,out,Winter,2.8,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Murilo Cerqueira,24,Centre-Back,Palmeiras,€2.20m,out,Winter,2.2,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Vitali Lisakovich,23,Centre-Forward,Rubin Kazan,€1.20m,out,Winter,1.2,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Fedor Smolov,31,Centre-Forward,Dynamo Moscow,€120Th.,out,Winter,0.12,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Zé Luís,31,Centre-Forward,Al-Taawoun FC,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Aleksandr Silyanov,20,Right-Back,Rostov,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Lokomotiv Moscow,Tino Anjorin,20,Attacking Midfield,Chelsea U23,"End of loanJan 30, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Aleksandr Lomovitskiy,23,Right Winger,Spartak Moscow,€1.50m,in,Winter,1.5,Premier Liga,2021,2021/2022
+Rubin Kazan,Vitali Lisakovich,23,Centre-Forward,Loko Moscow,€1.20m,in,Winter,1.2,Premier Liga,2021,2021/2022
+Rubin Kazan,Daniil Kuznetsov,18,Left Winger,Zenit 2 S-Pb,€400Th.,in,Winter,0.4,Premier Liga,2021,2021/2022
+Rubin Kazan,Egor Teslenko,21,Centre-Back,KamAZ,€233Th.,in,Winter,0.233,Premier Liga,2021,2021/2022
+Rubin Kazan,Marat Apshatsev,20,Central Midfield,Tom Tomsk,€190Th.,in,Winter,0.19,Premier Liga,2021,2021/2022
+Rubin Kazan,Konstantin Kuchaev,23,Attacking Midfield,CSKA Moscow,Loan fee:€70Th.,in,Winter,0.07,Premier Liga,2021,2021/2022
+Rubin Kazan,Silvije Begic,28,Centre-Back,KS Samara,"End of loanFeb 2, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Kosarev,20,Centre-Forward,Nizhny Novgorod,"End of loanFeb 20, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Klimov,20,Centre-Forward,Kuban,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Danil Stepanov,21,Left-Back,Arsenal Tula,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Danil Stepanov,21,Left-Back,Arsenal Tula,€400Th.,out,Winter,0.4,Premier Liga,2021,2021/2022
+Rubin Kazan,Aleksey Gorodovoy,28,Goalkeeper,Fakel Voronezh,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Ivan Konovalov,27,Goalkeeper,Livingston FC,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Djordje Despotovic,29,Centre-Forward,Arsenal Tula,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Sead Haksabanovic,22,Left Winger,Djurgården,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Anders Dreyer,23,Right Winger,FC Midtjylland,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Khvicha Kvaratskhelia,21,Left Winger,Dinamo Batumi,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Oleg Shatov,31,Attacking Midfield,Career break,-,out,Winter,0,Premier Liga,2021,2021/2022
+Rubin Kazan,Filip Uremovic,25,Centre-Back,Sheff Utd,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Kirill Kosarev,20,Centre-Forward,Volgar,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,In-beom Hwang,25,Central Midfield,FC Seoul,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Ivan Ignatjev,23,Centre-Forward,KS Samara,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Rubin Kazan,Mitsuki Saito,22,Attacking Midfield,Shonan Bellmare,"End of loanDec 31, 2021",out,Winter,0,Premier Liga,2021,2021/2022
+FC Sochi,Vanja Drkusic,22,Centre-Back,NK Bravo,€120Th.,in,Winter,0.12,Premier Liga,2021,2021/2022
+FC Sochi,Artem Makarchuk,26,Left-Back,Baltika,€115Th.,in,Winter,0.115,Premier Liga,2021,2021/2022
+FC Sochi,Georgi Melkadze,24,Second Striker,Spartak Moscow,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FC Sochi,Egor Prutsev,19,Left Midfield,FK Sochi II,-,in,Winter,0,Premier Liga,2021,2021/2022
+FC Sochi,Erik Vardanyan,23,Attacking Midfield,Pyunik Yerevan,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+FC Sochi,Marko Dugandzic,27,Centre-Forward,CFR Cluj,€500Th.,out,Winter,0.5,Premier Liga,2021,2021/2022
+FC Sochi,Pavel Shakuro,24,Left-Back,Enisey,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FC Sochi,Erik Vardanyan,23,Attacking Midfield,FC Urartu,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FC Sochi,Egor Prutsev,19,Left Midfield,Neftekhimik,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FC Sochi,Maksim Barsov,28,Centre-Forward,Baltika,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FC Sochi,Mateo Barac,27,Centre-Back,KS Samara,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FC Sochi,Emanuel Mammana,25,Centre-Back,Zenit S-Pb,"End of loanJan 6, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Yusuf Yazici,24,Attacking Midfield,LOSC Lille,Loan fee:€350Th.,in,Winter,0.35,Premier Liga,2021,2021/2022
+CSKA Moscow,Jorge Carrascal,23,Attacking Midfield,River Plate,Loan fee:€300Th.,in,Winter,0.3,Premier Liga,2021,2021/2022
+CSKA Moscow,Jesús Medina,24,Right Winger,New York City,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Maksim Eleev,20,Right-Back,CSKA Moscow II,-,in,Winter,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Jean-Philippe Gbamin,26,Defensive Midfield,Everton,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Vitali Zhironkin,21,Centre-Forward,Volgar,"End of loanJan 26, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Lassana N'Diaye,21,Centre-Forward,Tekstilshchik,"End of loanFeb 3, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Ilya Shkurin,22,Centre-Forward,Dynamo Kyiv,"End of loanFeb 25, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+CSKA Moscow,Emil Bohinen,22,Central Midfield,Salernitana,Loan fee:€250Th.,out,Winter,0.25,Premier Liga,2021,2021/2022
+CSKA Moscow,Viktor Vasin,33,Centre-Back,Kairat Almaty,€100Th.,out,Winter,0.1,Premier Liga,2021,2021/2022
+CSKA Moscow,Konstantin Kuchaev,23,Attacking Midfield,Rubin Kazan,Loan fee:€70Th.,out,Winter,0.07,Premier Liga,2021,2021/2022
+CSKA Moscow,Cédric Gogoua,27,Centre-Back,FK Turan,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Vitali Zhironkin,21,Centre-Forward,Kairat Moscow,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Ilya Shkurin,22,Centre-Forward,Rakow,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Lassana N'Diaye,21,Centre-Forward,Arda Kardzhali,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Fedor Chalov,23,Centre-Forward,FC Basel,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+CSKA Moscow,Kristijan Bistrovic,23,Central Midfield,Karagümrük,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Fedor Smolov,31,Centre-Forward,Loko Moscow,€120Th.,in,Winter,0.12,Premier Liga,2021,2021/2022
+Dynamo Moscow,Vladislav Galkin,19,Attacking Midfield,Dynamo 2,-,in,Winter,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Luka Gagnidze,19,Central Midfield,Ural,"End of loanMar 25, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+Dynamo Moscow,Sly,31,Centre-Forward,Nizhny Novgorod,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Anton Terekhov,24,Right Winger,Neftekhimik,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Grigori Morozov,27,Left-Back,NK Celje,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Vladislav Galkin,19,Attacking Midfield,RFS,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Dynamo Moscow,Luka Gagnidze,19,Central Midfield,Rakow,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Butta Magomedov,24,Attacking Midfield,Alania Vl.,€230Th.,in,Winter,0.23,Premier Liga,2021,2021/2022
+FK Khimki,Nemanja Glavcic,24,Central Midfield,Slaven Belupo,€120Th.,in,Winter,0.12,Premier Liga,2021,2021/2022
+FK Khimki,Pavel Mamaev,33,Central Midfield,Rostov,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Aleksandr Rudenko,22,Left Winger,Spartak 2,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Lawrence Nicholas,20,Central Midfield,Dolgoprudnyi,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Zakhar Volkov,24,Centre-Back,BATE Borisov,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Gia Grigalava,32,Centre-Back,Without Club,-,in,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Yuri Zhirkov,38,Left-Back,Without Club,-,in,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Didier Lamkel Zé,25,Left Winger,Royal Antwerp,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bozhenov,21,Right-Back,Rostov,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Bruno Viana,27,Centre-Back,SC Braga,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bolshakov,21,Centre-Back,Dolgoprudnyi,"End of loanFeb 20, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Kamran Aliev,23,Second Striker,SKA Khabarovsk,"End of loanJan 27, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Aleksandr Troshechkin,25,Defensive Midfield,Akhmat Grozny,€300Th.,out,Winter,0.3,Premier Liga,2021,2021/2022
+FK Khimki,Artem Sokolov,18,Attacking Midfield,KS Samara,€58Th.,out,Winter,0.058,Premier Liga,2021,2021/2022
+FK Khimki,Kamran Aliev,23,Second Striker,SKA Khabarovsk,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Filip Dagerstal,25,Centre-Back,Norrköping,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Vitaliy Sychev,21,Goalkeeper,Dolgoprudnyi,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bolshakov,21,Centre-Back,Kuban,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Kemal Ademi,26,Centre-Forward,SC Paderborn,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Khimki,Bruno Viana,27,Centre-Back,SC Braga,"End of loanMar 18, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Didier Lamkel Zé,25,Left Winger,Royal Antwerp,"End of loanMar 18, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Dusan Stojinovic,21,Centre-Back,NK Celje,"End of loanJan 27, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Maksim Karpov,26,Centre-Back,KS Samara,"End of loanJan 30, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+FK Khimki,Kirill Bozhenov,21,Right-Back,Rostov,"End of loanDec 31, 2021",out,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Magnus Knudsen,20,Central Midfield,Lillestrøm,€1.00m,in,Winter,1,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Selyava,29,Defensive Midfield,Dinamo Minsk,€120Th.,in,Winter,0.12,Premier Liga,2021,2021/2022
+FK Rostov,Stepan Melnikov,19,Left Winger,Spartak 2,€90Th.,in,Winter,0.09,Premier Liga,2021,2021/2022
+FK Rostov,Egor Golenkov,22,Centre-Forward,Sigma Olomouc,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Kirill Shchetinin,20,Left Winger,Rostov II,-,in,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Maksim Turishchev,19,Centre-Forward,Rostov II,-,in,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Silyanov,20,Right-Back,Loko Moscow,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,David Tosevski,20,Centre-Forward,Górnik Zabrze,"End of loanFeb 18, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Kirill Bozhenov,21,Right-Back,Khimki,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Smirnov,25,Left-Back,SKA Khabarovsk,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Danila Vedernikov,20,Left-Back,Volgar,"End of loanJan 21, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+FK Rostov,Pavel Mamaev,33,Central Midfield,Khimki,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Maksim Rudakov,25,Goalkeeper,FC Honka,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Armin Gigovic,19,Defensive Midfield,Helsingborg,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Kento Hashimoto,28,Central Midfield,Vissel Kobe,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Magnus Knudsen,20,Central Midfield,Lillestrøm,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Pontus Almqvist,22,Left Winger,FC Utrecht,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Dennis Hadzikadunic,23,Centre-Back,Malmö FF,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Kirill Bozhenov,21,Right-Back,Khimki,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,David Tosevski,20,Centre-Forward,Michalovce,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Danila Vedernikov,20,Left-Back,Kuban,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Aleksandr Smirnov,25,Left-Back,KamAZ,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Rostov,Konstantin Kovalev,21,Right-Back,Baltika,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Júnior Alonso,28,Centre-Back,Atlético-MG,€8.00m,in,Winter,8,Premier Liga,2021,2021/2022
+FK Krasnodar,Erik Botheim,21,Centre-Forward,Bodø/Glimt,€5.00m,in,Winter,5,Premier Liga,2021,2021/2022
+FK Krasnodar,Irakliy Manelov,19,Right Winger,Krasnodar 2,-,in,Winter,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Vyacheslav Yakimov,24,Defensive Midfield,Krasnodar 2,-,in,Winter,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Younes Namli,27,Attacking Midfield,Colorado,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Tonny Vilhena,27,Central Midfield,Espanyol,Loan fee:€500Th.,out,Winter,0.5,Premier Liga,2021,2021/2022
+FK Krasnodar,Wanderson,27,Right Winger,Internacional,Loan fee:€250Th.,out,Winter,0.25,Premier Liga,2021,2021/2022
+FK Krasnodar,Uros Spajic,28,Centre-Back,Kasimpasa,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Dmitri Stotskiy,32,Right-Back,Nizhny Novgorod,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Viktor Claesson,30,Left Winger,FC Copenhagen,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Younes Namli,27,Attacking Midfield,Sparta R.,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Júnior Alonso,29,Centre-Back,Atlético-MG,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Krasnodar,Rémy Cabella,32,Attacking Midfield,Without Club,-,out,Winter,0,Premier Liga,2021,2021/2022
+FK Krasnodar,Grzegorz Krychowiak,32,Defensive Midfield,AEK Athens,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Aleksandr Troshechkin,25,Defensive Midfield,Khimki,€300Th.,in,Winter,0.3,Premier Liga,2021,2021/2022
+Akhmat Grozny,Ravanelli,24,Attacking Midfield,Chapecoense,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Ablaye Mbengue,29,Centre-Forward,Dinamo Minsk,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Idris Umaev,22,Centre-Forward,Shakhter K.,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Ravanelli,24,Attacking Midfield,São Bernardo-SP,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Artem Polyarus,29,Left Midfield,Termalica,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Gabriel Iancu,27,Left Winger,FCV Farul,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Akhmat Grozny,Ablaye Mbengue,29,Centre-Forward,Without Club,-,out,Winter,0,Premier Liga,2021,2021/2022
+Akhmat Grozny,Amir Aduev,22,Central Midfield,Shakhter K.,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Aleksandr Yushin,26,Right Winger,Neftekhimik,€120Th.,in,Winter,0.12,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Luka Tsulukidze,18,Attacking Midfield,FC Saburtalo II,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Oleg Shatov,31,Attacking Midfield,Career break,-,in,Winter,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Dominik Dinga,23,Centre-Back,Dinamo Minsk,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Chingiz Magomadov,23,Right-Back,KamAZ,"End of loanJan 10, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Arsen Adamov,22,Right-Back,Zenit S-Pb,€5.00m,out,Winter,5,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Branko Jovicic,28,Defensive Midfield,LASK,€400Th.,out,Winter,0.4,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Vladimir Rykov,34,Centre-Back,Rodina Moscow,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Ylldren Ibrahimaj,26,Right Winger,Lillestrøm,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Yaroslav Godzyur,36,Goalkeeper,Without Club,-,out,Winter,0,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Artem Maksimenko,23,Right Winger,Baltika,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Andrey Panyukov,27,Centre-Forward,Qyzyljar,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Ural Yekaterinburg,Luka Gagnidze,19,Central Midfield,Dynamo Moscow,"End of loanMar 25, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+FK Ufa,Anton Chichkan,26,Goalkeeper,BATE Borisov,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Tiago Rodrigues,30,Attacking Midfield,Al-Hazem,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Dmitriy Kabutov,29,Right Winger,KS Samara,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Dilan Ortíz,21,Centre-Forward,Proleter,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Boli Bolingoli,26,Left-Back,Celtic,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Danila Emeljanov,21,Central Midfield,Neftekhimik,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+FK Ufa,Moritz Bauer,30,Right-Back,Servette FC,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Azer Aliev,27,Right Midfield,Neftchi Baku,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Oleg Dzantiev,22,Centre-Back,SKA Rostov,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Aleksey Kuznetsov,25,Goalkeeper,Veles Moscow,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Ufa,Boli Bolingoli,26,Left-Back,Celtic,"End of loanApr 1, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Danil Stepanov,21,Left-Back,Rubin Kazan,€400Th.,in,Winter,0.4,Premier Liga,2021,2021/2022
+Arsenal Tula,Djordje Despotovic,29,Centre-Forward,Rubin Kazan,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Valeriy Gromyko,24,Attacking Midfield,BATE Borisov,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Arsenal Tula,Daniil Khlusevich,20,Right Midfield,Spartak Moscow,€3.00m,out,Winter,3,Premier Liga,2021,2021/2022
+Arsenal Tula,Axel Björnström,26,Left-Back,AIK,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Valeriy Gromyko,25,Attacking Midfield,BATE Borisov,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Aleksandr Dovbnya,26,Centre-Back,Qyzyljar,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Ruslan Kambolov,32,Defensive Midfield,Aktobe,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Alexandru Tudorie,25,Centre-Forward,Sepsi OSK,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Aleksandr Denisov,32,Centre-Back,SKA Khabarovsk,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Arsenal Tula,Danil Stepanov,21,Left-Back,Rubin Kazan,"End of loanDec 31, 2021",out,Winter,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Fernando Costanza,23,Right-Back,FC Sheriff,€800Th.,in,Winter,0.8,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Artem Sokolov,18,Attacking Midfield,Khimki,€58Th.,in,Winter,0.058,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Leonid Gerchikov,20,Right Winger,Dolgoprudnyi,€35Th.,in,Winter,0.035,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Aleksey Nikitenkov,21,Centre-Back,Dolgoprudnyi,€35Th.,in,Winter,0.035,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Yan Gudkov,19,Left-Back,Dolgoprudnyi,€35Th.,in,Winter,0.035,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Nikita Pershin,20,Defensive Midfield,Chertanovo,€23Th.,in,Winter,0.023,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Velikorodnyi,21,Defensive Midfield,Dolgoprudnyi,€23Th.,in,Winter,0.023,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Aleksandr Kovalenko,18,Attacking Midfield,Chertanovo,€17Th.,in,Winter,0.017,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Mateo Barac,27,Centre-Back,Sochi,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Ilya Gaponov,24,Centre-Back,Spartak Moscow,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Ivan Ignatjev,23,Centre-Forward,Rubin Kazan,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Maksim Karpov,26,Centre-Back,Khimki,"End of loanJan 30, 2022",in,Winter,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Abat Aymbetov,26,Centre-Forward,FC Astana,"End of loanDec 31, 2021",in,Winter,0,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Ivan Sergeev,26,Centre-Forward,Zenit S-Pb,€2.15m,out,Winter,2.15,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Danil Prutsev,21,Central Midfield,Spartak Moscow,€1.50m,out,Winter,1.5,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Nikita Chernov,26,Centre-Back,Spartak Moscow,€110Th.,out,Winter,0.11,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Mehdi Zeffane,29,Right-Back,Y. Malatyaspor,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Abat Aymbetov,26,Centre-Forward,FC Astana,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Maksim Karpov,26,Centre-Back,M. Lipetsk,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitriy Kabutov,29,Right Winger,Ufa,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Leonid Gerchikov,20,Right Winger,M. Lipetsk,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Nikita Pershin,20,Defensive Midfield,Chertanovo,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Velikorodnyi,21,Defensive Midfield,M. Lipetsk,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Aleksey Nikitenkov,21,Centre-Back,M. Lipetsk,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Dmitri Prishchepa,20,Left-Back,Veles Moscow,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+Krylya Sovetov Samara,Silvije Begic,28,Centre-Back,Rubin Kazan,"End of loanFeb 2, 2022",out,Winter,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Lars Olden Larsen,23,Right Winger,Mjøndalen,€400Th.,in,Winter,0.4,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Sly,31,Centre-Forward,Dynamo Moscow,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Pavel Karasev,29,Defensive Midfield,BATE Borisov,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Aleksandr Shestyuk,19,Centre-Forward,Dynamo Brest,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Dmitri Stotskiy,32,Right-Back,Krasnodar,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Milson,22,Left Winger,Marítimo B,free transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Viktor Aleksandrov,20,Centre-Back,Rubin Kazan II,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Kirill Kravtsov,19,Defensive Midfield,Zenit S-Pb,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Nikita Goylo,23,Goalkeeper,Zenit 2 S-Pb,loan transfer,in,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Artem Galadzhan,23,Centre-Forward,Tom Tomsk,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Andrey Sinitsyn,33,Goalkeeper,Dinamo Makhach.,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Bekim Balaj,31,Centre-Forward,Boluspor,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Petrus Boumal,28,Defensive Midfield,Újpest FC,free transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Pavel Mogilevets,28,Central Midfield,Without Club,-,out,Winter,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Sly,31,Centre-Forward,Without Club,-,out,Winter,0,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Lars Olden Larsen,23,Right Winger,Häcken,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Aleksandr Shestyuk,19,Centre-Forward,RFS,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Aleksandr Sapeta,32,Central Midfield,Kuban,loan transfer,out,Winter,NA,Premier Liga,2021,2021/2022
+FK Nizhny Novgorod,Kirill Kosarev,20,Centre-Forward,Rubin Kazan,"End of loanFeb 20, 2022",out,Winter,0,Premier Liga,2021,2021/2022

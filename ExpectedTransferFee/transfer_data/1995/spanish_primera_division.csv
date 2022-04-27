@@ -1,0 +1,386 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Atlético de Madrid,Leo Biagini,18,Centre-Forward,Newell's,€1.20m,in,Summer,1.2,Primera Division,1995,1995/1996
+Atlético de Madrid,Milinko Pantic,28,Attacking Midfield,Panionios,€500Th.,in,Summer,0.5,Primera Division,1995,1995/1996
+Atlético de Madrid,Fernando Correa,21,Centre-Forward,River Plate,€120Th.,in,Summer,0.12,Primera Division,1995,1995/1996
+Atlético de Madrid,Lyuboslav Penev,28,Centre-Forward,Valencia,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,José Francisco Molina,24,Goalkeeper,Albacete,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Juan Carlos,22,attack,Atl. Marbella,"End of loanJul 1, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Atlético de Madrid,José Soler,27,midfield,CA Osasuna,"End of loanJun 1, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Atlético de Madrid,Iván Rocha,27,Left-Back,Real Valladolid,"End of loanJul 1, 1996",in,Summer,0,Primera Division,1995,1995/1996
+Atlético de Madrid,Miguel Ángel Benítez,25,Centre-Forward,CP Mérida,"End of loanJun 1, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Atlético de Madrid,Miguel Ángel Benítez,25,Centre-Forward,Espanyol,€1.05m,out,Summer,1.05,Primera Division,1995,1995/1996
+Atlético de Madrid,Abel Resino,35,Goalkeeper,Rayo Vallecano,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Manolo,30,Centre-Forward,CP Mérida,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Adolfo Valencia,27,Centre-Forward,Indep. Santa Fe,?,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Manuel Ruano,20,Right Midfield,Rayo Vallecano,?,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Patxi Ferreira,28,Centre-Back,Valencia,?,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Roman Kosecki,29,Centre-Forward,FC Nantes,?,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Diego,26,Goalkeeper,Real Valladolid,?,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,José Soler,27,midfield,Atl. Marbella,loan transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Igor Dobrovolski,27,Attacking Midfield,Without Club,-,out,Summer,0,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Miguel Ángel Benítez,25,Centre-Forward,Atlético Madrid,€1.05m,in,Summer,1.05,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Alberto Toril,21,midfield,Real Madrid B,€300Th.,in,Summer,0.3,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Ismael Urzaiz,23,Centre-Forward,UD Salamanca,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Cristóbal Parralo,27,Right-Back,Real Oviedo,?,in,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Goran Bogdanovic,28,Right Midfield,RCD Mallorca,?,in,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Javi García,25,attack,Palamós CF,?,in,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Álex Fernández,21,Defensive Midfield,Palamós CF,?,in,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Dmitri Kuznetsov,29,Right Midfield,UE Lleida,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Velko Yotov,24,Second Striker,Newell's,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,José Mari,20,midfield,RCD Mallorca,?,out,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Dmitri Kuznetsov,29,Right Midfield,Alavés,?,out,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Lluís González,26,Centre-Forward,CP Mérida,?,out,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,José Luis Gallardo,23,Centre-Back,Badajoz,?,out,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Enrique Ayucar,29,midfield,UD Salamanca,?,out,Summer,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,César Mendiondo,29,Right-Back,CP Mérida,?,out,Summer,NA,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Txiki Begiristain,30,Left Winger,Barcelona,€2.50m,in,Summer,2.5,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Dmitri Radchenko,24,Centre-Forward,Racing,€2.28m,in,Summer,2.28,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Branko Milovanovic,22,midfield,OFK Beograd,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Rafael Martín Vázquez,29,Attacking Midfield,Real Madrid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Pedro Riesco,26,attack,Albacete,-,in,Summer,0,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Braulio Vázquez,23,attack,Deportivo B,-,in,Summer,0,Primera Division,1995,1995/1996
+Deportivo de La Coruña,David Fernández,19,Attacking Midfield,Deportivo B,-,in,Summer,0,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Emil Kostadinov,27,Centre-Forward,FC Bayern,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Pedro Riesco,25,attack,Real Valladolid,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Julio Salinas,33,Centre-Forward,Sporting Gijón,€450Th.,out,Summer,0.45,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Emil Kostadinov,27,Centre-Forward,FC Bayern,?,out,Summer,NA,Primera Division,1995,1995/1996
+Deportivo de La Coruña,José Ramón,27,Central Midfield,SD Compostela,?,out,Summer,NA,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Claudio Barragán,31,attack,UD Salamanca,?,out,Summer,NA,Primera Division,1995,1995/1996
+Deportivo de La Coruña,Pedro Riesco,25,attack,Albacete,loan transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Toni Prats,23,Goalkeeper,RCD Mallorca,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Eusebio,31,Defensive Midfield,Barcelona,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Goran Milojevic,30,midfield,RCD Mallorca,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Jon Uribarrena,26,attack,UD Almería,?,out,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Mikel Antía,22,Centre-Back,Real Valladolid,?,out,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Carlos Cano,25,Goalkeeper,Real Oviedo,?,out,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Tito Vilanova,26,midfield,Badajoz,?,out,Summer,NA,Primera Division,1995,1995/1996
+Celta de Vigo,Sebastián Losada,27,attack,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+Celta de Vigo,Alberto Toril,21,midfield,Real Madrid B,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Valencia CF,Viola,26,Centre-Forward,Corinthians,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Valencia CF,Xabier Eskurza,25,Central Midfield,Barcelona,€2.00m,in,Summer,2,Primera Division,1995,1995/1996
+Valencia CF,José Ignacio,21,Defensive Midfield,CD Logroñés,€720Th.,in,Summer,0.72,Primera Division,1995,1995/1996
+Valencia CF,Sietes,21,Left-Back,Real Oviedo,?,in,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Iñaki Hurtado,23,midfield,Real Valladolid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Patxi Ferreira,28,Centre-Back,Atlético Madrid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Rafa Gómez,21,Goalkeeper,Valencia B,-,in,Summer,0,Primera Division,1995,1995/1996
+Valencia CF,Jorge Bartual,23,Goalkeeper,Valencia B,-,in,Summer,0,Primera Division,1995,1995/1996
+Valencia CF,Javi Navarro,21,Centre-Back,CD Logroñés,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Valencia CF,Oleg Salenko,25,Centre-Forward,Rangers,€3.00m,out,Summer,3,Primera Division,1995,1995/1996
+Valencia CF,Lyuboslav Penev,28,Centre-Forward,Atlético Madrid,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Juan Carlos,30,Left-Back,Real Valladolid,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,David Clotet,22,Centre-Back,CD Logroñés,?,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Robert Fernández,32,Central Midfield,Villarreal,?,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Eloy Olaya,30,Centre-Forward,Sporting Gijón,?,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Álvaro Cervera,29,attack,Racing,?,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,José Serer,29,Centre-Back,Villarreal,?,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,Juanjo Maqueda,26,midfield,Albacete,?,out,Summer,NA,Primera Division,1995,1995/1996
+Valencia CF,José Manuel Sempere,37,Goalkeeper,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Chemo del Solar,27,Central Midfield,CD Tenerife,€720Th.,in,Summer,0.72,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Catanha,23,Centre-Forward,Belenenses,€480Th.,in,Summer,0.48,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Ovidiu Stinga,22,Right Midfield,U. Craiova,?,in,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Claudio Barragán,31,attack,Dep. La Coruña,?,in,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Yosu,31,Goalkeeper,Atl. Marbella,?,in,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Lutxo Iturrino,31,midfield,Real Sociedad,?,in,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Enrique Ayucar,29,midfield,Espanyol,?,in,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Ismael Urzaiz,23,Centre-Forward,Espanyol,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Antonio Díaz,25,Defensive Midfield,CA Osasuna,?,out,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Paco,28,midfield,CD Lugo,?,out,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Roberto Olabe,27,Goalkeeper,Real Sociedad,?,out,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Carlos Martín,24,midfield,Badajoz,?,out,Summer,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Jon Igoa,28,attack,Écija Balompié,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Xavier Escaich,26,Centre-Forward,Barcelona,€700Th.,in,Summer,0.7,Primera Division,1995,1995/1996
+Albacete Balompié,Paco Luna,23,Centre-Forward,UD Almería,?,in,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Miguel Ángel Brau,20,midfield,Hellín,?,in,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Emilio Gutiérrez,24,midfield,Sporting Gijón,?,in,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Juanjo Maqueda,26,midfield,Valencia,?,in,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Velli Kasumov,26,Centre-Forward,Real Betis,?,in,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Pedro Riesco,25,attack,Dep. La Coruña,loan transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Jesús Muñoz,19,Central Midfield,Albacete B,-,in,Summer,0,Primera Division,1995,1995/1996
+Albacete Balompié,Josico,20,Defensive Midfield,Albacete B,-,in,Summer,0,Primera Division,1995,1995/1996
+Albacete Balompié,Alberto Monteagudo,20,Defensive Midfield,Fuerteventura,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Albacete Balompié,José Francisco Molina,24,Goalkeeper,Atlético Madrid,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Ivaylo Andonov,27,Centre-Forward,Arm. Bielefeld,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Fernando Morientes,19,Centre-Forward,Real Zaragoza,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Goyo Fonseca,29,attack,Real Valladolid,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Alejandro Rodríguez,31,Right-Back,Gimnàstic,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Antonio,30,attack,CF Extremadura,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Magín Mir,25,Centre-Back,Elche CF,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Josep Sala,31,midfield,Badajoz,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Pedro Cordero,26,midfield,Badajoz,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Esteban Fradera,32,defence,RCD Mallorca,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Óscar Dertycia,30,Centre-Forward,Belgrano,?,out,Summer,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Pedro Riesco,26,attack,Dep. La Coruña,-,out,Summer,0,Primera Division,1995,1995/1996
+Albacete Balompié,Óscar García,22,Attacking Midfield,Barcelona,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Sporting Gijón,Iván Iglesias,23,Central Midfield,Barcelona,€500Th.,in,Summer,0.5,Primera Division,1995,1995/1996
+Sporting Gijón,Julio Salinas,33,Centre-Forward,Dep. La Coruña,€450Th.,in,Summer,0.45,Primera Division,1995,1995/1996
+Sporting Gijón,Rasheed Yekini,31,Centre-Forward,Olympiacos,€150Th.,in,Summer,0.15,Primera Division,1995,1995/1996
+Sporting Gijón,Rafa Navarro,23,midfield,Real Jaén CF,?,in,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Eloy Olaya,30,Centre-Forward,Valencia,?,in,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Ricardo Bango,26,midfield,Sevilla FC,?,in,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Dani Bouzas,21,Attacking Midfield,Sporting B,-,in,Summer,0,Primera Division,1995,1995/1996
+Sporting Gijón,Marcos Sequeiros,21,Centre-Forward,Sporting B,-,in,Summer,0,Primera Division,1995,1995/1996
+Sporting Gijón,Aitor Tornavaca,19,Left-Back,Sporting B,-,in,Summer,0,Primera Division,1995,1995/1996
+Sporting Gijón,Sergio Fernández,18,Centre-Back,Sporting B,-,in,Summer,0,Primera Division,1995,1995/1996
+Sporting Gijón,Pier,23,Centre-Forward,Real Betis,€3.00m,out,Summer,3,Primera Division,1995,1995/1996
+Sporting Gijón,Daniel Saric,22,Right-Back,Croatia Zagreb,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Dani Díaz,21,midfield,Chaves,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,José Luis Morales,22,attack,RCD Mallorca,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Fredi,21,Left Midfield,UE Lleida,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Iván Miner,24,midfield,Chaves,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Emilio Gutiérrez,24,midfield,Albacete,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Javier Castaño,22,Central Midfield,CD Logroñés,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,Peter Dubovsky,23,Second Striker,Real Madrid,€900Th.,in,Summer,0.9,Primera Division,1995,1995/1996
+Real Oviedo,Nebojsa Scepanovic,27,midfield,Vojvodina,€210Th.,in,Summer,0.21,Primera Division,1995,1995/1996
+Real Oviedo,Carlos Cano,25,Goalkeeper,Celta de Vigo,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,Paco Sanz,22,Right Midfield,Real Madrid B,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,César Martín,18,Centre-Back,Oviedo B,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Oviedo,Roberto Losada,18,Centre-Forward,Oviedo B,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Oviedo,Robert Prosinecki,26,Central Midfield,Barcelona,€3.00m,out,Summer,3,Primera Division,1995,1995/1996
+Real Oviedo,Slavisa Jokanovic,26,Defensive Midfield,CD Tenerife,€3.00m,out,Summer,3,Primera Division,1995,1995/1996
+Real Oviedo,Georgi Yordanov,31,Attacking Midfield,Septemvri Sofia,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,Cristóbal Parralo,27,Right-Back,Espanyol,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,Sietes,21,Left-Back,Valencia,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,Janko Jankovic,32,attack,Hércules CF,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Oviedo,Pablo Maqueda,24,attack,RCD Mallorca,loan transfer,out,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Bent Christensen,28,Centre-Forward,FC Schalke 04,€250Th.,in,Summer,0.25,Primera Division,1995,1995/1996
+SD Compostela,Festus Agu,20,Centre-Forward,Bolívar,?,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,José Antonio Vilaseca Triviño,23,attack,CD Leganés,?,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Virgilio Hernández,26,Left-Back,UE Lleida,?,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Fernando Peralta,33,Goalkeeper,CD Castellón,?,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,José Ramón,27,Central Midfield,Dep. La Coruña,?,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Mauro García,24,Right-Back,Pontevedra,?,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Jesús Dulce,24,Right-Back,CD Logroñés,loan transfer,in,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Modesto López,30,Centre-Back,Orense,?,out,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Goyo,25,Left-Back,SD Eibar,?,out,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,José Álvarez,28,attack,Mensajero,?,out,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Víctor Arias,28,Right-Back,Alavés,?,out,Summer,NA,Primera Division,1995,1995/1996
+SD Compostela,Pichi Lucas,36,Centre-Forward,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+SD Compostela,Jesús Moure,33,attack,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+SD Compostela,Bent Christensen,28,Centre-Forward,FC Schalke 04,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+SD Compostela,Jesús Dulce,25,Right-Back,CD Logroñés,"End of loanJun 30, 1996",out,Summer,0,Primera Division,1995,1995/1996
+SD Compostela,José Manuel Galdames,24,Centre-Back,Athletic,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Real Sociedad,Javi Gracia,25,Defensive Midfield,Real Valladolid,€480Th.,in,Summer,0.48,Primera Division,1995,1995/1996
+Real Sociedad,Óscar de Paula,20,Centre-Forward,Badajoz,€300Th.,in,Summer,0.3,Primera Division,1995,1995/1996
+Real Sociedad,Marcus Pürk,20,Centre-Forward,Rapid Vienna,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Sociedad,Miguel Ramírez,25,Centre-Back,Colo Colo,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Sociedad,Joachim Yaw,21,midfield,Norrköping,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Sociedad,Roberto Olabe,27,Goalkeeper,UD Salamanca,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Sociedad,Unai Emery,23,midfield,Real Sociedad B,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Sociedad,Meho Kodro,28,Centre-Forward,Barcelona,€5.50m,out,Summer,5.5,Primera Division,1995,1995/1996
+Real Sociedad,Joseba Etxeberria,17,Right Winger,Athletic,€3.00m,out,Summer,3,Primera Division,1995,1995/1996
+Real Sociedad,Luis García,26,attack,América,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Sociedad,Lutxo Iturrino,31,midfield,UD Salamanca,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Sociedad,Bixente Biurrun,35,Goalkeeper,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+CD Tenerife,Slavisa Jokanovic,26,Defensive Midfield,Real Oviedo,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+CD Tenerife,Pavel Hapal,25,Attacking Midfield,Bay. Leverkusen,€1.80m,in,Summer,1.8,Primera Division,1995,1995/1996
+CD Tenerife,Alexis,21,Left-Back,UD Las Palmas,?,in,Summer,NA,Primera Division,1995,1995/1996
+CD Tenerife,Francisco Rojas,20,Left-Back,Colo Colo,?,in,Summer,NA,Primera Division,1995,1995/1996
+CD Tenerife,Toni Robaina,20,Left Winger,UD Las Palmas,?,in,Summer,NA,Primera Division,1995,1995/1996
+CD Tenerife,Chemo del Solar,27,Central Midfield,UD Salamanca,€720Th.,out,Summer,0.72,Primera Division,1995,1995/1996
+CD Tenerife,Paqui,24,Left-Back,Real Zaragoza,€300Th.,out,Summer,0.3,Primera Division,1995,1995/1996
+CD Tenerife,Ezequiel Castillo,28,Central Midfield,Rayo Vallecano,?,out,Summer,NA,Primera Division,1995,1995/1996
+FC Barcelona,Meho Kodro,28,Centre-Forward,Real Sociedad,€5.50m,in,Summer,5.5,Primera Division,1995,1995/1996
+FC Barcelona,Robert Prosinecki,26,Central Midfield,Real Oviedo,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+FC Barcelona,Ángel Cuéllar,22,Left Winger,Real Betis,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+FC Barcelona,Gheorghe Popescu,27,Centre-Back,Spurs,€2.80m,in,Summer,2.8,Primera Division,1995,1995/1996
+FC Barcelona,Luís Figo,22,Right Winger,Sporting CP,€2.50m,in,Summer,2.5,Primera Division,1995,1995/1996
+FC Barcelona,Roger García,18,Left Midfield,Barcelona B,-,in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Thomas Christiansen,22,Centre-Forward,Barcelona B,-,in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Juan Carlos Moreno,20,Left Midfield,Barcelona U19,-,in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Jesús Angoy,29,Goalkeeper,Barcelona B,-,in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Iván de la Peña,19,Attacking Midfield,Barcelona B,-,in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Pablo Sanz,21,Defensive Midfield,Gimnàstic,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Óscar García,22,Attacking Midfield,Albacete,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Goran Vucevic,24,Central Midfield,Hajduk Split,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Lluís Carreras,22,Left-Back,Racing,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+FC Barcelona,Hristo Stoichkov,29,Left Winger,AC Parma,€11.00m,out,Summer,11,Primera Division,1995,1995/1996
+FC Barcelona,Txiki Begiristain,30,Left Winger,Dep. La Coruña,€2.50m,out,Summer,2.5,Primera Division,1995,1995/1996
+FC Barcelona,Ronald Koeman,32,Sweeper,Feyenoord,€2.00m,out,Summer,2,Primera Division,1995,1995/1996
+FC Barcelona,Xabier Eskurza,25,Central Midfield,Valencia,€2.00m,out,Summer,2,Primera Division,1995,1995/1996
+FC Barcelona,José Mari,24,Attacking Midfield,Real Betis,€1.00m,out,Summer,1,Primera Division,1995,1995/1996
+FC Barcelona,Xavier Escaich,26,Centre-Forward,Albacete,€700Th.,out,Summer,0.7,Primera Division,1995,1995/1996
+FC Barcelona,Iván Iglesias,23,Central Midfield,Sporting Gijón,€500Th.,out,Summer,0.5,Primera Division,1995,1995/1996
+FC Barcelona,Eusebio,31,Defensive Midfield,Celta de Vigo,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+FC Barcelona,Igor Korneev,27,Right Winger,Heerenveen,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+FC Barcelona,Javi Sánchez Jara,25,Right-Back,Real Betis,?,out,Summer,NA,Primera Division,1995,1995/1996
+FC Barcelona,Goran Vucevic,24,Central Midfield,CP Mérida,loan transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Real Zaragoza,Gustavo López,22,Left Winger,Independiente,€2.52m,in,Summer,2.52,Primera Division,1995,1995/1996
+Real Zaragoza,Dani García,20,Centre-Forward,Real Madrid,€1.50m,in,Summer,1.5,Primera Division,1995,1995/1996
+Real Zaragoza,Paqui,24,Left-Back,CD Tenerife,€300Th.,in,Summer,0.3,Primera Division,1995,1995/1996
+Real Zaragoza,Fernando Morientes,19,Centre-Forward,Albacete,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Real Zaragoza,Juan Esnáider,22,Centre-Forward,Real Madrid,€3.60m,out,Summer,3.6,Primera Division,1995,1995/1996
+Real Zaragoza,Cafú,25,Right-Back,Juventude,€2.00m,out,Summer,2,Primera Division,1995,1995/1996
+Real Zaragoza,Darío Franco,26,Defensive Midfield,Atlas,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Zaragoza,Íñigo Lizarralde,28,Right Midfield,UE Lleida,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Zaragoza,Sergi López,27,Left-Back,CF Gavà,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Zaragoza,José Luis Loreto,24,Centre-Forward,CD Logroñés,loan transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Real Betis Balompié,Alfonso,22,Centre-Forward,Real Madrid,€3.60m,in,Summer,3.6,Primera Division,1995,1995/1996
+Real Betis Balompié,Pier,23,Centre-Forward,Sporting Gijón,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Real Betis Balompié,Robert Jarni,26,Left-Back,Juventus,€1.44m,in,Summer,1.44,Primera Division,1995,1995/1996
+Real Betis Balompié,José Mari,24,Attacking Midfield,Barcelona,€1.00m,in,Summer,1,Primera Division,1995,1995/1996
+Real Betis Balompié,Óscar Arpón,20,Central Midfield,Barcelona B,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Betis Balompié,Javi Sánchez Jara,25,Right-Back,Barcelona,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Betis Balompié,Juan Luis Redondo,18,Right-Back,Betis B,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Betis Balompié,Ángel Cuéllar,22,Left Winger,Barcelona,€3.00m,out,Summer,3,Primera Division,1995,1995/1996
+Real Betis Balompié,Andrey Kobelev,26,Central Midfield,Dinamo Moscow,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Betis Balompié,Velli Kasumov,26,Centre-Forward,Albacete,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Betis Balompié,Rafael Gordillo,38,Left-Back,Écija Balompié,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Betis Balompié,Toro Aquino,30,attack,Rayo Vallecano,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Juan Manuel Peña,22,Centre-Back,Indep. Santa Fe,€900Th.,in,Summer,0.9,Primera Division,1995,1995/1996
+Real Valladolid CF,Alen Peternac,23,Centre-Forward,Croatia Zagreb,€240Th.,in,Summer,0.24,Primera Division,1995,1995/1996
+Real Valladolid CF,Goyo Fonseca,29,attack,Albacete,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Juan Carlos,30,Left-Back,Valencia,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Marco Sandy,23,Centre-Back,Bolívar,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,José Mosquera,28,midfield,CP Mérida,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Álvaro Gutiérrez,26,Defensive Midfield,Nacional,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,José Luis Soto,22,attack,CD Numancia,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Mikel Antía,22,Centre-Back,Celta de Vigo,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Alberto Marcos,21,Left-Back,Real Madrid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Fernando,23,Left Midfield,Real Madrid C,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Sejad Halilovic,26,Central Midfield,Croatia Zagreb,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Diego,26,Goalkeeper,Atlético Madrid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,José Luis Santamaría,22,Centre-Back,Real Madrid B,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Raúl Ibáñez,22,Right Winger,Valencia B,?,in,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Aljosa Asanovic,29,Central Midfield,Hajduk Split,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Real Valladolid CF,Pedro Fernando Arquero,21,attack,Levante,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Real Valladolid CF,Javi Gracia,25,Defensive Midfield,Real Sociedad,€480Th.,out,Summer,0.48,Primera Division,1995,1995/1996
+Real Valladolid CF,Víctor Javier Ferreras,22,Right-Back,Sevilla FC,€75Th.,out,Summer,0.075,Primera Division,1995,1995/1996
+Real Valladolid CF,Manuel Carou,26,Goalkeeper,Carabanchel,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Miguelo,26,midfield,Málaga CF,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Albert Albesa,30,Centre-Back,Alavés,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,José González,30,Goalkeeper,Atl. Marbella,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Santi Cuesta,23,Left-Back,CD Toledo,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Luis Miguel Martín,25,Centre-Back,CD Castellón,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Manuel Chumilla,26,midfield,Xerez CD,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Nilson,29,Attacking Midfield,Palmeiras,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Iñaki Hurtado,23,midfield,Valencia,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Marco Sandy,23,Centre-Back,Bolívar,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Miodrag Belodedici,31,Sweeper,Villarreal,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Jan Urban,33,Attacking Midfield,CD Toledo,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Alberto,28,Centre-Forward,Racing,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Pablo Gómez,25,Central Midfield,Alavés,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Chuchi Macón,21,Attacking Midfield,R. Valladolid B,-,out,Summer,0,Primera Division,1995,1995/1996
+Real Valladolid CF,Pedro Riesco,25,attack,Dep. La Coruña,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Real Valladolid CF,Iván Rocha,27,Left-Back,Atlético Madrid,"End of loanJul 1, 1996",out,Summer,0,Primera Division,1995,1995/1996
+Rayo Vallecano,Guilherme Alves,21,Centre-Forward,São Paulo,€1.20m,in,Summer,1.2,Primera Division,1995,1995/1996
+Rayo Vallecano,Abel Resino,35,Goalkeeper,Atlético Madrid,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Martín González,31,Defensive Midfield,CA Osasuna,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Stjepan Andrijasevic,28,Right Midfield,Hajduk Split,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Manuel Ruano,20,Right Midfield,Atlético Madrid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Toro Aquino,30,attack,Real Betis,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Alfonso Cortijo,28,defence,Sevilla FC,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Ezequiel Castillo,28,Central Midfield,CD Tenerife,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Edu,21,attack,Unknown,?,in,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,José González,28,attack,Málaga CF,?,out,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Josip Visnjic,28,Defensive Midfield,Hércules CF,?,out,Summer,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Abel Resino,36,Goalkeeper,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+Sevilla FC,Emilio Peixe,22,Defensive Midfield,Sporting CP,€1.20m,in,Summer,1.2,Primera Division,1995,1995/1996
+Sevilla FC,Tarik Oulida,21,Left Midfield,Ajax,€1.08m,in,Summer,1.08,Primera Division,1995,1995/1996
+Sevilla FC,Víctor Javier Ferreras,22,Right-Back,Real Valladolid,€75Th.,in,Summer,0.075,Primera Division,1995,1995/1996
+Sevilla FC,Pepelu,21,midfield,Sevilla B,-,in,Summer,0,Primera Division,1995,1995/1996
+Sevilla FC,Carlitos,18,Centre-Forward,Sevilla FC U19,-,in,Summer,0,Primera Division,1995,1995/1996
+Sevilla FC,Arturo,21,defence,Sevilla B,-,in,Summer,0,Primera Division,1995,1995/1996
+Sevilla FC,Miquel Soler,30,Left-Back,Real Madrid,free transfer,out,Summer,NA,Primera Division,1995,1995/1996
+Sevilla FC,Ricardo Bango,26,midfield,Sporting Gijón,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sevilla FC,David Linde,26,attack,UE Tarrega,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sevilla FC,Alfonso Cortijo,28,defence,Rayo Vallecano,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sevilla FC,Pedro del Campo,27,Centre-Back,Elche CF,?,out,Summer,NA,Primera Division,1995,1995/1996
+Sevilla FC,Ilie Dumitrescu,26,Left Winger,Spurs,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Real Madrid,Dejan Petkovic,22,Attacking Midfield,Red Star,€6.50m,in,Summer,6.5,Primera Division,1995,1995/1996
+Real Madrid,Juan Esnáider,22,Centre-Forward,Real Zaragoza,€3.60m,in,Summer,3.6,Primera Division,1995,1995/1996
+Real Madrid,Freddy Rincón,28,Central Midfield,Napoli,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Real Madrid,Miquel Soler,30,Left-Back,Sevilla FC,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+Real Madrid,Víctor Sánchez,19,Right Winger,Real Madrid B,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Madrid,Álvaro Benito,18,Left Midfield,Real Madrid C,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Madrid,Fernando Sanz,21,Centre-Back,Real Madrid B,-,in,Summer,0,Primera Division,1995,1995/1996
+Real Madrid,Alfonso,22,Centre-Forward,Real Betis,€3.60m,out,Summer,3.6,Primera Division,1995,1995/1996
+Real Madrid,Dani García,20,Centre-Forward,Real Zaragoza,€1.50m,out,Summer,1.5,Primera Division,1995,1995/1996
+Real Madrid,Peter Dubovsky,23,Second Striker,Real Oviedo,€900Th.,out,Summer,0.9,Primera Division,1995,1995/1996
+Real Madrid,Alberto Marcos,21,Left-Back,Real Valladolid,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Madrid,Emilio Butragueño,32,Centre-Forward,Atlético Celaya,?,out,Summer,NA,Primera Division,1995,1995/1996
+Real Madrid,Rafael Martín Vázquez,29,Attacking Midfield,Dep. La Coruña,?,out,Summer,NA,Primera Division,1995,1995/1996
+Athletic Bilbao,Joseba Etxeberria,17,Right Winger,Real Sociedad,€3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Athletic Bilbao,Txutxi,22,Centre-Back,Bilbao Athletic,-,in,Summer,0,Primera Division,1995,1995/1996
+Athletic Bilbao,Bolo,21,Centre-Forward,Bilbao Athletic,-,in,Summer,0,Primera Division,1995,1995/1996
+Athletic Bilbao,José Manuel Galdames,24,Centre-Back,SD Compostela,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Athletic Bilbao,Carlos García,24,Defensive Midfield,CA Osasuna,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Athletic Bilbao,Kike Burgos,24,Goalkeeper,RCD Mallorca,?,out,Summer,NA,Primera Division,1995,1995/1996
+Athletic Bilbao,Gontzal Suances,22,attack,Racing,?,out,Summer,NA,Primera Division,1995,1995/1996
+Athletic Bilbao,Javi Luke,27,midfield,UD Almería,?,out,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Ilshat Faizulin,22,Centre-Forward,CSKA Moscow,€840Th.,in,Summer,0.84,Primera Division,1995,1995/1996
+Racing Santander,Pablo Sierra,16,attack,Cult. Guarnizo,?,in,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Gontzal Suances,22,attack,Athletic,?,in,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Alberto,28,Centre-Forward,Real Valladolid,?,in,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Txema,24,Centre-Back,UE Lleida,?,in,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,José Manuel Ochotorena,34,Goalkeeper,CD Logroñés,?,in,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Álvaro Cervera,29,attack,Valencia,?,in,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Alfredo Grelak,24,defence,Gimnàstic,"End of loanJun 30, 1995",in,Summer,0,Primera Division,1995,1995/1996
+Racing Santander,Dmitri Radchenko,24,Centre-Forward,Dep. La Coruña,€2.28m,out,Summer,2.28,Primera Division,1995,1995/1996
+Racing Santander,Quique Setién,36,Central Midfield,Levante,?,out,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Alfredo Grelak,24,defence,Union Española,?,out,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Chili,27,attack,UD Las Palmas,?,out,Summer,NA,Primera Division,1995,1995/1996
+Racing Santander,Lluís Carreras,22,Left-Back,Barcelona,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Racing Santander,Thomas Christiansen,22,Centre-Forward,Barcelona B,"End of loanJun 30, 1995",out,Summer,0,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Manolo,30,Centre-Forward,Atlético Madrid,free transfer,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Manuel Canabal,20,Centre-Forward,Pontevedra,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Miguel Ángel Meneses,19,attack,Unknown,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),César Mendiondo,29,Right-Back,Espanyol,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Alfonso Dulanto,25,Centre-Back,Universitario,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),David Pirri,21,Left Midfield,Barcelona B,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),José Sinval,28,attack,Servette FC,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Lluís González,26,Centre-Forward,Espanyol,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Ángel Luis,25,Right Midfield,RCD Mallorca,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Sergiy Pogodin,27,Attacking Midfield,CSKA Moscow,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Nikolay Pisarev,26,Centre-Forward,Spartak Moscow,?,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Quique Martín,22,Left Winger,Barcelona B,loan transfer,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Goran Vucevic,24,Central Midfield,Barcelona,loan transfer,in,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Predrag Juric,33,attack,Hrv Dragovoljac,?,out,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Edu Vélez,27,attack,Atl. Marbella,?,out,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Ovidiu Lucian Cuc,22,Centre-Forward,Atl. Marbella,?,out,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),José Mosquera,28,midfield,Real Valladolid,?,out,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Manuel Canabal,20,Centre-Forward,CD Leganés,loan transfer,out,Summer,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Pepe Salguero,35,Centre-Back,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Dmitri Galyamin,32,Right-Back,Retired,-,out,Summer,0,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Miguel Ángel Benítez,25,Centre-Forward,Atlético Madrid,"End of loanJun 1, 1995",out,Summer,0,Primera Division,1995,1995/1996
+Real Sociedad,Yoni Cuyami,23,attack,UE Figueres,?,out,Winter,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Miguel Ángel Guerrero,28,Second Striker,Bari,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Sergio Korino,21,Centre-Back,Bilbao Athletic,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Manuel Canabal,21,Centre-Forward,CD Leganés,"End of loanJan 1, 1996",in,Winter,0,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Sergiy Pogodin,27,Attacking Midfield,Hapoel Tel Aviv,free transfer,out,Winter,NA,Primera Division,1995,1995/1996
+CP Mérida (- 2000),Crescencio Cuéllar,25,attack,CD Toledo,?,out,Winter,NA,Primera Division,1995,1995/1996
+SD Compostela,José Antonio Vilaseca Triviño,23,attack,Granada CF,?,out,Winter,NA,Primera Division,1995,1995/1996
+Real Oviedo,Viktor Onopko,26,Centre-Back,Spartak Moscow,?,in,Winter,NA,Primera Division,1995,1995/1996
+Real Oviedo,Nebojsa Scepanovic,28,midfield,Villarreal,loan transfer,out,Winter,NA,Primera Division,1995,1995/1996
+Sporting Gijón,Marcelino,24,Centre-Back,RCD Mallorca,?,out,Winter,NA,Primera Division,1995,1995/1996
+Albacete Balompié,José Ortega,23,defence,Níjar,?,in,Winter,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Javi Luke,27,midfield,UD Almería,?,in,Winter,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Alberto Monteagudo,21,Defensive Midfield,CE L’Hospitalet,?,out,Winter,NA,Primera Division,1995,1995/1996
+Albacete Balompié,Emilio Gutiérrez,24,midfield,Atl. Marbella,?,out,Winter,NA,Primera Division,1995,1995/1996
+UD Salamanca (- 2013),Diego Latorre,26,Second Striker,CD Tenerife,?,in,Winter,NA,Primera Division,1995,1995/1996
+Valencia CF,Iván Campo,21,Defensive Midfield,Alavés,?,in,Winter,NA,Primera Division,1995,1995/1996
+Valencia CF,Iván Campo,21,Defensive Midfield,Real Valladolid,loan transfer,out,Winter,NA,Primera Division,1995,1995/1996
+RCD Espanyol Barcelona,Nando,28,Centre-Back,Real Madrid,?,in,Winter,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Quinton Fortune,18,Central Midfield,RCD Mallorca,free transfer,in,Winter,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,Dani,23,Right-Back,RCD Mallorca,?,in,Winter,NA,Primera Division,1995,1995/1996
+Atlético de Madrid,José Soler,28,midfield,Atl. Marbella,"End of loanJan 1, 1996",in,Winter,0,Primera Division,1995,1995/1996
+Atlético de Madrid,Iván Rocha,26,Left-Back,Real Valladolid,loan transfer,out,Winter,NA,Primera Division,1995,1995/1996
+CD Tenerife,Francisco Rojas,21,Left-Back,Colo Colo,?,out,Winter,NA,Primera Division,1995,1995/1996
+CD Tenerife,Diego Latorre,26,Second Striker,UD Salamanca,?,out,Winter,NA,Primera Division,1995,1995/1996
+CD Tenerife,Víctor Fernández,21,Centre-Forward,CD Toledo,loan transfer,out,Winter,NA,Primera Division,1995,1995/1996
+Real Madrid,García Calvo,20,Centre-Back,Real Madrid B,-,in,Winter,0,Primera Division,1995,1995/1996
+Real Madrid,Antonio Gómez,22,midfield,Real Madrid B,-,in,Winter,0,Primera Division,1995,1995/1996
+Real Madrid,Dejan Petkovic,23,Attacking Midfield,Sevilla FC,loan transfer,out,Winter,NA,Primera Division,1995,1995/1996
+Real Madrid,Nando,28,Centre-Back,Espanyol,?,out,Winter,NA,Primera Division,1995,1995/1996
+Sevilla FC,Dejan Petkovic,23,Attacking Midfield,Real Madrid,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+Sevilla FC,Josko Jelicic,24,midfield,Croatia Zagreb,?,in,Winter,NA,Primera Division,1995,1995/1996
+Sevilla FC,Agostinho,20,Left Winger,Real Madrid C,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+Sevilla FC,Emilio Peixe,22,Defensive Midfield,Sporting CP,€1.50m,out,Winter,1.5,Primera Division,1995,1995/1996
+Sevilla FC,Salva Ballesta,20,Centre-Forward,Écija Balompié,free transfer,out,Winter,NA,Primera Division,1995,1995/1996
+Rayo Vallecano,Manuel Ruano,21,Right Midfield,Real Valladolid,?,out,Winter,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Carlos Pavón,22,Centre-Forward,Real San Luis,free transfer,in,Winter,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Manuel Ruano,21,Right Midfield,Rayo Vallecano,?,in,Winter,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Iván Rocha,26,Left-Back,Atlético Madrid,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+Real Valladolid CF,Iván Campo,21,Defensive Midfield,Valencia,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+Real Zaragoza,Sergio Berti,26,Left Midfield,River Plate,€1.20m,in,Winter,1.2,Primera Division,1995,1995/1996
+Real Zaragoza,Sebastián Rambert,21,Centre-Forward,Inter,loan transfer,in,Winter,NA,Primera Division,1995,1995/1996
+FC Barcelona,Toni Velamazán,18,Right Midfield,Barcelona B,-,in,Winter,0,Primera Division,1995,1995/1996
