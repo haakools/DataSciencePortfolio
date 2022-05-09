@@ -1,0 +1,320 @@
+,Player,Signed,WeeklyGrossEuro,AnnualGrossEuro,TotalGrossEuro,ExpDate,Length,Club,season,ExpDateYear,League
+0,Juan Cuadrado,"Apr 15, 2022",124615.0,6480000.0,12960000.0,"Jun 30, 2023",2.0,Juventus,2021-2022,2023.0,serie-a
+1,Mattia Perin,"Apr 14, 2022",53462.0,2780000.0,11120000.0,"Jun 30, 2025",4.0,Juventus,2021-2022,2025.0,serie-a
+2,Gianluca Scamacca,"Apr 13, 2022",28462.0,1480000.0,7400000.0,"Jun 30, 2026",5.0,Sassuolo,2021-2022,2026.0,serie-a
+3,Giorgio Altare,"Mar 23, 2022",5385.0,280000.0,1400000.0,"Jun 30, 2026",5.0,Cagliari,2021-2022,2026.0,serie-a
+4,Marcelo Brozovic,"Mar 23, 2022",213654.0,11110000.0,55550000.0,"Jun 30, 2026",5.0,Inter Milan,2021-2022,2026.0,serie-a
+5,Berat Djimsiti,"Mar 21, 2022",28462.0,1480000.0,7400000.0,"Jun 30, 2026",5.0,Atalanta,2021-2022,2026.0,serie-a
+6,Theo Hernández,"Feb 11, 2022",98654.0,5130000.0,25650000.0,"Jun 30, 2026",5.0,AC Milan,2021-2022,2026.0,serie-a
+7,Matteo Gabbia,"Feb 3, 2022",28462.0,1480000.0,7400000.0,"Jun 30, 2026",5.0,AC Milan,2021-2022,2026.0,serie-a
+8,Simone Aresti,"Feb 3, 2022",5385.0,280000.0,560000.0,"Jun 30, 2023",2.0,Cagliari,2021-2022,2023.0,serie-a
+9,Bremer,"Feb 2, 2022",64038.0,3330000.0,9990000.0,"Jun 30, 2024",3.0,Torino,2021-2022,2024.0,serie-a
+10,Stanislav Lobotka,"Jan 31, 2022",49231.0,2560000.0,10240000.0,"Jun 30, 2025",4.0,Napoli,2021-2022,2025.0,serie-a
+11,Dusan Vlahovic,"Jan 28, 2022",249231.0,12960000.0,64800000.0,"Jun 30, 2026",5.0,Juventus,2021-2022,2026.0,serie-a
+12,Robin Gosens,"Jan 27, 2022",89038.0,4630000.0,9260000.0,"Jun 30, 2023",2.0,Atalanta,2021-2022,2023.0,serie-a
+13,Ben Lhassine Kone,"Jan 26, 2022",0.0,0.0,0.0,"Jun 30, 2022",1.0,Torino,2021-2022,2022.0,serie-a
+14,Daniele Verde,"Jan 21, 2022",14231.0,740000.0,2960000.0,"Jun 30, 2025",4.0,Spezia,2021-2022,2025.0,serie-a
+15,Niccolò Pietra,"Jan 21, 2022",0.0,0.0,0.0,"Jun 30, 2025",4.0,Spezia,2021-2022,2025.0,serie-a
+16,Martín Satriano,"Jan 16, 2022",0.0,0.0,0.0,"Jun 30, 2022",1.0,Inter Milan,2021-2022,2022.0,serie-a
+17,Ebrima Darboe,"Dec 29, 2021",15962.0,830000.0,4150000.0,"Jun 30, 2026",5.0,Roma,2021-2022,2026.0,serie-a
+18,Edoardo Bove,"Dec 29, 2021",0.0,0.0,0.0,"Jun 30, 2025",4.0,Roma,2021-2022,2025.0,serie-a
+19,Nicola Zalewski,"Dec 29, 2021",10769.0,560000.0,2240000.0,"Jun 30, 2025",4.0,Roma,2021-2022,2025.0,serie-a
+20,Luca Gemello,"Dec 27, 2021",0.0,0.0,0.0,"Jun 30, 2023",2.0,Torino,2021-2022,2023.0,serie-a
+21,Federico Dimarco,"Dec 23, 2021",40962.0,2130000.0,10650000.0,"Jun 30, 2026",5.0,Inter Milan,2021-2022,2026.0,serie-a
+22,Antonio Junior Vacca,"Dec 17, 2021",5385.0,280000.0,560000.0,"Jun 30, 2023",2.0,Venezia,2021-2022,2023.0,serie-a
+23,Nicola Ravaglia,"Nov 25, 2021",3654.0,190000.0,570000.0,"Jun 30, 2024",3.0,Sampdoria,2021-2022,2024.0,serie-a
+24,Nicolò Barella,"Nov 5, 2021",178077.0,9260000.0,46300000.0,"Jun 30, 2026",5.0,Inter Milan,2021-2022,2026.0,serie-a
+25,Alessandro Buongiorno,"Nov 5, 2021",7885.0,410000.0,1640000.0,"Jun 30, 2025",4.0,Torino,2021-2022,2025.0,serie-a
+26,Andrea Consigli,"Nov 3, 2021",35577.0,1850000.0,5550000.0,"Jun 30, 2024",3.0,Sassuolo,2021-2022,2024.0,serie-a
+27,Domen Crnigoj,"Nov 3, 2021",5192.0,270000.0,1080000.0,"Jun 30, 2025",4.0,Venezia,2021-2022,2025.0,serie-a
+28,Pietro Ceccaroni,"Oct 29, 2021",10769.0,560000.0,2800000.0,"Jun 30, 2026",5.0,Venezia,2021-2022,2026.0,serie-a
+29,Lautaro Martínez,"Oct 28, 2021",213654.0,11110000.0,55550000.0,"Jun 30, 2026",5.0,Inter Milan,2021-2022,2026.0,serie-a
+30,Simon Kjaer,"Oct 27, 2021",36923.0,1920000.0,5760000.0,"Jun 30, 2024",3.0,AC Milan,2021-2022,2024.0,serie-a
+31,Dennis Johnsen,"Oct 21, 2021",8077.0,420000.0,1680000.0,"Jun 30, 2025",4.0,Venezia,2021-2022,2025.0,serie-a
+32,Alexis Saelemaekers,"Oct 15, 2021",24615.0,1280000.0,6400000.0,"Jun 30, 2026",5.0,AC Milan,2021-2022,2026.0,serie-a
+33,Riccardo Sottil,"Oct 13, 2021",21346.0,1110000.0,5550000.0,"Jun 30, 2026",5.0,Fiorentina,2021-2022,2026.0,serie-a
+34,Simone Trimboli,"Oct 8, 2021",0.0,0.0,0.0,"Jun 30, 2024",3.0,Sampdoria,2021-2022,2024.0,serie-a
+35,Lorenzo Pellegrini,"Oct 2, 2021",142500.0,7410000.0,37050000.0,"Jun 30, 2026",5.0,Roma,2021-2022,2026.0,serie-a
+36,Simone Bastoni,"Aug 30, 2021",3654.0,190000.0,760000.0,"Jun 30, 2025",4.0,Spezia,2021-2022,2025.0,serie-a
+37,Alessandro Deiola,"Aug 24, 2021",10769.0,560000.0,1680000.0,"Jun 30, 2024",3.0,Cagliari,2021-2022,2024.0,serie-a
+38,Nikola Milenkovic,"Aug 19, 2021",89038.0,4630000.0,9260000.0,"Jun 30, 2023",2.0,Fiorentina,2021-2022,2023.0,serie-a
+39,Stefan Radu,"Aug 19, 2021",42692.0,2220000.0,2220000.0,"Jun 30, 2022",1.0,Lazio,2021-2022,2022.0,serie-a
+40,Manuel Locatelli,"Aug 18, 2021",106923.0,5560000.0,11120000.0,"Jun 30, 2023",2.0,Sassuolo,2021-2022,2023.0,serie-a
+41,Luca Fiordilino,"Aug 18, 2021",4231.0,220000.0,880000.0,"Jun 30, 2025",4.0,Venezia,2021-2022,2025.0,serie-a
+42,Goran Pandev,"Aug 13, 2021",17885.0,930000.0,930000.0,"Jun 30, 2022",1.0,Genoa,2021-2022,2022.0,serie-a
+43,Nahuel Molina,"Aug 11, 2021",7308.0,380000.0,1900000.0,"Jun 30, 2026",5.0,Udinese,2021-2022,2026.0,serie-a
+44,Giorgio Chiellini,"Aug 2, 2021",106923.0,5560000.0,11120000.0,"Jun 30, 2023",2.0,Juventus,2021-2022,2023.0,serie-a
+45,Mamadou Coulibaly,"Jul 26, 2021",15000.0,780000.0,780000.0,"Jun 30, 2022",1.0,Salernitana,2021-2022,2022.0,serie-a
+46,Michael Svoboda,"Jul 26, 2021",2500.0,130000.0,390000.0,"Jun 30, 2024",3.0,Venezia,2021-2022,2024.0,serie-a
+47,Szymon Zurkowski,"Jul 23, 2021",17885.0,930000.0,930000.0,"Jun 30, 2022",1.0,Empoli,2021-2022,2022.0,serie-a
+48,Giovanni Di Lorenzo,"Jul 15, 2021",81923.0,4260000.0,21300000.0,"Jun 30, 2026",5.0,Napoli,2021-2022,2026.0,serie-a
+49,Federico Marchetti,"Jul 12, 2021",14231.0,740000.0,740000.0,"Jun 30, 2022",1.0,Genoa,2021-2022,2022.0,serie-a
+50,Davide Calabria,"Jul 9, 2021",71154.0,3700000.0,14800000.0,"Jun 30, 2025",4.0,AC Milan,2021-2022,2025.0,serie-a
+51,Giorgio Scalvini,"Jul 9, 2021",0.0,0.0,0.0,"Jun 30, 2023",2.0,Atalanta,2021-2022,2023.0,serie-a
+52,Matteo Ruggeri,"Jul 9, 2021",0.0,0.0,0.0,"Jun 30, 2022",1.0,Atalanta,2021-2022,2022.0,serie-a
+53,Cristian Molinaro,"Jul 9, 2021",9615.0,500000.0,1500000.0,"Jun 30, 2024",3.0,Venezia,2021-2022,2024.0,serie-a
+54,Aleksandar Kolarov,"Jul 6, 2021",53462.0,2780000.0,2780000.0,"Jun 30, 2022",1.0,Inter Milan,2021-2022,2022.0,serie-a
+55,Adam Obert,"Jul 1, 2021",0.0,0.0,0.0,"Jun 30, 2024",3.0,Cagliari,2021-2022,2024.0,serie-a
+0,Carlo Pinsoglio,"Jun 30, 2021",10769.0,560000.0,1680000.0,"Jun 30, 2023",3.0,Juventus,2020-2021,2023.0,serie-a
+1,Ciro Immobile,"Jun 30, 2021",142500.0,7410000.0,44460000.0,"Jun 30, 2026",6.0,Lazio,2020-2021,2026.0,serie-a
+2,Francesco Acerbi,"Jun 30, 2021",89038.0,4630000.0,23150000.0,"Jun 30, 2025",5.0,Lazio,2020-2021,2025.0,serie-a
+3,Federico Peluso,"Jun 30, 2021",21346.0,1110000.0,2220000.0,"Jun 30, 2022",2.0,Sassuolo,2020-2021,2022.0,serie-a
+4,Francesco Magnanelli,"Jun 30, 2021",25000.0,1300000.0,2600000.0,"Jun 30, 2022",2.0,Sassuolo,2020-2021,2022.0,serie-a
+5,Gianluca Pegolo,"Jun 30, 2021",17885.0,930000.0,1860000.0,"Jun 30, 2022",2.0,Sassuolo,2020-2021,2022.0,serie-a
+6,Cristian Ansaldi,"Jun 30, 2021",35577.0,1850000.0,3700000.0,"Jun 30, 2022",2.0,Torino,2020-2021,2022.0,serie-a
+7,Ignacio Pussetto,"Jun 30, 2021",17885.0,930000.0,1860000.0,"Jun 30, 2022",2.0,Udinese,2020-2021,2022.0,serie-a
+8,Brian Oddei,"Jun 29, 2021",3654.0,190000.0,760000.0,"Jun 30, 2024",4.0,Sassuolo,2020-2021,2024.0,serie-a
+9,Andrea Ranocchia,"Jun 28, 2021",64038.0,3330000.0,6660000.0,"Jun 30, 2022",2.0,Inter Milan,2020-2021,2022.0,serie-a
+10,Danilo D'Ambrosio,"Jun 28, 2021",71154.0,3700000.0,7400000.0,"Jun 30, 2022",2.0,Inter Milan,2020-2021,2022.0,serie-a
+11,Juan Brunetta,"Jun 23, 2021",12308.0,640000.0,1280000.0,"Jun 30, 2022",2.0,Parma,2020-2021,2022.0,serie-a
+12,Álvaro Morata,"Jun 15, 2021",123269.0,6410000.0,12820000.0,"Jun 30, 2022",2.0,Juventus,2020-2021,2022.0,serie-a
+13,Vanja Milinković-Savić,"Jun 15, 2021",14231.0,740000.0,2960000.0,"Jun 30, 2024",4.0,Torino,2020-2021,2024.0,serie-a
+14,Miguel Veloso,"Jun 10, 2021",17885.0,930000.0,1860000.0,"Jun 30, 2022",2.0,Hellas Verona,2020-2021,2022.0,serie-a
+15,Henrikh Mkhitaryan,"Jun 1, 2021",86346.0,4490000.0,8980000.0,"Jun 30, 2022",2.0,Roma,2020-2021,2022.0,serie-a
+16,Fabio Quagliarella,"Jun 1, 2021",42692.0,2220000.0,4440000.0,"Jun 30, 2022",2.0,Sampdoria,2020-2021,2022.0,serie-a
+17,Darko Lazovic,"May 28, 2021",21346.0,1110000.0,4440000.0,"Jun 30, 2024",4.0,Hellas Verona,2020-2021,2024.0,serie-a
+18,Pawel Dawidowicz,"May 28, 2021",7308.0,380000.0,1900000.0,"Jun 30, 2025",5.0,Hellas Verona,2020-2021,2025.0,serie-a
+19,Alessandro Bastoni,"May 28, 2021",99615.0,5180000.0,20720000.0,"Jun 30, 2024",4.0,Inter Milan,2020-2021,2024.0,serie-a
+20,Francesco Caputo,"May 24, 2021",28462.0,1480000.0,4440000.0,"Jun 30, 2023",3.0,Sassuolo,2020-2021,2023.0,serie-a
+21,Botond Balogh,"May 5, 2021",769.0,40000.0,200000.0,"Jun 30, 2025",5.0,Parma,2020-2021,2025.0,serie-a
+22,Daan Dierckx,"May 5, 2021",769.0,40000.0,200000.0,"Jun 30, 2025",5.0,Parma,2020-2021,2025.0,serie-a
+23,Riccardo Ladinetti,"Apr 27, 2021",0.0,0.0,0.0,"Jun 30, 2021",1.0,Cagliari,2020-2021,2021.0,serie-a
+24,Zlatan Ibrahimovic,"Apr 22, 2021",172500.0,8970000.0,17940000.0,"Jun 30, 2022",2.0,AC Milan,2020-2021,2022.0,serie-a
+25,Andrea Carboni,"Apr 14, 2021",11731.0,610000.0,3050000.0,"Jun 30, 2025",5.0,Cagliari,2020-2021,2025.0,serie-a
+26,Maxime López,"Apr 12, 2021",14808.0,770000.0,3850000.0,"Jun 30, 2025",5.0,Sassuolo,2020-2021,2025.0,serie-a
+27,Radu Drăgușin,"Apr 9, 2021",18269.0,950000.0,4750000.0,"Jun 30, 2025",5.0,Juventus,2020-2021,2025.0,serie-a
+28,Mattia Destro,"Apr 3, 2021",19615.0,1020000.0,2040000.0,"Jun 30, 2022",2.0,Genoa,2020-2021,2022.0,serie-a
+29,Manolo Gabbiadini,"Mar 23, 2021",27115.0,1410000.0,8460000.0,"Jun 30, 2026",6.0,Sampdoria,2020-2021,2026.0,serie-a
+30,Alex Ferrari,"Mar 18, 2021",14231.0,740000.0,3700000.0,"Jun 30, 2025",5.0,Sampdoria,2020-2021,2025.0,serie-a
+31,Emil Audero,"Mar 16, 2021",28462.0,1480000.0,8880000.0,"Jun 30, 2026",6.0,Sampdoria,2020-2021,2026.0,serie-a
+32,Rick Karsdorp,"Mar 12, 2021",78269.0,4070000.0,20350000.0,"Jun 30, 2025",5.0,Roma,2020-2021,2025.0,serie-a
+33,Valerio Verre,"Mar 11, 2021",25000.0,1300000.0,6500000.0,"Jun 30, 2025",5.0,Sampdoria,2020-2021,2025.0,serie-a
+34,Roger Ibañez,"Mar 4, 2021",36923.0,1920000.0,9600000.0,"Jun 30, 2025",5.0,Roma,2020-2021,2025.0,serie-a
+35,Jacopo Segre,"Feb 1, 2021",7885.0,410000.0,410000.0,"Jun 30, 2021",1.0,Torino,2020-2021,2021.0,serie-a
+36,Samuel Di Carmine,"Jan 28, 2021",25000.0,1300000.0,1300000.0,"Jun 30, 2021",1.0,Hellas Verona,2020-2021,2021.0,serie-a
+37,Alex Cordaz,"Jan 26, 2021",5385.0,280000.0,560000.0,"Jun 30, 2022",2.0,Crotone,2020-2021,2022.0,serie-a
+38,Karim Laribi,"Jan 26, 2021",5769.0,300000.0,300000.0,"Jun 30, 2021",1.0,Hellas Verona,2020-2021,2021.0,serie-a
+39,Maya Yoshida,"Jan 18, 2021",24615.0,1280000.0,2560000.0,"Jun 30, 2022",2.0,Sampdoria,2020-2021,2022.0,serie-a
+40,Pietro Terracciano,"Jan 14, 2021",10769.0,560000.0,1680000.0,"Jun 30, 2023",3.0,Fiorentina,2020-2021,2023.0,serie-a
+41,Omar Colley,"Jan 13, 2021",33846.0,1760000.0,8800000.0,"Jun 30, 2025",5.0,Sampdoria,2020-2021,2025.0,serie-a
+42,Davide Masella,"Jan 1, 2021",769.0,40000.0,160000.0,"Jun 30, 2024",4.0,Benevento,2020-2021,2024.0,serie-a
+43,Tommaso Augello,"Dec 29, 2020",8846.0,460000.0,2300000.0,"Jun 30, 2025",5.0,Sampdoria,2020-2021,2025.0,serie-a
+44,Salvatore Molina,"Dec 26, 2020",7115.0,370000.0,1110000.0,"Jun 30, 2023",3.0,Crotone,2020-2021,2023.0,serie-a
+45,Riccardo Calafiori,"Dec 15, 2020",26731.0,1390000.0,6950000.0,"Jun 30, 2025",5.0,Roma,2020-2021,2025.0,serie-a
+46,Sebastian Walukiewicz,"Dec 4, 2020",7308.0,380000.0,1520000.0,"Jun 30, 2024",4.0,Cagliari,2020-2021,2024.0,serie-a
+47,Emmanuel Gyasi,"Dec 1, 2020",3654.0,190000.0,570000.0,"Jun 30, 2023",3.0,Spezia,2020-2021,2023.0,serie-a
+48,Alessandro Berardi,"Nov 27, 2020",5385.0,280000.0,840000.0,"Jun 30, 2023",3.0,Hellas Verona,2020-2021,2023.0,serie-a
+49,Alberto Cerri,"Nov 26, 2020",35577.0,1850000.0,7400000.0,"Jun 30, 2024",4.0,Cagliari,2020-2021,2024.0,serie-a
+50,Stefano Turati,"Nov 25, 2020",5385.0,280000.0,1400000.0,"Jun 30, 2025",5.0,Sassuolo,2020-2021,2025.0,serie-a
+51,Wilfried Stephane Singo,"Nov 24, 2020",5000.0,260000.0,780000.0,"Jun 30, 2023",3.0,Torino,2020-2021,2023.0,serie-a
+52,Junior Messias,"Nov 23, 2020",3846.0,200000.0,800000.0,"Jun 30, 2024",4.0,Crotone,2020-2021,2024.0,serie-a
+53,Giacomo Raspadori,"Nov 19, 2020",3654.0,190000.0,760000.0,"Jun 30, 2024",4.0,Sassuolo,2020-2021,2024.0,serie-a
+54,Bram Nuytinck,"Nov 13, 2020",21346.0,1110000.0,3330000.0,"Jun 30, 2023",3.0,Udinese,2020-2021,2023.0,serie-a
+55,Martin Erlic,"Nov 11, 2020",5385.0,280000.0,1120000.0,"Jun 30, 2024",4.0,Spezia,2020-2021,2024.0,serie-a
+56,Filippo Rinaldi,"Oct 29, 2020",2885.0,150000.0,450000.0,"Jun 30, 2023",3.0,Parma,2020-2021,2023.0,serie-a
+57,Cristiano Biraghi,"Oct 27, 2020",42692.0,2220000.0,8880000.0,"Jun 30, 2024",4.0,Fiorentina,2020-2021,2024.0,serie-a
+58,Davide Faraoni,"Oct 26, 2020",17885.0,930000.0,3720000.0,"Jun 30, 2024",4.0,Hellas Verona,2020-2021,2024.0,serie-a
+59,Alan Empereur,"Oct 21, 2020",14231.0,740000.0,1480000.0,"Jun 30, 2022",2.0,Hellas Verona,2020-2021,2022.0,serie-a
+60,Antonio Palumbo,"Oct 5, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Sampdoria,2020-2021,2021.0,serie-a
+61,Nicolò Casale,"Oct 3, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Hellas Verona,2020-2021,2021.0,serie-a
+62,Tomás Rincón,"Oct 3, 2020",49808.0,2590000.0,5180000.0,"Jun 30, 2022",2.0,Torino,2020-2021,2022.0,serie-a
+63,Luis Alberto,"Sep 28, 2020",89038.0,4630000.0,23150000.0,"Jun 30, 2025",5.0,Lazio,2020-2021,2025.0,serie-a
+64,Lucien Agoume,"Sep 23, 2020",8654.0,450000.0,450000.0,"Jun 30, 2021",1.0,Inter Milan,2020-2021,2021.0,serie-a
+65,Luca Palmiero,"Sep 23, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Napoli,2020-2021,2021.0,serie-a
+66,Edoardo Goldaniga,"Sep 16, 2020",17885.0,930000.0,930000.0,"Jun 30, 2021",1.0,Genoa,2020-2021,2021.0,serie-a
+67,Davide Frattesi,"Sep 16, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Sassuolo,2020-2021,2021.0,serie-a
+68,Daniele Padelli,"Sep 14, 2020",17885.0,930000.0,930000.0,"Jun 30, 2021",1.0,Inter Milan,2020-2021,2021.0,serie-a
+69,Flavio Bianchi,"Sep 11, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Genoa,2020-2021,2021.0,serie-a
+70,Riccardo Marchizza,"Sep 11, 2020",10769.0,560000.0,560000.0,"Jun 30, 2021",1.0,Sassuolo,2020-2021,2021.0,serie-a
+71,Christian Maggio,"Sep 9, 2020",25000.0,1300000.0,1300000.0,"Jun 30, 2021",1.0,Benevento,2020-2021,2021.0,serie-a
+72,Luca Gagliano,"Sep 9, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Cagliari,2020-2021,2021.0,serie-a
+73,Federico Dimarco,"Sep 9, 2020",17885.0,930000.0,930000.0,"Jun 30, 2021",1.0,Hellas Verona,2020-2021,2021.0,serie-a
+74,Samir Handanovic,"Sep 8, 2020",114038.0,5930000.0,11860000.0,"Jun 30, 2022",2.0,Inter Milan,2020-2021,2022.0,serie-a
+75,Mattia Perin,"Sep 4, 2020",28462.0,1480000.0,1480000.0,"Jun 30, 2021",1.0,Genoa,2020-2021,2021.0,serie-a
+76,Federico Bonazzoli,"Sep 3, 2020",35577.0,1850000.0,1850000.0,"Jun 30, 2021",1.0,Sampdoria,2020-2021,2021.0,serie-a
+77,Alessandro Buongiorno,"Sep 3, 2020",7115.0,370000.0,1480000.0,"Jun 30, 2024",4.0,Torino,2020-2021,2024.0,serie-a
+78,Andrea Poli,"Aug 31, 2020",39231.0,2040000.0,4080000.0,"Jun 30, 2022",2.0,Bologna,2020-2021,2022.0,serie-a
+79,Piotr Zielinski,"Aug 31, 2020",124615.0,6480000.0,25920000.0,"Jun 30, 2024",4.0,Napoli,2020-2021,2024.0,serie-a
+80,Francesco Rodio,"Aug 30, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Crotone,2020-2021,2021.0,serie-a
+81,Marco Festa,"Aug 30, 2020",3846.0,200000.0,400000.0,"Jun 30, 2022",2.0,Crotone,2020-2021,2022.0,serie-a
+82,Musa Juwara,"Aug 29, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Bologna,2020-2021,2021.0,serie-a
+83,Wladimiro Falcone,"Aug 29, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Sampdoria,2020-2021,2021.0,serie-a
+84,Roberto Biancu,"Aug 28, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Cagliari,2020-2021,2021.0,serie-a
+85,Tommaso Pobega,"Aug 24, 2020",10769.0,560000.0,560000.0,"Jun 30, 2021",1.0,AC Milan,2020-2021,2021.0,serie-a
+86,Ahmad Benali,"Aug 20, 2020",16346.0,850000.0,2550000.0,"Jun 30, 2023",3.0,Crotone,2020-2021,2023.0,serie-a
+87,Michele Di Gregorio,"Aug 18, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Inter Milan,2020-2021,2021.0,serie-a
+88,Eljif Elmas,"Aug 18, 2020",36923.0,1920000.0,9600000.0,"Jun 30, 2025",5.0,Napoli,2020-2021,2025.0,serie-a
+89,Giovanni Di Lorenzo,"Aug 18, 2020",81923.0,4260000.0,21300000.0,"Jun 30, 2025",5.0,Napoli,2020-2021,2025.0,serie-a
+90,Mário Rui,"Aug 18, 2020",74808.0,3890000.0,19450000.0,"Jun 30, 2025",5.0,Napoli,2020-2021,2025.0,serie-a
+91,Cristian Ansaldi,"Aug 18, 2020",35577.0,1850000.0,1850000.0,"Jun 30, 2021",1.0,Torino,2020-2021,2021.0,serie-a
+92,Samir Ujkani,"Aug 18, 2020",7308.0,380000.0,380000.0,"Jun 30, 2021",1.0,Torino,2020-2021,2021.0,serie-a
+93,Caleb Okoli,"Aug 8, 2020",0.0,0.0,0.0,"Jun 30, 2021",1.0,Atalanta,2020-2021,2021.0,serie-a
+94,Martin Palumbo,"Aug 7, 2020",1346.0,70000.0,350000.0,"Jun 30, 2025",5.0,Udinese,2020-2021,2025.0,serie-a
+95,Andri Fannar Baldursson,"Aug 4, 2020",5385.0,280000.0,1400000.0,"Jun 30, 2025",5.0,Bologna,2020-2021,2025.0,serie-a
+96,Federico Ravaglia,"Aug 4, 2020",1154.0,60000.0,180000.0,"Jun 30, 2023",3.0,Bologna,2020-2021,2023.0,serie-a
+97,Marco Silvestri,"Aug 3, 2020",17885.0,930000.0,1860000.0,"Jun 30, 2022",2.0,Hellas Verona,2020-2021,2022.0,serie-a
+98,Simon Kjaer,"Jul 15, 2020",29615.0,1540000.0,3080000.0,"Jun 30, 2022",2.0,AC Milan,2020-2021,2022.0,serie-a
+99,Ebrima Colley,"Jul 1, 2020",7115.0,370000.0,370000.0,"Jun 30, 2021",1.0,Atalanta,2020-2021,2021.0,serie-a
+0,Daniele Gastaldello,"Jun 30, 2020",10769.0,560000.0,560000.0,"Aug 31, 2020",1.0,Brescia,2019-2020,2020.0,serie-a
+1,Nicolò Armini,"Jun 30, 2020",192.0,10000.0,40000.0,"Jun 30, 2023",4.0,Lazio,2019-2020,2023.0,serie-a
+2,Miguel Veloso,"Jun 29, 2020",14231.0,740000.0,1480000.0,"Jun 30, 2021",2.0,Hellas Verona,2019-2020,2021.0,serie-a
+3,Gianluigi Buffon,"Jun 29, 2020",53462.0,2780000.0,5560000.0,"Jun 30, 2021",2.0,Juventus,2019-2020,2021.0,serie-a
+4,Giorgio Chiellini,"Jun 29, 2020",124615.0,6480000.0,12960000.0,"Jun 30, 2021",2.0,Juventus,2019-2020,2021.0,serie-a
+5,Jeremy Toljan,"Jun 29, 2020",17308.0,900000.0,1800000.0,"Jun 30, 2021",2.0,Sassuolo,2019-2020,2021.0,serie-a
+6,Angelo da Costa,"Jun 26, 2020",12500.0,650000.0,1300000.0,"Jun 30, 2021",2.0,Bologna,2019-2020,2021.0,serie-a
+7,Danilo,"Jun 26, 2020",19808.0,1030000.0,2060000.0,"Jun 30, 2021",2.0,Bologna,2019-2020,2021.0,serie-a
+8,Rodrigo Palacio,"Jun 26, 2020",35577.0,1850000.0,3700000.0,"Jun 30, 2021",2.0,Bologna,2019-2020,2021.0,serie-a
+9,Cristian Ansaldi,"Jun 26, 2020",49808.0,2590000.0,2590000.0,"Aug 31, 2020",1.0,Torino,2019-2020,2020.0,serie-a
+10,Lorenzo De Silvestri,"Jun 26, 2020",35577.0,1850000.0,1850000.0,"Aug 31, 2020",1.0,Torino,2019-2020,2020.0,serie-a
+11,Samir Ujkani,"Jun 26, 2020",6154.0,320000.0,320000.0,"Aug 31, 2020",1.0,Torino,2019-2020,2020.0,serie-a
+12,Dries Mertens,"Jun 17, 2020",160192.0,8330000.0,24990000.0,"Jun 30, 2022",3.0,Napoli,2019-2020,2022.0,serie-a
+13,Andrea Ghezzi,"Jun 16, 2020",0.0,0.0,0.0,"Jun 30, 2023",4.0,Brescia,2019-2020,2023.0,serie-a
+14,Ashley Young,"May 28, 2020",74038.0,3850000.0,7700000.0,"Jun 30, 2021",2.0,Inter Milan,2019-2020,2021.0,serie-a
+15,Lorenzo Pirola,"May 2, 2020",5769.0,300000.0,1800000.0,"Jun 30, 2025",6.0,Inter Milan,2019-2020,2025.0,serie-a
+16,Nunzio Lella,"Mar 25, 2020",0.0,0.0,0.0,"Jun 30, 2020",1.0,Cagliari,2019-2020,2020.0,serie-a
+17,Matteo Gabbia,"Feb 28, 2020",21346.0,1110000.0,5550000.0,"Jun 30, 2024",5.0,AC Milan,2019-2020,2024.0,serie-a
+18,Mauro Vigorito,"Feb 18, 2020",17808.0,926000.0,2778000.0,"Jun 30, 2022",3.0,Lecce,2019-2020,2022.0,serie-a
+19,Georgi Tunjov,"Feb 13, 2020",0.0,0.0,0.0,"Jun 30, 2023",4.0,SPAL,2019-2020,2023.0,serie-a
+20,Wojciech Szczesny,"Feb 11, 2020",124635.0,6481000.0,32405000.0,"Jun 30, 2024",5.0,Juventus,2019-2020,2024.0,serie-a
+21,Nicola Murru,"Feb 10, 2020",24923.0,1296000.0,6480000.0,"Jun 30, 2024",5.0,Sampdoria,2019-2020,2024.0,serie-a
+22,Davide Riccardi,"Jan 28, 2020",0.0,0.0,0.0,"Jun 30, 2020",1.0,Lecce,2019-2020,2020.0,serie-a
+23,Bruno Alves,"Jan 28, 2020",28481.0,1481000.0,2962000.0,"Jun 30, 2021",2.0,Parma,2019-2020,2021.0,serie-a
+24,Matteo Scozzarella,"Jan 27, 2020",10692.0,556000.0,1112000.0,"Jun 30, 2021",2.0,Parma,2019-2020,2021.0,serie-a
+25,Daniel Bessa,"Jan 24, 2020",0.0,0.0,0.0,"Dec 31, 2020",1.0,Hellas Verona,2019-2020,2020.0,serie-a
+26,Riccardo Sottil,"Jan 22, 2020",5346.0,278000.0,1390000.0,"Jun 30, 2024",5.0,Fiorentina,2019-2020,2024.0,serie-a
+27,Lubomir Tupta,"Jan 18, 2020",0.0,0.0,0.0,"Jun 30, 2020",1.0,Hellas Verona,2019-2020,2020.0,serie-a
+28,Bryan Cristante,"Jan 8, 2020",53423.0,2778000.0,13890000.0,"Jun 30, 2024",5.0,Roma,2019-2020,2024.0,serie-a
+29,Aleksandar Kolarov,"Jan 7, 2020",106846.0,5556000.0,11112000.0,"Jun 30, 2021",2.0,Roma,2019-2020,2021.0,serie-a
+30,Jhon Chancellor,"Jan 3, 2020",3692.0,192000.0,576000.0,"Jun 30, 2022",3.0,Brescia,2019-2020,2022.0,serie-a
+31,Fabio Quagliarella,"Dec 7, 2019",42731.0,2222000.0,4444000.0,"Jun 30, 2021",2.0,Sampdoria,2019-2020,2021.0,serie-a
+32,Luca Ranieri,"Nov 27, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Fiorentina,2019-2020,2020.0,serie-a
+33,Juan Cuadrado,"Nov 21, 2019",178077.0,9260000.0,27780000.0,"Jun 30, 2022",3.0,Juventus,2019-2020,2022.0,serie-a
+34,Leonardo Bonucci,"Nov 19, 2019",195865.0,10185000.0,50925000.0,"Jun 30, 2024",5.0,Juventus,2019-2020,2024.0,serie-a
+35,João Pedro,"Nov 7, 2019",28481.0,1481000.0,5924000.0,"Jun 30, 2023",4.0,Cagliari,2019-2020,2023.0,serie-a
+36,William Troost-Ekong,"Nov 6, 2019",14250.0,741000.0,2964000.0,"Jun 30, 2023",4.0,Udinese,2019-2020,2023.0,serie-a
+37,Christian Kouamé,"Oct 30, 2019",16019.0,833000.0,833000.0,"Jun 30, 2020",1.0,Genoa,2019-2020,2020.0,serie-a
+38,Daniele Dessena,"Oct 26, 2019",14250.0,741000.0,1482000.0,"Jun 30, 2021",2.0,Brescia,2019-2020,2021.0,serie-a
+39,Domenico Berardi,"Oct 23, 2019",35615.0,1852000.0,9260000.0,"Jun 30, 2024",5.0,Sassuolo,2019-2020,2024.0,serie-a
+40,Lorenzo Venuti,"Oct 18, 2019",10692.0,556000.0,2780000.0,"Jun 30, 2024",5.0,Fiorentina,2019-2020,2024.0,serie-a
+41,Massimiliano Mangraviti,"Oct 16, 2019",1423.0,74000.0,222000.0,"Jun 30, 2022",3.0,Brescia,2019-2020,2022.0,serie-a
+42,Rodrigo de Paul,"Oct 15, 2019",35577.0,1850000.0,9250000.0,"Jun 30, 2024",5.0,Udinese,2019-2020,2024.0,serie-a
+43,Ernesto Torregrossa,"Oct 12, 2019",16019.0,833000.0,2499000.0,"Jun 30, 2022",3.0,Brescia,2019-2020,2022.0,serie-a
+44,Gervinho,"Oct 11, 2019",35615.0,1852000.0,5556000.0,"Jun 30, 2022",3.0,Parma,2019-2020,2022.0,serie-a
+45,Gaetano Castrovilli,"Oct 10, 2019",7115.0,370000.0,1850000.0,"Jun 30, 2024",5.0,Fiorentina,2019-2020,2024.0,serie-a
+46,Joaquín Correa,"Oct 10, 2019",53423.0,2778000.0,13890000.0,"Jun 30, 2024",5.0,Lazio,2019-2020,2024.0,serie-a
+47,Leonardo Spinazzola,"Oct 5, 2019",106846.0,5556000.0,27780000.0,"Jun 30, 2024",5.0,Roma,2019-2020,2024.0,serie-a
+48,Felipe Caicedo,"Oct 1, 2019",60538.0,3148000.0,9444000.0,"Jun 30, 2022",3.0,Lazio,2019-2020,2022.0,serie-a
+49,Nikolas Spalek,"Sep 25, 2019",5346.0,278000.0,834000.0,"Jun 30, 2022",3.0,Brescia,2019-2020,2022.0,serie-a
+50,Gabriel Strefezza,"Sep 16, 2019",3558.0,185000.0,555000.0,"Jun 30, 2022",3.0,SPAL,2019-2020,2022.0,serie-a
+51,Dimitri Bisoli,"Sep 11, 2019",8904.0,463000.0,2315000.0,"Jun 30, 2024",5.0,Brescia,2019-2020,2024.0,serie-a
+52,Simone Pinna,"Sep 3, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Cagliari,2019-2020,2020.0,serie-a
+53,Mauro Icardi,"Sep 2, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Inter Milan,2019-2020,2020.0,serie-a
+54,João Mário,"Aug 26, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Inter Milan,2019-2020,2020.0,serie-a
+55,Federico Fazio,"Aug 20, 2019",89038.0,4630000.0,9260000.0,"Jun 30, 2021",2.0,Roma,2019-2020,2021.0,serie-a
+56,Filippo Falco,"Aug 19, 2019",28481.0,1481000.0,4443000.0,"Jun 30, 2022",3.0,Lecce,2019-2020,2022.0,serie-a
+57,Kingsley Michael,"Aug 18, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Bologna,2019-2020,2020.0,serie-a
+58,Diego Farias,"Aug 16, 2019",24923.0,1296000.0,2592000.0,"Jun 30, 2021",2.0,Cagliari,2019-2020,2021.0,serie-a
+59,Edin Dzeko,"Aug 16, 2019",178058.0,9259000.0,27777000.0,"Jun 30, 2022",3.0,Roma,2019-2020,2022.0,serie-a
+60,Cengiz Ünder,"Aug 15, 2019",89038.0,4630000.0,18520000.0,"Jun 30, 2023",4.0,Roma,2019-2020,2023.0,serie-a
+61,Nicolò Zaniolo,"Aug 14, 2019",89038.0,4630000.0,23150000.0,"Jun 30, 2024",5.0,Roma,2019-2020,2024.0,serie-a
+62,Francesco Rossi,"Aug 9, 2019",3558.0,185000.0,370000.0,"Jun 30, 2021",2.0,Atalanta,2019-2020,2021.0,serie-a
+63,Bartlomiej Dragowski,"Aug 1, 2019",26712.0,1389000.0,5556000.0,"Jun 30, 2023",4.0,Fiorentina,2019-2020,2023.0,serie-a
+64,Lyanco,"Jul 26, 2019",21365.0,1111000.0,5555000.0,"Jun 30, 2024",5.0,Torino,2019-2020,2024.0,serie-a
+65,Gaetano Monachello,"Jul 25, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Atalanta,2019-2020,2020.0,serie-a
+66,Zan Majer,"Jul 21, 2019",17250.0,897000.0,2691000.0,"Jun 30, 2022",3.0,Lecce,2019-2020,2022.0,serie-a
+67,Armando Izzo,"Jul 19, 2019",60538.0,3148000.0,15740000.0,"Jun 30, 2024",5.0,Torino,2019-2020,2024.0,serie-a
+68,Sofian Kiyine,"Jul 17, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Lazio,2019-2020,2020.0,serie-a
+69,Roberto Inglese,"Jul 16, 2019",49865.0,2593000.0,12965000.0,"Jun 30, 2024",5.0,Parma,2019-2020,2024.0,serie-a
+70,Jacopo Segre,"Jul 13, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Torino,2019-2020,2020.0,serie-a
+71,Jacopo Petriccione,"Jul 12, 2019",17808.0,926000.0,3704000.0,"Jun 30, 2023",4.0,Lecce,2019-2020,2023.0,serie-a
+72,Antonino Barillà,"Jul 12, 2019",12827.0,667000.0,2001000.0,"Jun 30, 2022",3.0,Parma,2019-2020,2022.0,serie-a
+73,Zan Celar,"Jul 11, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Roma,2019-2020,2020.0,serie-a
+74,Alessandro Berardi,"Jul 10, 2019",5346.0,278000.0,556000.0,"Jun 30, 2021",2.0,Hellas Verona,2019-2020,2021.0,serie-a
+75,Alberto Grassi,"Jul 10, 2019",28481.0,1481000.0,1481000.0,"Jun 30, 2020",1.0,Parma,2019-2020,2020.0,serie-a
+76,Luigi Sepe,"Jul 10, 2019",28481.0,1481000.0,1481000.0,"Jun 30, 2020",1.0,Parma,2019-2020,2020.0,serie-a
+77,Mattia Zaccagni,"Jul 9, 2019",14250.0,741000.0,2223000.0,"Jun 30, 2022",3.0,Hellas Verona,2019-2020,2022.0,serie-a
+78,Rade Krunic,"Jul 8, 2019",39173.0,2037000.0,10185000.0,"Jun 30, 2024",5.0,AC Milan,2019-2020,2024.0,serie-a
+79,Sebastiano Esposito,"Jul 5, 2019",3558.0,185000.0,555000.0,"Jun 30, 2022",3.0,Inter Milan,2019-2020,2022.0,serie-a
+80,Mario Pasalic,"Jul 3, 2019",46288.0,2407000.0,2407000.0,"Jun 30, 2020",1.0,Atalanta,2019-2020,2020.0,serie-a
+81,Daniele Gastaldello,"Jul 2, 2019",10692.0,556000.0,556000.0,"Jun 30, 2020",1.0,Brescia,2019-2020,2020.0,serie-a
+82,Davide Marfella,"Jul 2, 2019",0.0,0.0,0.0,"Jun 30, 2022",3.0,Napoli,2019-2020,2022.0,serie-a
+83,Luigi Liguori,"Jul 2, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Napoli,2019-2020,2020.0,serie-a
+84,Nicola Borghetto,"Jun 29, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Hellas Verona,2019-2020,2020.0,serie-a
+85,Rayyan Baniya,"Jun 29, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Hellas Verona,2019-2020,2020.0,serie-a
+86,Riccardo Tosi,"Jun 29, 2019",0.0,0.0,0.0,"Jun 30, 2020",1.0,Hellas Verona,2019-2020,2020.0,serie-a
+87,Daniele Padelli,"Jun 28, 2019",17808.0,926000.0,926000.0,"Jun 30, 2020",1.0,Inter Milan,2019-2020,2020.0,serie-a
+88,Tommaso Berni,"Jun 27, 2019",7115.0,370000.0,370000.0,"Jun 30, 2020",1.0,Inter Milan,2019-2020,2020.0,serie-a
+89,Luca Ceppitelli,"Jun 24, 2019",35615.0,1852000.0,3704000.0,"Jun 30, 2021",2.0,Cagliari,2019-2020,2021.0,serie-a
+90,Rodrigo Bentancur,"Jun 22, 2019",89038.0,4630000.0,23150000.0,"Jun 30, 2024",5.0,Juventus,2019-2020,2024.0,serie-a
+91,Antonio Rosati,"Jun 21, 2019",5346.0,278000.0,556000.0,"Jun 30, 2021",2.0,Torino,2019-2020,2021.0,serie-a
+92,Matteo Politano,"Jun 19, 2019",56981.0,2963000.0,5926000.0,"Jun 30, 2021",2.0,Inter Milan,2019-2020,2021.0,serie-a
+0,Alessandro Matri,"May 25, 2019",35615.0,1852000.0,1852000.0,"Jun 30, 2020",1.0,Sassuolo,2018-2019,2020.0,serie-a
+1,Gianluca Pegolo,"May 25, 2019",17808.0,926000.0,926000.0,"Jun 30, 2020",1.0,Sassuolo,2018-2019,2020.0,serie-a
+2,Rafael de Andrade Bittencourt,"May 21, 2019",10692.0,556000.0,556000.0,"Jun 30, 2020",1.0,Cagliari,2018-2019,2020.0,serie-a
+3,Milan Skriniar,"May 16, 2019",106846.0,5556000.0,22224000.0,"Jun 30, 2023",4.0,Inter Milan,2018-2019,2023.0,serie-a
+4,Édgar Barreto,"May 8, 2019",23154.0,1204000.0,1204000.0,"Jun 30, 2020",1.0,Sampdoria,2018-2019,2020.0,serie-a
+5,Alfred Gomis,"May 7, 2019",8904.0,463000.0,1389000.0,"Jun 30, 2022",3.0,SPAL,2018-2019,2022.0,serie-a
+6,Lucas Leiva,"May 4, 2019",81904.0,4259000.0,12777000.0,"Jun 30, 2022",3.0,Lazio,2018-2019,2022.0,serie-a
+7,Alessandro Plizzari,"Apr 30, 2019",7115.0,370000.0,1480000.0,"Jun 30, 2023",4.0,AC Milan,2018-2019,2023.0,serie-a
+8,Mario Mandzukic,"Apr 4, 2019",195865.0,10185000.0,20370000.0,"Jun 30, 2021",2.0,Juventus,2018-2019,2021.0,serie-a
+9,Daniele Rugani,"Mar 28, 2019",106846.0,5556000.0,22224000.0,"Jun 30, 2023",4.0,Juventus,2018-2019,2023.0,serie-a
+10,Federico Peluso,"Mar 12, 2019",24923.0,1296000.0,2592000.0,"Jun 30, 2021",2.0,Sassuolo,2018-2019,2021.0,serie-a
+11,Gianluca Scamacca,"Mar 12, 2019",6635.0,345000.0,1380000.0,"Jun 30, 2023",4.0,Sassuolo,2018-2019,2023.0,serie-a
+12,Cristian Ansaldi,"Mar 10, 2019",49865.0,2593000.0,5186000.0,"Jun 30, 2021",2.0,Torino,2018-2019,2021.0,serie-a
+13,Jasmin Kurtic,"Feb 14, 2019",21365.0,1111000.0,3333000.0,"Jun 30, 2022",3.0,SPAL,2018-2019,2022.0,serie-a
+14,Bruno Alves,"Feb 1, 2019",24923.0,1296000.0,1296000.0,"Jun 30, 2020",1.0,Parma,2018-2019,2020.0,serie-a
+15,Lorenzo Filippini,"Jan 30, 2019",1058.0,55000.0,55000.0,"Jun 30, 2019",1.0,Lazio,2018-2019,2019.0,serie-a
+16,Fabio Pisacane,"Jan 18, 2019",14250.0,741000.0,741000.0,"Jun 30, 2020",1.0,Cagliari,2018-2019,2020.0,serie-a
+17,Erick Pulgar,"Jan 11, 2019",14250.0,741000.0,2223000.0,"Jun 30, 2022",3.0,Bologna,2018-2019,2022.0,serie-a
+18,Gabriel Barbosa,"Jan 11, 2019",96154.0,5000000.0,5000000.0,"Dec 31, 2019",1.0,Inter Milan,2018-2019,2019.0,serie-a
+19,Fabio Quagliarella,"Dec 25, 2018",42731.0,2222000.0,2222000.0,"Jun 30, 2020",1.0,Sampdoria,2018-2019,2020.0,serie-a
+20,Alex Sandro,"Dec 20, 2018",99712.0,5185000.0,20740000.0,"Jun 30, 2023",4.0,Juventus,2018-2019,2023.0,serie-a
+21,Dennis Praet,"Nov 29, 2018",49865.0,2593000.0,5186000.0,"Jun 30, 2021",2.0,Sampdoria,2018-2019,2021.0,serie-a
+22,Iago Falque,"Nov 19, 2018",53423.0,2778000.0,8334000.0,"Jun 30, 2022",3.0,Torino,2018-2019,2022.0,serie-a
+23,Gennaro Tutino,"Nov 10, 2018",8192.0,426000.0,426000.0,"Jun 30, 2019",1.0,Napoli,2018-2019,2019.0,serie-a
+24,Joachim Andersen,"Nov 8, 2018",8904.0,463000.0,1389000.0,"Jun 30, 2022",3.0,Sampdoria,2018-2019,2022.0,serie-a
+25,Rodrigo de Paul,"Nov 2, 2018",16019.0,833000.0,3332000.0,"Jun 30, 2023",4.0,Udinese,2018-2019,2023.0,serie-a
+26,Antonio Candreva,"Oct 25, 2018",106846.0,5556000.0,11112000.0,"Jun 30, 2021",2.0,Inter Milan,2018-2019,2021.0,serie-a
+27,Dalbert,"Oct 25, 2018",42731.0,2222000.0,8888000.0,"Jun 30, 2023",4.0,Inter Milan,2018-2019,2023.0,serie-a
+28,João Miranda,"Oct 25, 2018",124635.0,6481000.0,6481000.0,"Jun 30, 2020",1.0,Inter Milan,2018-2019,2020.0,serie-a
+29,Marcelo Brozovic,"Oct 25, 2018",89038.0,4630000.0,13890000.0,"Jun 30, 2022",3.0,Inter Milan,2018-2019,2022.0,serie-a
+30,Matías Vecino,"Oct 25, 2018",89038.0,4630000.0,13890000.0,"Jun 30, 2022",3.0,Inter Milan,2018-2019,2022.0,serie-a
+31,Jens Stryger Larsen,"Oct 18, 2018",12462.0,648000.0,1944000.0,"Jun 30, 2022",3.0,Udinese,2018-2019,2022.0,serie-a
+32,Kevin Lasagna,"Oct 9, 2018",16019.0,833000.0,3332000.0,"Jun 30, 2023",4.0,Udinese,2018-2019,2023.0,serie-a
+33,Ciro Immobile,"Oct 1, 2018",81904.0,4259000.0,17036000.0,"Jun 30, 2023",4.0,Lazio,2018-2019,2023.0,serie-a
+34,Sergej Milinkovic-Savic,"Oct 1, 2018",64096.0,3333000.0,13332000.0,"Jun 30, 2023",4.0,Lazio,2018-2019,2023.0,serie-a
+35,Carlo Pinsoglio,"Sep 27, 2018",10692.0,556000.0,556000.0,"Jun 30, 2020",1.0,Juventus,2018-2019,2020.0,serie-a
+36,Svante Ingelsson,"Sep 24, 2018",7115.0,370000.0,1110000.0,"Jun 30, 2022",3.0,Udinese,2018-2019,2022.0,serie-a
+37,Sami Khedira,"Sep 12, 2018",142442.0,7407000.0,14814000.0,"Jun 30, 2021",2.0,Juventus,2018-2019,2021.0,serie-a
+38,Kalidou Koulibaly,"Sep 1, 2018",124635.0,6481000.0,25924000.0,"Jun 30, 2023",4.0,Napoli,2018-2019,2023.0,serie-a
+39,Miralem Pjanic,"Aug 21, 2018",231481.0,12037000.0,48148000.0,"Jun 30, 2023",4.0,Juventus,2018-2019,2023.0,serie-a
+40,Lorenco Simic,"Aug 15, 2018",3558.0,185000.0,185000.0,"Jun 30, 2019",1.0,SPAL,2018-2019,2019.0,serie-a
+41,Davide Biraschi,"Aug 9, 2018",16019.0,833000.0,2499000.0,"Jun 30, 2022",3.0,Genoa,2018-2019,2022.0,serie-a
+42,Claud Adjapong,"Aug 9, 2018",12462.0,648000.0,2592000.0,"Jun 30, 2023",4.0,Sassuolo,2018-2019,2023.0,serie-a
+43,Giacomo Raspadori,"Aug 9, 2018",1788.0,93000.0,279000.0,"Jun 30, 2022",3.0,Sassuolo,2018-2019,2022.0,serie-a
+44,Francisco Sierralta,"Aug 6, 2018",5346.0,278000.0,278000.0,"Jun 30, 2019",1.0,Parma,2018-2019,2019.0,serie-a
+45,Raúl Asencio,"Aug 5, 2018",1423.0,74000.0,74000.0,"Jun 30, 2019",1.0,Genoa,2018-2019,2019.0,serie-a
+46,Filip Helander,"Aug 3, 2018",17808.0,926000.0,2778000.0,"Jun 30, 2022",3.0,Bologna,2018-2019,2022.0,serie-a
+47,Patric,"Aug 3, 2018",28481.0,1481000.0,4443000.0,"Jun 30, 2022",3.0,Lazio,2018-2019,2022.0,serie-a
+48,Alessandro Florenzi,"Aug 2, 2018",99712.0,5185000.0,20740000.0,"Jun 30, 2023",4.0,Roma,2018-2019,2023.0,serie-a
+49,Diego Farias,"Jul 31, 2018",17404.0,905000.0,905000.0,"Jun 30, 2019",1.0,Cagliari,2018-2019,2019.0,serie-a
+50,Francesco Vicari,"Jul 31, 2018",14250.0,741000.0,2223000.0,"Jun 30, 2022",3.0,SPAL,2018-2019,2022.0,serie-a
+51,Filippo Costa,"Jul 27, 2018",12462.0,648000.0,1296000.0,"Jun 30, 2021",2.0,SPAL,2018-2019,2021.0,serie-a
+52,Cristian Hadžiosmanović,"Jul 23, 2018",577.0,30000.0,30000.0,"Jun 30, 2019",1.0,Sampdoria,2018-2019,2019.0,serie-a
+53,Giammario Piscitella,"Jul 21, 2018",3365.0,175000.0,350000.0,"Jun 30, 2021",2.0,Roma,2018-2019,2021.0,serie-a
+54,Mattia Trovato,"Jul 18, 2018",3115.0,162000.0,162000.0,"Jun 30, 2019",1.0,Fiorentina,2018-2019,2019.0,serie-a
+55,Rogério,"Jul 17, 2018",12462.0,648000.0,648000.0,"Jun 30, 2019",1.0,Sassuolo,2018-2019,2019.0,serie-a
+56,Andrea Seculin,"Jul 14, 2018",7115.0,370000.0,740000.0,"Jun 30, 2021",2.0,Chievo Verona,2018-2019,2021.0,serie-a
+57,Alessandro Bastoni,"Jul 14, 2018",14250.0,741000.0,741000.0,"Jun 30, 2019",1.0,Inter Milan,2018-2019,2019.0,serie-a
+58,Angelo da Costa,"Jul 11, 2018",12462.0,648000.0,648000.0,"Jun 30, 2020",1.0,Bologna,2018-2019,2020.0,serie-a
+59,Sasa Lukic,"Jul 10, 2018",14250.0,741000.0,2964000.0,"Jun 30, 2023",4.0,Torino,2018-2019,2023.0,serie-a
+60,Sergio Pellissier,"Jul 9, 2018",12462.0,648000.0,648000.0,"Jun 30, 2019",1.0,Chievo Verona,2018-2019,2019.0,serie-a
+61,Salvatore Sirigu,"Jul 7, 2018",60538.0,3148000.0,9444000.0,"Jun 30, 2022",3.0,Torino,2018-2019,2022.0,serie-a
+62,Antonino La Gumina,"Jul 6, 2018",17808.0,926000.0,3704000.0,"Jun 30, 2023",4.0,Empoli,2018-2019,2023.0,serie-a
+63,Giovanni Di Lorenzo,"Jul 6, 2018",10692.0,556000.0,1668000.0,"Jun 30, 2022",3.0,Empoli,2018-2019,2022.0,serie-a
+64,Godfred Donsah,"Jul 5, 2018",30269.0,1574000.0,4722000.0,"Jun 30, 2022",3.0,Bologna,2018-2019,2022.0,serie-a
+65,Fabián Ruiz,"Jul 5, 2018",53423.0,2778000.0,11112000.0,"Jun 30, 2023",4.0,Napoli,2018-2019,2023.0,serie-a
+66,Giacomo Ricci,"Jul 4, 2018",2269.0,118000.0,118000.0,"Jun 30, 2019",1.0,Parma,2018-2019,2019.0,serie-a
+67,Levan Mchedlidze,"Jul 3, 2018",10692.0,556000.0,556000.0,"Jun 30, 2019",1.0,Empoli,2018-2019,2019.0,serie-a
+68,Matteo Brighi,"Jul 3, 2018",5346.0,278000.0,278000.0,"Jun 30, 2019",1.0,Empoli,2018-2019,2019.0,serie-a
+69,Alessandro Piu,"Jul 1, 2018",1673.0,87000.0,87000.0,"Jun 30, 2019",1.0,Empoli,2018-2019,2019.0,serie-a
